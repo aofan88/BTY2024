@@ -91,7 +91,7 @@ proxies:
   - {"name":"🇸🇬 SG新加坡02｜无限流量","type":"trojan","server":"dosg1.bty2024.me","port":33989,"udp":true,"password":"6wUFvQj6vv","sni":"dosg1.bty2024.me","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇸🇬 SG新加坡03｜无限流量","type":"vless","server":"206.189.87.38","port":36568,"udp":true,"uuid":"d6d52708-dd7c-4b4c-c822-944f2c9f8feb","tls":true,"servername":"www.se.com","flow":"xtls-rprx-vision","network":"tcp","reality-opts":{"public-key":"cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA"},"client-fingerprint":"chrome"}
   - {"name":"🇸🇬 SG新加坡04｜无限流量","type":"vmess","server":"206.189.87.38","port":49301,"cipher":"auto","uuid":"00553439-fb22-45af-ecd9-829aec768875","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/grtreyhwe23","headers":{"host":"{\"Host\":\"206.189.87.38\"}"}}}
-  - {"name":"🇦🇬🌈 ExpireDate：2024-08-01","type":"vmess","server":"sg-d.rcdn.link","port":81,"cipher":"auto","uuid":"86e970fe-fca9-4482-85f8-59e556a66137","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/masvod/public/2023/03/07/20230307_186bb7147ea_r1_1200k.mp4","headers":{"host":"{\"Host\":\"{\"Host\":\"%7B%22Host%22:%22%257B%2522Host%2522:%2522%25257B%252522Host%252522:%252522%2525257B%25252522Host%25252522:%25252522svideo.mfa.gov.cn%25252522%2525257D%252522%25257D%2522%257D%22%7D\"}\"}"}}}
+  - {"name":"🇦🇬🌈 ExpireDate：2024-08-03","type":"vmess","server":"sg-d.rcdn.link","port":81,"cipher":"auto","uuid":"86e970fe-fca9-4482-85f8-59e556a66137","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/masvod/public/2023/03/07/20230307_186bb7147ea_r1_1200k.mp4","headers":{"host":"{\"Host\":\"{\"Host\":\"%7B%22Host%22:%22%257B%2522Host%2522:%2522%25257B%252522Host%252522:%252522%2525257B%25252522Host%25252522:%25252522svideo.mfa.gov.cn%25252522%2525257D%252522%25257D%2522%257D%22%7D\"}\"}"}}}
   - {"name":"🇬🇬 C系列更换为hy2协议","type":"vmess","server":"sg-d.rcdn.link","port":81,"cipher":"auto","uuid":"86e970fe-fca9-4482-85f8-59e556a66137","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/masvod/public/2023/03/07/20230307_186bb7147ea_r1_1200k.mp4","headers":{"host":"{\"Host\":\"{\"Host\":\"%7B%22Host%22:%22%257B%2522Host%2522:%2522%25257B%252522Host%252522:%252522%2525257B%25252522Host%25252522:%25252522svideo.mfa.gov.cn%25252522%2525257D%252522%25257D%2522%257D%22%7D\"}\"}"}}}
   - {"name":"🇬🇬 请更新软件使用新节点","type":"vmess","server":"sg-d.rcdn.link","port":81,"cipher":"auto","uuid":"86e970fe-fca9-4482-85f8-59e556a66137","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/masvod/public/2023/03/07/20230307_186bb7147ea_r1_1200k.mp4","headers":{"host":"{\"Host\":\"{\"Host\":\"%7B%22Host%22:%22%257B%2522Host%2522:%2522%25257B%252522Host%252522:%252522%2525257B%25252522Host%25252522:%25252522svideo.mfa.gov.cn%25252522%2525257D%252522%25257D%2522%257D%22%7D\"}\"}"}}}
   - {"name":"🇸🇬新加坡C1","type":"trojan","server":"1sg0001.156786.xyz","port":718,"udp":true,"password":"9719c5c6-493d-4fd6-a0c1-6a3e6da75d1d","sni":"1sg0001.156786.xyz","skip-cert-verify":true,"network":"tcp"}
@@ -160,7 +160,7 @@ proxy-groups:
       - 🇸🇬 SG新加坡02｜无限流量
       - 🇸🇬 SG新加坡03｜无限流量
       - 🇸🇬 SG新加坡04｜无限流量
-      - 🇦🇬🌈 ExpireDate：2024-08-01
+      - 🇦🇬🌈 ExpireDate：2024-08-03
       - 🇬🇬 C系列更换为hy2协议
       - 🇬🇬 请更新软件使用新节点
       - 🇸🇬新加坡C1
@@ -239,7 +239,7 @@ proxy-groups:
       - 🇸🇬 SG新加坡02｜无限流量
       - 🇸🇬 SG新加坡03｜无限流量
       - 🇸🇬 SG新加坡04｜无限流量
-      - 🇦🇬🌈 ExpireDate：2024-08-01
+      - 🇦🇬🌈 ExpireDate：2024-08-03
       - 🇬🇬 C系列更换为hy2协议
       - 🇬🇬 请更新软件使用新节点
       - 🇸🇬新加坡C1
