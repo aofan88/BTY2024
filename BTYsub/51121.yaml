@@ -2,9 +2,9 @@
 # @BTYteam2024
 # mini_Fallback_TW 精簡帶轉移 Ver2.0
 # APP：Clash.Meta
-# DATE：2024-07-30 21:02:36
+# DATE：2024-07-31 21:41:03
 # MODEL：mini_Fallback_TW
-# COUNT：101
+# COUNT：105
 # TYPE：vmess, trojan, vless, hysteria2, ss
 ####################################
 # !!当前配置文件请使用基于 Clash.Meta 内核程序
@@ -94,6 +94,10 @@ proxies:
   - {"name":"🇸🇬SG新加坡D2｜六邊戰士","type":"vmess","server":"206.189.87.38","port":49301,"cipher":"auto","uuid":"00553439-fb22-45af-ecd9-829aec768875","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/grtreyhwe23"}}
   - {"name":"🇸🇬SG新加坡甲骨文｜加密","type":"vless","server":"168.138.187.98","port":49961,"udp":true,"uuid":"5a9d5512-ec9c-4970-eaa7-467ee5b5d676","tls":true,"servername":"www.cloudflare.com","flow":"xtls-rprx-vision","network":"tcp","reality-opts":{"public-key":"UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM"},"client-fingerprint":"chrome"}
   - {"name":"🇸🇬SG新加坡甲骨文｜卡車","type":"vmess","server":"168.138.187.98","port":49962,"cipher":"auto","uuid":"cc77d6dd-32bf-4030-cf6f-7b113e6a4f6f","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/sdawgadfgadf"}}
+  - {"name":"🇭🇰HK香港｜加密","type":"vless","server":"185.14.47.81","port":51123,"udp":true,"uuid":"32bc1739-6276-4040-972d-fcaf3fa1a178","tls":true,"servername":"se.com","flow":"xtls-rprx-vision","network":"tcp","reality-opts":{"public-key":"Z3ZGnAOdKkzJ07gR_7_0k9_iTTFP6paDOrqx1rN2LU4"},"client-fingerprint":"chrome"}
+  - {"name":"🇭🇰HK香港｜耐摔","type":"vmess","server":"185.14.47.81","port":51125,"cipher":"auto","uuid":"bd49963e-0518-4881-b4ca-f54c43f76e22","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/dnsjdicndiei"}}
+  - {"name":"🇭🇰HK香港｜穿墙","type":"vmess","server":"achkg3jul.bty2024.me","port":80,"cipher":"auto","uuid":"bd49963e-0518-4881-b4ca-f54c43f76e22","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/dnsjdicndiei"}}
+  - {"name":"🇭🇰HK香港｜优选","type":"vmess","server":"acjp.cloudflarest.link","port":80,"cipher":"auto","uuid":"bd49963e-0518-4881-b4ca-f54c43f76e22","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/dnsjdicndiei","headers":{"host":"achkg3jul.bty2024.me"}}}
   - {"name":"🇯🇵JP日本｜超級加密","type":"vless","server":"132.145.126.148","port":29953,"udp":true,"uuid":"86da0a5a-da97-4da3-c1af-dd71690051f3","tls":true,"servername":"www.se.com","flow":"xtls-rprx-vision","network":"tcp","reality-opts":{"public-key":"IiuIighvDsor2v-vb5s3IJbNiqwLw568auiqoXxc7FM"},"client-fingerprint":"chrome"}
   - {"name":"🇯🇵JP日本｜摔車流氓","type":"hysteria2","server":"132.145.126.148","port":29955,"password":"5161c3f2","sni":"www.bing.com","skip-cert-verify":true}
   - {"name":"🇯🇵JP日本｜摔爆摩托","type":"vmess","server":"132.145.126.148","port":29954,"cipher":"auto","uuid":"75d76079-2de9-4ac9-fcf6-9941aff816c6","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/967jhewrfg45t"}}
@@ -201,6 +205,10 @@ proxy-groups:
       - 🇸🇬SG新加坡D2｜六邊戰士
       - 🇸🇬SG新加坡甲骨文｜加密
       - 🇸🇬SG新加坡甲骨文｜卡車
+      - 🇭🇰HK香港｜加密
+      - 🇭🇰HK香港｜耐摔
+      - 🇭🇰HK香港｜穿墙
+      - 🇭🇰HK香港｜优选
       - 🇯🇵JP日本｜超級加密
       - 🇯🇵JP日本｜摔車流氓
       - 🇯🇵JP日本｜摔爆摩托
@@ -308,6 +316,10 @@ proxy-groups:
       - 🇸🇬SG新加坡D2｜六邊戰士
       - 🇸🇬SG新加坡甲骨文｜加密
       - 🇸🇬SG新加坡甲骨文｜卡車
+      - 🇭🇰HK香港｜加密
+      - 🇭🇰HK香港｜耐摔
+      - 🇭🇰HK香港｜穿墙
+      - 🇭🇰HK香港｜优选
       - 🇯🇵JP日本｜超級加密
       - 🇯🇵JP日本｜摔車流氓
       - 🇯🇵JP日本｜摔爆摩托
@@ -414,6 +426,10 @@ proxy-groups:
       - 🇸🇬SG新加坡D2｜六邊戰士
       - 🇸🇬SG新加坡甲骨文｜加密
       - 🇸🇬SG新加坡甲骨文｜卡車
+      - 🇭🇰HK香港｜加密
+      - 🇭🇰HK香港｜耐摔
+      - 🇭🇰HK香港｜穿墙
+      - 🇭🇰HK香港｜优选
       - 🇯🇵JP日本｜超級加密
       - 🇯🇵JP日本｜摔車流氓
       - 🇯🇵JP日本｜摔爆摩托
@@ -533,6 +549,10 @@ proxy-groups:
       - 🇸🇬SG新加坡D2｜六邊戰士
       - 🇸🇬SG新加坡甲骨文｜加密
       - 🇸🇬SG新加坡甲骨文｜卡車
+      - 🇭🇰HK香港｜加密
+      - 🇭🇰HK香港｜耐摔
+      - 🇭🇰HK香港｜穿墙
+      - 🇭🇰HK香港｜优选
       - 🇯🇵JP日本｜超級加密
       - 🇯🇵JP日本｜摔車流氓
       - 🇯🇵JP日本｜摔爆摩托
