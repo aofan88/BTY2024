@@ -2,9 +2,9 @@
 # @BTYteam2024
 # mini_Fallback_TW 精簡帶轉移 Ver2.0
 # APP：Clash
-# DATE：2024-08-01 19:16:03
+# DATE：2024-08-01 19:30:14
 # MODEL：mini_Fallback_TW
-# COUNT：3
+# COUNT：6
 # TYPE：vmess
 ####################################
 mixed-port: 7890
@@ -90,6 +90,9 @@ proxies:
   - {"name":"🇸🇬SG新加坡D1｜解锁本科","type":"vmess","server":"shopify.com.sg","port":2082,"cipher":"auto","uuid":"8e3ffde4-117c-4489-bd6c-31f52fe0b4ae","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/64322efgef","headers":{"host":"dosg1.bty2024.me"}}}
   - {"name":"DOsg3_1","type":"vmess","server":"visa.com.sg","port":443,"cipher":"auto","uuid":"0ba2c8ee-bf29-4204-d508-03ee25e8800f","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/asgafads","headers":{"host":"dosg3.bty2024.me"}}}
   - {"name":"DOsg3_2","type":"vmess","server":"shopify.com.sg","port":8080,"cipher":"auto","uuid":"0ba2c8ee-bf29-4204-d508-03ee25e8800f","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/asgafads","headers":{"host":"dosg3.bty2024.me"}}}
+  - {"name":"dosg3_1","type":"vmess","server":"152.42.229.10","port":45362,"cipher":"auto","uuid":"278292c0-e0e7-4233-8675-4006be665ddd","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
+  - {"name":"1111","type":"vmess","server":"vise.com.sg","port":80,"cipher":"auto","uuid":"0ba2c8ee-bf29-4204-d508-03ee25e8800f","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"headers":{"host":"dosg3.bty2024.me"}}}
+  - {"name":"/asgafads","type":"vmess","server":"152.42.229.10","port":51122,"cipher":"auto","uuid":"0ba2c8ee-bf29-4204-d508-03ee25e8800f","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":""}}
 proxy-groups:
   - name: 💚 選擇節點
     type: select
@@ -99,6 +102,9 @@ proxy-groups:
       - 🇸🇬SG新加坡D1｜解锁本科
       - DOsg3_1
       - DOsg3_2
+      - dosg3_1
+      - '1111'
+      - /asgafads
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -108,6 +114,9 @@ proxy-groups:
       - 🇸🇬SG新加坡D1｜解锁本科
       - DOsg3_1
       - DOsg3_2
+      - dosg3_1
+      - '1111'
+      - /asgafads
   - name: ‼️ 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -116,6 +125,9 @@ proxy-groups:
       - 🇸🇬SG新加坡D1｜解锁本科
       - DOsg3_1
       - DOsg3_2
+      - dosg3_1
+      - '1111'
+      - /asgafads
   - name: ⚠️ 裸奔直連
     type: select
     proxies:
@@ -137,6 +149,9 @@ proxy-groups:
       - 🇸🇬SG新加坡D1｜解锁本科
       - DOsg3_1
       - DOsg3_2
+      - dosg3_1
+      - '1111'
+      - /asgafads
 
 rules:
 # 本地/局域网地址
