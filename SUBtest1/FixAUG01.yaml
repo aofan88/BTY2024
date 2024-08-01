@@ -2,9 +2,9 @@
 # @BTYteam2024
 # mini_Fallback_TW 精簡帶轉移 Ver2.0
 # APP：Clash.Meta
-# DATE：2024-08-01 17:21:24
+# DATE：2024-08-01 17:35:46
 # MODEL：mini_Fallback_TW
-# COUNT：28
+# COUNT：27
 # TYPE：vmess, trojan, vless, hysteria2
 ####################################
 # !!当前配置文件请使用基于 Clash.Meta 内核程序
@@ -88,29 +88,28 @@ dns:
       - 0.0.0.0/32
 
 proxies:
-  - {"name":"🇸🇬SG新加坡D1｜解锁本科","type":"vmess","server":"shopify.com.sg","port":2082,"cipher":"auto","uuid":"8e3ffde4-117c-4489-bd6c-31f52fe0b4ae","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/64322efgef","headers":{"host":"dosg1.bty2024.me"}}}
+  - {"name":"🇸🇬SG新加坡D1｜解锁本科","type":"vmess","server":"shopify.com.sg","port":2082,"cipher":"auto","uuid":"8e3ffde4-117c-4489-bd6c-31f52fe0b4ae","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/64322efgef","headers":{"host":"{\"host\":\"dosg1.bty2024.me\"}"}}}
   - {"name":"🇸🇬SG新加坡D1｜木馬病毒","type":"trojan","server":"dosg1.bty2024.me","port":33989,"udp":true,"password":"6wUFvQj6vv","sni":"dosg1.bty2024.me","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇸🇬SG新加坡D2｜解锁本科","type":"vmess","server":"visa.com","port":2053,"cipher":"auto","uuid":"00553439-fb22-45af-ecd9-829aec768875","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/grtreyhwe23","headers":{"host":"dosg2.bty2024.me"}}}
-  - {"name":"🇸🇬SG新加坡D2｜超級加密","type":"vless","server":"206.189.87.38","port":36568,"uuid":"d6d52708-dd7c-4b4c-c822-944f2c9f8feb","tls":true,"servername":"www.se.com","flow":"xtls-rprx-vision","network":"tcp"}
+  - {"name":"🇸🇬SG新加坡D2｜解锁本科","type":"vmess","server":"visa.com.sg","port":443,"cipher":"auto","uuid":"00553439-fb22-45af-ecd9-829aec768875","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/grtreyhwe23","headers":{"host":"{\"host\":\"dosg2.bty2024.me\"}"}}}
+  - {"name":"🇸🇬SG新加坡D2｜超級加密","type":"vless","server":"206.189.87.38","port":36568,"udp":true,"uuid":"d6d52708-dd7c-4b4c-c822-944f2c9f8feb","tls":true,"servername":"www.se.com","flow":"xtls-rprx-vision","network":"tcp","reality-opts":{"public-key":"cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA"},"client-fingerprint":"chrome"}
   - {"name":"🇸🇬新加坡D3 | 直连龙宫","type":"vmess","server":"152.42.229.10","port":51122,"cipher":"auto","uuid":"0ba2c8ee-bf29-4204-d508-03ee25e8800f","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/asgafads"}}
   - {"name":"🇸🇬新加坡D3 | 本科签证","type":"vmess","server":"visa.com.sg","port":443,"cipher":"auto","uuid":"0ba2c8ee-bf29-4204-d508-03ee25e8800f","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/asgafads","headers":{"host":"dosg3.bty2024.me"}}}
-  - {"name":"🇸🇬SG新加坡D3 | 本科证书","type":"vmess","server":"shopify.com.sg","port":8080,"cipher":"auto","uuid":"0ba2c8ee-bf29-4204-d508-03ee25e8800f","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/asgafads","headers":{"host":"dosg3.bty2024.me"}}}
-  - {"name":"🇸🇬SG甲骨文｜本科咖啡","type":"vmess","server":"visa.com.sg","port":2082,"cipher":"auto","uuid":"cc77d6dd-32bf-4030-cf6f-7b113e6a4f6f","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/sdawgadfgadf","headers":{"host":"ducksg.bty2024.me"}}}
-  - {"name":"🇸🇬SG甲骨文｜电信优化*","type":"vmess","server":"162.159.248.226","port":2082,"cipher":"auto","uuid":"cc77d6dd-32bf-4030-cf6f-7b113e6a4f6f","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/sdawgadfgadf","headers":{"host":"ducksg.bty2024.me"}}}
-  - {"name":"🇸🇬SG甲骨文｜电信综合*","type":"vmess","server":"cdnt.bty2024.me","port":2086,"cipher":"auto","uuid":"cc77d6dd-32bf-4030-cf6f-7b113e6a4f6f","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/sdawgadfgadf","headers":{"host":"ducksg.bty2024.me"}}}
-  - {"name":"🇸🇬SG甲骨文｜三网优化*","type":"vmess","server":"cloudflare.182682.xyz","port":2082,"cipher":"auto","uuid":"cc77d6dd-32bf-4030-cf6f-7b113e6a4f6f","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/sdawgadfgadf","headers":{"host":"ducksg.bty2024.me"}}}
-  - {"name":"🇭🇰HK香港｜本科摩托","type":"vmess","server":"visa.com.hk","port":2086,"cipher":"auto","uuid":"bd49963e-0518-4881-b4ca-f54c43f76e22","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/dnsjdicndiei","headers":{"host":"achkg3jul.bty2024.me"}}}
-  - {"name":"🇭🇰HK香港｜电信综合*","type":"vmess","server":"cdnt.bty2024.me","port":2086,"cipher":"auto","uuid":"bd49963e-0518-4881-b4ca-f54c43f76e22","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/dnsjdicndiei","headers":{"host":"achkg3jul.bty2024.me"}}}
-  - {"name":"🇭🇰HK香港｜三网优化*","type":"vmess","server":"cloudflare.182682.xyz","port":2086,"cipher":"auto","uuid":"bd49963e-0518-4881-b4ca-f54c43f76e22","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/dnsjdicndiei","headers":{"host":"achkg3jul.bty2024.me"}}}
+  - {"name":"🇸🇬新加坡D3 | 本科证书","type":"vmess","server":"shopify.com.sg","port":8080,"cipher":"auto","uuid":"0ba2c8ee-bf29-4204-d508-03ee25e8800f","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/asgafads","headers":{"host":"dosg3.bty2024.me"}}}
+  - {"name":"🇸🇬SG甲骨文｜本科咖啡","type":"vmess","server":"visa.com.sg","port":2082,"cipher":"auto","uuid":"cc77d6dd-32bf-4030-cf6f-7b113e6a4f6f","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/sdawgadfgadf","headers":{"host":"{\"host\":\"ducksg.bty2024.me\"}"}}}
+  - {"name":"🇸🇬SG甲骨文｜电信优化*","type":"vmess","server":"162.159.248.226","port":2082,"cipher":"auto","uuid":"cc77d6dd-32bf-4030-cf6f-7b113e6a4f6f","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/sdawgadfgadf","headers":{"host":"{\"host\":\"ducksg.bty2024.me\"}"}}}
+  - {"name":"🇸🇬SG甲骨文｜电信综合*","type":"vmess","server":"cdnt.bty2024.me","port":2086,"cipher":"auto","uuid":"cc77d6dd-32bf-4030-cf6f-7b113e6a4f6f","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/sdawgadfgadf","headers":{"host":"{\"host\":\"ducksg.bty2024.me\"}"}}}
+  - {"name":"🇸🇬SG甲骨文｜三网优化*","type":"vmess","server":"cloudflare.182682.xyz","port":2082,"cipher":"auto","uuid":"cc77d6dd-32bf-4030-cf6f-7b113e6a4f6f","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/sdawgadfgadf","headers":{"host":"{\"host\":\"ducksg.bty2024.me\"}"}}}
+  - {"name":"🇭🇰HK香港｜本科摩托","type":"vmess","server":"visa.com.hk","port":2086,"cipher":"auto","uuid":"bd49963e-0518-4881-b4ca-f54c43f76e22","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/dnsjdicndiei","headers":{"host":"{\"host\":\"achkg3jul.bty2024.me\"}"}}}
+  - {"name":"🇭🇰HK香港｜电信综合*","type":"vmess","server":"cdnt.bty2024.me","port":2086,"cipher":"auto","uuid":"bd49963e-0518-4881-b4ca-f54c43f76e22","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/dnsjdicndiei","headers":{"host":"{\"host\":\"achkg3jul.bty2024.me\"}"}}}
+  - {"name":"🇭🇰HK香港｜三网优化*","type":"vmess","server":"cloudflare.182682.xyz","port":2086,"cipher":"auto","uuid":"bd49963e-0518-4881-b4ca-f54c43f76e22","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/dnsjdicndiei","headers":{"host":"{\"host\":\"achkg3jul.bty2024.me\"}"}}}
   - {"name":"🇯🇵JP日本｜摔爆本科","type":"vmess","server":"visa.co.jp","port":443,"cipher":"auto","uuid":"75d76079-2de9-4ac9-fcf6-9941aff816c6","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/967jhewrfg45t","headers":{"host":"duckjp1.bty2024.me"}}}
-  - {"name":"🇯🇵JP日本｜超級加密","type":"vless","server":"132.145.126.148","port":29953,"uuid":"86da0a5a-da97-4da3-c1af-dd71690051f3","tls":true,"servername":"www.se.com","flow":"xtls-rprx-vision","network":"tcp"}
+  - {"name":"🇯🇵JP日本｜超級加密","type":"vless","server":"132.145.126.148","port":29953,"udp":true,"uuid":"86da0a5a-da97-4da3-c1af-dd71690051f3","tls":true,"servername":"www.se.com","flow":"xtls-rprx-vision","network":"tcp","reality-opts":{"public-key":"IiuIighvDsor2v-vb5s3IJbNiqwLw568auiqoXxc7FM"},"client-fingerprint":"chrome"}
   - {"name":"🇯🇵JP日本｜摔車流氓","type":"hysteria2","server":"132.145.126.148","port":29955,"password":"5161c3f2","sni":"www.bing.com","skip-cert-verify":true}
   - {"name":"🇸🇬新加坡C1","type":"trojan","server":"1sg0001.156786.xyz","port":718,"udp":true,"password":"9719c5c6-493d-4fd6-a0c1-6a3e6da75d1d","sni":"1sg0001.156786.xyz","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇸🇬新加坡C2","type":"trojan","server":"1sgmax02.156786.xyz","port":719,"udp":true,"password":"9719c5c6-493d-4fd6-a0c1-6a3e6da75d1d","sni":"1sgmax02.156786.xyz","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇸🇬新加坡C3","type":"trojan","server":"2sgmax02.156786.xyz","port":719,"udp":true,"password":"9719c5c6-493d-4fd6-a0c1-6a3e6da75d1d","sni":"2sgmax02.156786.xyz","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇸🇬 新加坡L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12024,"udp":true,"password":"40a4c7f0-7df7-42b8-bc16-90fa0c15167a","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇸🇬 新加坡L2","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12022,"udp":true,"password":"40a4c7f0-7df7-42b8-bc16-90fa0c15167a","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇸🇬 新加坡L3","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12023,"udp":true,"password":"40a4c7f0-7df7-42b8-bc16-90fa0c15167a","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇹🇼台湾C3 | 解锁流媒体","type":"trojan","server":"2gzdx21.156786.xyz","port":706,"udp":true,"password":"9719c5c6-493d-4fd6-a0c1-6a3e6da75d1d","sni":"2gzdx21.156786.xyz","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇹🇼台湾C4 | 解锁流媒体","type":"trojan","server":"tw5.170203.xyz","port":2222,"udp":true,"password":"9719c5c6-493d-4fd6-a0c1-6a3e6da75d1d","sni":"tw5.170203.xyz","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇹🇼台湾C5 | 解锁流媒体","type":"trojan","server":"6gzdx2.233235.xyz","port":712,"udp":true,"password":"9719c5c6-493d-4fd6-a0c1-6a3e6da75d1d","sni":"6gzdx2.233235.xyz","skip-cert-verify":true,"network":"tcp"}
@@ -128,7 +127,7 @@ proxy-groups:
       - 🇸🇬SG新加坡D2｜超級加密
       - 🇸🇬新加坡D3 | 直连龙宫
       - 🇸🇬新加坡D3 | 本科签证
-      - 🇸🇬SG新加坡D3 | 本科证书
+      - 🇸🇬新加坡D3 | 本科证书
       - 🇸🇬SG甲骨文｜本科咖啡
       - 🇸🇬SG甲骨文｜电信优化*
       - 🇸🇬SG甲骨文｜电信综合*
@@ -144,7 +143,6 @@ proxy-groups:
       - 🇸🇬新加坡C3
       - 🇸🇬 新加坡L1
       - 🇸🇬 新加坡L2
-      - 🇸🇬 新加坡L3
       - 🇹🇼台湾C3 | 解锁流媒体
       - 🇹🇼台湾C4 | 解锁流媒体
       - 🇹🇼台湾C5 | 解锁流媒体
@@ -162,7 +160,7 @@ proxy-groups:
       - 🇸🇬SG新加坡D2｜超級加密
       - 🇸🇬新加坡D3 | 直连龙宫
       - 🇸🇬新加坡D3 | 本科签证
-      - 🇸🇬SG新加坡D3 | 本科证书
+      - 🇸🇬新加坡D3 | 本科证书
       - 🇸🇬SG甲骨文｜本科咖啡
       - 🇸🇬SG甲骨文｜电信优化*
       - 🇸🇬SG甲骨文｜电信综合*
@@ -178,7 +176,6 @@ proxy-groups:
       - 🇸🇬新加坡C3
       - 🇸🇬 新加坡L1
       - 🇸🇬 新加坡L2
-      - 🇸🇬 新加坡L3
       - 🇹🇼台湾C3 | 解锁流媒体
       - 🇹🇼台湾C4 | 解锁流媒体
       - 🇹🇼台湾C5 | 解锁流媒体
@@ -195,7 +192,7 @@ proxy-groups:
       - 🇸🇬SG新加坡D2｜超級加密
       - 🇸🇬新加坡D3 | 直连龙宫
       - 🇸🇬新加坡D3 | 本科签证
-      - 🇸🇬SG新加坡D3 | 本科证书
+      - 🇸🇬新加坡D3 | 本科证书
       - 🇸🇬SG甲骨文｜本科咖啡
       - 🇸🇬SG甲骨文｜电信优化*
       - 🇸🇬SG甲骨文｜电信综合*
@@ -211,7 +208,6 @@ proxy-groups:
       - 🇸🇬新加坡C3
       - 🇸🇬 新加坡L1
       - 🇸🇬 新加坡L2
-      - 🇸🇬 新加坡L3
       - 🇹🇼台湾C3 | 解锁流媒体
       - 🇹🇼台湾C4 | 解锁流媒体
       - 🇹🇼台湾C5 | 解锁流媒体
@@ -241,7 +237,7 @@ proxy-groups:
       - 🇸🇬SG新加坡D2｜超級加密
       - 🇸🇬新加坡D3 | 直连龙宫
       - 🇸🇬新加坡D3 | 本科签证
-      - 🇸🇬SG新加坡D3 | 本科证书
+      - 🇸🇬新加坡D3 | 本科证书
       - 🇸🇬SG甲骨文｜本科咖啡
       - 🇸🇬SG甲骨文｜电信优化*
       - 🇸🇬SG甲骨文｜电信综合*
@@ -257,7 +253,6 @@ proxy-groups:
       - 🇸🇬新加坡C3
       - 🇸🇬 新加坡L1
       - 🇸🇬 新加坡L2
-      - 🇸🇬 新加坡L3
       - 🇹🇼台湾C3 | 解锁流媒体
       - 🇹🇼台湾C4 | 解锁流媒体
       - 🇹🇼台湾C5 | 解锁流媒体
