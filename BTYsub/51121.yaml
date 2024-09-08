@@ -2,9 +2,9 @@
 # @BTYteam2024
 # mini_Fallback_TW 精簡帶轉移 Ver2.0
 # APP：Clash.Meta
-# DATE：2024-09-08 22:40:31
+# DATE：2024-09-08 22:56:59
 # MODEL：mini_Fallback_TW
-# COUNT：107
+# COUNT：108
 # TYPE：vmess, trojan, hysteria2, ss, vless
 ####################################
 # !!当前配置文件请使用基于 Clash.Meta 内核程序
@@ -95,6 +95,7 @@ proxies:
   - {"name":"🇸🇬SG新加坡A4 | 三网优化","type":"vmess","server":"cloudflare.182682.xyz","port":80,"cipher":"auto","uuid":"325c7e6a-ea0b-4e16-e0d0-a5db7f66b195","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"azsg_1.bty2024.me"}}}
   - {"name":"🇸🇬SG新加坡A4 | 优选解锁","type":"vmess","server":"visa.com.sg","port":80,"cipher":"auto","uuid":"325c7e6a-ea0b-4e16-e0d0-a5db7f66b195","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"azsg_1.bty2024.me"}}}
   - {"name":"🇧🇷巴西甲骨文 | 优化解锁","type":"vmess","server":"visa.com","port":80,"cipher":"auto","uuid":"f1278d1d-7160-4c35-c03e-39fd94518a41","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"duckbr.bty2024.me"}}}
+  - {"name":"🇺🇸US美国 | 优化解锁","type":"vmess","server":"visa.com","port":80,"cipher":"auto","uuid":"f67c96ba-95ae-490c-f329-abc4f1987945","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"dous1.bty2024.me"}}}
   - {"name":"🇸🇬💀新加坡AWS｜R.I.P.🪦","type":"vmess","server":"vm-sg7.8top.top","port":80,"cipher":"auto","uuid":"bcb59a75-cecb-4b89-9819-f6cc9a4ee80c","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/masvod/public/2023/03/22/20230322_187068db3d6_r1_1200k.mp4","headers":{"host":"{\"host\":\"{\\\"host\\\":\\\"{\\\\\\\"host\\\\\\\":\\\\\\\"svideo.mfa.gov.cn\\\\\\\"}\\\"}\"}"}}}
   - {"name":"🇬🇬精神鸡头🌴快乐欧卡🚛","type":"vmess","server":"sg-d.rcdn.link","port":81,"cipher":"auto","uuid":"86e970fe-fca9-4482-85f8-59e556a66137","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/masvod/public/2023/03/07/20230307_186bb7147ea_r1_1200k.mp4","headers":{"host":"{\"host\":\"{\\\"host\\\":\\\"{\\\\\\\"host\\\\\\\":\\\\\\\"{\\\\\\\\\\\\\\\"Host\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"{\\\\\\\\\\\\\\\"Host\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"{\\\\\\\"Host\\\\\\\":\\\\\\\"{\\\"Host\\\":\\\"{\\\"Host\\\":\\\"{\\\"Host\\\":\\\"svideo.mfa.gov.cn\\\"}\\\"}\\\"}\\\\\\\"}\\\\\\\\\\\\\\\"}\\\\\\\\\\\\\\\"}\\\\\\\"}\\\"}\"}"}}}
   - {"name":"🇬🇬FixDate：1989.6.4","type":"vmess","server":"sg-d.rcdn.link","port":81,"cipher":"auto","uuid":"86e970fe-fca9-4482-85f8-59e556a66137","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/masvod/public/2023/03/07/20230307_186bb7147ea_r1_1200k.mp4","headers":{"host":"{\"host\":\"{\\\"host\\\":\\\"{\\\\\\\"host\\\\\\\":\\\\\\\"{\\\\\\\\\\\\\\\"Host\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"{\\\\\\\\\\\\\\\"Host\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"svideo.mfa.gov.cn\\\\\\\\\\\\\\\"}\\\\\\\\\\\\\\\"}\\\\\\\"}\\\"}\"}"}}}
@@ -208,6 +209,7 @@ proxy-groups:
       - 🇸🇬SG新加坡A4 | 三网优化
       - 🇸🇬SG新加坡A4 | 优选解锁
       - 🇧🇷巴西甲骨文 | 优化解锁
+      - 🇺🇸US美国 | 优化解锁
       - 🇸🇬💀新加坡AWS｜R.I.P.🪦
       - 🇬🇬精神鸡头🌴快乐欧卡🚛
       - 🇬🇬FixDate：1989.6.4
@@ -321,6 +323,7 @@ proxy-groups:
       - 🇸🇬SG新加坡A4 | 三网优化
       - 🇸🇬SG新加坡A4 | 优选解锁
       - 🇧🇷巴西甲骨文 | 优化解锁
+      - 🇺🇸US美国 | 优化解锁
       - 🇸🇬💀新加坡AWS｜R.I.P.🪦
       - 🇬🇬精神鸡头🌴快乐欧卡🚛
       - 🇬🇬FixDate：1989.6.4
@@ -433,6 +436,7 @@ proxy-groups:
       - 🇸🇬SG新加坡A4 | 三网优化
       - 🇸🇬SG新加坡A4 | 优选解锁
       - 🇧🇷巴西甲骨文 | 优化解锁
+      - 🇺🇸US美国 | 优化解锁
       - 🇸🇬💀新加坡AWS｜R.I.P.🪦
       - 🇬🇬精神鸡头🌴快乐欧卡🚛
       - 🇬🇬FixDate：1989.6.4
@@ -558,6 +562,7 @@ proxy-groups:
       - 🇸🇬SG新加坡A4 | 三网优化
       - 🇸🇬SG新加坡A4 | 优选解锁
       - 🇧🇷巴西甲骨文 | 优化解锁
+      - 🇺🇸US美国 | 优化解锁
       - 🇸🇬💀新加坡AWS｜R.I.P.🪦
       - 🇬🇬精神鸡头🌴快乐欧卡🚛
       - 🇬🇬FixDate：1989.6.4
