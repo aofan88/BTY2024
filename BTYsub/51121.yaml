@@ -2,10 +2,10 @@
 # @BTYteam2024
 # mini_Fallback_TW 精簡帶轉移 Ver2.0
 # APP：Clash.Meta
-# DATE：2024-09-04 20:13:56
+# DATE：2024-09-08 22:39:53
 # MODEL：mini_Fallback_TW
-# COUNT：106
-# TYPE：vmess, hysteria2, vless, trojan, ss
+# COUNT：87
+# TYPE：vmess, ss, trojan, hysteria2
 ####################################
 # !!当前配置文件请使用基于 Clash.Meta 内核程序
 mixed-port: 7890
@@ -88,34 +88,15 @@ dns:
       - 0.0.0.0/32
 
 proxies:
-  - {"name":"🇸🇬SG新加坡D1 | 优选解锁","type":"vmess","server":"visa.com.sg","port":8080,"cipher":"auto","uuid":"949ca3ff-04fb-4bac-dfaf-d0afe2c66f48","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"dosg1.bty2024.me"}}}
-  - {"name":"🇸🇬SG新加坡D1 | 三网优化","type":"vmess","server":"cloudflare.182682.xyz","port":8080,"cipher":"auto","uuid":"949ca3ff-04fb-4bac-dfaf-d0afe2c66f48","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"dosg1.bty2024.me"}}}
-  - {"name":"🇸🇬SG甲骨文02 | 优化解锁","type":"vmess","server":"visa.com.sg","port":2082,"cipher":"auto","uuid":"27ab7a8e-f3bc-4d57-c464-109e02917ac1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"ducksg2.bty2024.me"}}}
-  - {"name":"🇸🇬SG甲骨文02 | 三网优化","type":"vmess","server":"cloudflare.182682.xyz","port":8080,"cipher":"auto","uuid":"27ab7a8e-f3bc-4d57-c464-109e02917ac1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"ducksg2.bty2024.me"}}}
-  - {"name":"🇧🇷巴西甲骨文 | 优化解锁","type":"vmess","server":"visa.com","port":80,"cipher":"auto","uuid":"f1278d1d-7160-4c35-c03e-39fd94518a41","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"duckbr.bty2024.me"}}}
-  - {"name":"🇸🇬💀新加坡AWS｜R.I.P.🪦","type":"vmess","server":"vm-sg7.8top.top","port":80,"cipher":"auto","uuid":"bcb59a75-cecb-4b89-9819-f6cc9a4ee80c","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/masvod/public/2023/03/22/20230322_187068db3d6_r1_1200k.mp4","headers":{"host":"{\"host\":\"{\\\"host\\\":\\\"{\\\\\\\"host\\\\\\\":\\\\\\\"svideo.mfa.gov.cn\\\\\\\"}\\\"}\"}"}}}
-  - {"name":"🇬🇬精神鸡头🌴快乐欧卡🚛","type":"vmess","server":"sg-d.rcdn.link","port":81,"cipher":"auto","uuid":"86e970fe-fca9-4482-85f8-59e556a66137","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/masvod/public/2023/03/07/20230307_186bb7147ea_r1_1200k.mp4","headers":{"host":"{\"host\":\"{\\\"host\\\":\\\"{\\\\\\\"host\\\\\\\":\\\\\\\"{\\\\\\\\\\\\\\\"Host\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"{\\\\\\\\\\\\\\\"Host\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"{\\\\\\\"Host\\\\\\\":\\\\\\\"{\\\"Host\\\":\\\"{\\\"Host\\\":\\\"{\\\"Host\\\":\\\"svideo.mfa.gov.cn\\\"}\\\"}\\\"}\\\\\\\"}\\\\\\\\\\\\\\\"}\\\\\\\\\\\\\\\"}\\\\\\\"}\\\"}\"}"}}}
-  - {"name":"🇬🇬FixDate：1989.6.4","type":"vmess","server":"sg-d.rcdn.link","port":81,"cipher":"auto","uuid":"86e970fe-fca9-4482-85f8-59e556a66137","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/masvod/public/2023/03/07/20230307_186bb7147ea_r1_1200k.mp4","headers":{"host":"{\"host\":\"{\\\"host\\\":\\\"{\\\\\\\"host\\\\\\\":\\\\\\\"{\\\\\\\\\\\\\\\"Host\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"{\\\\\\\\\\\\\\\"Host\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"svideo.mfa.gov.cn\\\\\\\\\\\\\\\"}\\\\\\\\\\\\\\\"}\\\\\\\"}\\\"}\"}"}}}
-  - {"name":"Y晓解系列","type":"vmess","server":"127.0.0.1","port":81,"cipher":"auto","uuid":"7351126f-8513-4ffe-8e9c-555068a8f199","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇸🇬新加坡Y1","type":"hysteria2","server":"168.138.188.106","port":39555,"password":"372a416d-af54-4f9d-9454-72d2ce9f5bde","sni":"www.bing.com","skip-cert-verify":true}
-  - {"name":"🇸🇬新加坡Y2","type":"hysteria2","server":"168.138.184.187","port":54850,"password":"372a416d-af54-4f9d-9454-72d2ce9f5bde","sni":"www.bing.com","skip-cert-verify":true}
-  - {"name":"🇹🇼台湾Y1","type":"vless","server":"3bd9.55dba.e048.f65-fef1f.yfjcs.com","port":443,"uuid":"372a416d-af54-4f9d-9454-72d2ce9f5bde","tls":true,"servername":"tw.xn--4gq62f52gppi29k.com"}
-  - {"name":"🇭🇰香港Y1","type":"vless","server":"3bd9.55dca.e048.f65-fef1f.yfjcs.com","port":443,"uuid":"372a416d-af54-4f9d-9454-72d2ce9f5bde","tls":true,"servername":"yfhk1.xn--4gq62f52gppi29k.com"}
-  - {"name":"🇯🇵日本Y2","type":"hysteria2","server":"138.2.31.176","port":39813,"password":"372a416d-af54-4f9d-9454-72d2ce9f5bde","sni":"www.bing.com","skip-cert-verify":true}
-  - {"name":"🇰🇷韩国Y2","type":"hysteria2","server":"150.230.253.68","port":28634,"password":"372a416d-af54-4f9d-9454-72d2ce9f5bde","sni":"www.bing.com","skip-cert-verify":true}
-  - {"name":"🇺🇸美国Y1","type":"vless","server":"152.70.147.168","port":443,"uuid":"372a416d-af54-4f9d-9454-72d2ce9f5bde","tls":true,"servername":"767w1-45dc0-9ocf2.xn--4gq62f52gppi29k.com"}
-  - {"name":"🇺🇸美国Y2","type":"vless","server":"155.248.213.85","port":443,"uuid":"372a416d-af54-4f9d-9454-72d2ce9f5bde","tls":true,"servername":"767w1-45dc0-9ocf2.xn--4gq62f52gppi29k.com"}
-  - {"name":"🇺🇸美国Y3 | 速度优化","type":"vless","server":"148.59.74.251","port":443,"uuid":"372a416d-af54-4f9d-9454-72d2ce9f5bde","tls":true,"servername":"yfus2.xn--4gq62f52gppi29k.com"}
-  - {"name":"🇺🇸美国Y4 | 下载专用","type":"vless","server":"185.176.24.87","port":443,"uuid":"372a416d-af54-4f9d-9454-72d2ce9f5bde","tls":true,"servername":"k7us1.yfjc.sbs","network":"ws","ws-opts":{"path":"/yfjc/kus1"}}
-  - {"name":"🇬🇧英国Y1","type":"vless","server":"132.226.210.116","port":443,"uuid":"372a416d-af54-4f9d-9454-72d2ce9f5bde","tls":true,"servername":"767w1-38dc0-9icf2.xn--4gq62f52gppi29k.com"}
-  - {"name":"🇫🇷法国Y1","type":"vless","server":"89.168.37.109","port":443,"uuid":"372a416d-af54-4f9d-9454-72d2ce9f5bde","tls":true,"servername":"downloadfr.xn--4gq62f52gppi29k.com"}
-  - {"name":"🇩🇪德国Y1","type":"vless","server":"150.230.147.10","port":443,"uuid":"372a416d-af54-4f9d-9454-72d2ce9f5bde","tls":true,"servername":"767w1-85dc0-9ocf2.xn--4gq62f52gppi29k.com"}
-  - {"name":"🇧🇷巴西Y1","type":"hysteria2","server":"129.148.39.249","port":22567,"skip-cert-verify":true}
-  - {"name":"🇦🇪迪拜Y1","type":"vless","server":"193.123.79.22","port":443,"uuid":"372a416d-af54-4f9d-9454-72d2ce9f5bde","tls":true,"servername":"b295-23ae29-6bh.xn--4gq62f52gppi29k.com"}
-  - {"name":"🇮🇳印度Y1","type":"vless","server":"129.154.254.128","port":5443,"uuid":"372a416d-af54-4f9d-9454-72d2ce9f5bde","tls":true,"servername":"767w1-38dc0-9ocf2.xn--4gq62f52gppi29k.com"}
-  - {"name":"🇳🇱荷兰Y1","type":"hysteria2","server":"204.10.194.86","port":51244,"skip-cert-verify":true}
-  - {"name":"🇦🇺澳大利亚Y1","type":"hysteria2","server":"192.9.176.249","port":34165,"skip-cert-verify":true}
-  - {"name":"以下老朋友CEL","type":"vmess","server":"127.0.0.1","port":80,"cipher":"auto","uuid":"7351126f-8513-4ffe-8e9c-555068a8f199","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
+  - {"name":"🇸🇬SG新加坡01 | 优选解锁","type":"vmess","server":"visa.com.sg","port":8080,"cipher":"auto","uuid":"949ca3ff-04fb-4bac-dfaf-d0afe2c66f48","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"dosg1.bty2024.me"}}}
+  - {"name":"🇸🇬SG新加坡02 | 移动中转","type":"vmess","server":"01-dapale-foxi.gangbi.vip","port":36972,"cipher":"auto","uuid":"949ca3ff-04fb-4bac-dfaf-d0afe2c66f48","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"{}"}}}
+  - {"name":"🇸🇬SG甲骨文03 | 优化解锁","type":"vmess","server":"visa.com.sg","port":2082,"cipher":"auto","uuid":"27ab7a8e-f3bc-4d57-c464-109e02917ac1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"ducksg2.bty2024.me"}}}
+  - {"name":"🇸🇬SG甲骨文04 | 三网优化","type":"vmess","server":"cloudflare.182682.xyz","port":8080,"cipher":"auto","uuid":"27ab7a8e-f3bc-4d57-c464-109e02917ac1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"ducksg2.bty2024.me"}}}
+  - {"name":"🇭🇰HK香港｜优化","type":"vmess","server":"visa.com.hk","port":2086,"cipher":"auto","uuid":"bd49963e-0518-4881-b4ca-f54c43f76e22","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/dnsjdicndiei","headers":{"host":"achkg3jul.bty2024.me"}}}
+  - {"name":"🇭🇰HK香港 | 中转","type":"vmess","server":"01-dapale-foxi.gangbi.vip","port":21033,"cipher":"auto","uuid":"bd49963e-0518-4881-b4ca-f54c43f76e22","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/dnsjdicndiei"}}
+  - {"name":"🇯🇵JP日本 | 中转","type":"vmess","server":"01-dapale-foxi.gangbi.vip","port":42445,"cipher":"auto","uuid":"75d76079-2de9-4ac9-fcf6-9941aff816c6","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/967jhewrfg45t"}}
+  - {"name":"🇧🇷BR巴西 | 优化","type":"vmess","server":"visa.com","port":80,"cipher":"auto","uuid":"f1278d1d-7160-4c35-c03e-39fd94518a41","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"duckbr.bty2024.me"}}}
+  - {"name":"🇰🇵 Have a nice day~","type":"ss","server":"132.145.126.148","port":29961,"password":"337ccd15-3fbd-41fb-beee-4d67805753b6","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇸🇬新加坡C1","type":"trojan","server":"3sg00017d48c58a-f335-c28a-54d2-03b96293e206.233235.xyz","port":816,"udp":true,"password":"8a4ca551-11db-4b00-9c2e-bc91eeedbdb1","sni":"3sg00017d48c58a-f335-c28a-54d2-03b96293e206.233235.xyz","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇸🇬新加坡C2","type":"trojan","server":"4sgmax02.156786.xyz","port":718,"udp":true,"password":"8a4ca551-11db-4b00-9c2e-bc91eeedbdb1","sni":"4sgmax02.156786.xyz","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇸🇬新加坡C3","type":"trojan","server":"1sgmax02.156786.xyz","port":719,"udp":true,"password":"8a4ca551-11db-4b00-9c2e-bc91eeedbdb1","sni":"1sgmax02.156786.xyz","skip-cert-verify":true,"network":"tcp"}
@@ -200,34 +181,15 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇸🇬SG新加坡D1 | 优选解锁
-      - 🇸🇬SG新加坡D1 | 三网优化
-      - 🇸🇬SG甲骨文02 | 优化解锁
-      - 🇸🇬SG甲骨文02 | 三网优化
-      - 🇧🇷巴西甲骨文 | 优化解锁
-      - 🇸🇬💀新加坡AWS｜R.I.P.🪦
-      - 🇬🇬精神鸡头🌴快乐欧卡🚛
-      - 🇬🇬FixDate：1989.6.4
-      - Y晓解系列
-      - 🇸🇬新加坡Y1
-      - 🇸🇬新加坡Y2
-      - 🇹🇼台湾Y1
-      - 🇭🇰香港Y1
-      - 🇯🇵日本Y2
-      - 🇰🇷韩国Y2
-      - 🇺🇸美国Y1
-      - 🇺🇸美国Y2
-      - 🇺🇸美国Y3 | 速度优化
-      - 🇺🇸美国Y4 | 下载专用
-      - 🇬🇧英国Y1
-      - 🇫🇷法国Y1
-      - 🇩🇪德国Y1
-      - 🇧🇷巴西Y1
-      - 🇦🇪迪拜Y1
-      - 🇮🇳印度Y1
-      - 🇳🇱荷兰Y1
-      - 🇦🇺澳大利亚Y1
-      - 以下老朋友CEL
+      - 🇸🇬SG新加坡01 | 优选解锁
+      - 🇸🇬SG新加坡02 | 移动中转
+      - 🇸🇬SG甲骨文03 | 优化解锁
+      - 🇸🇬SG甲骨文04 | 三网优化
+      - 🇭🇰HK香港｜优化
+      - 🇭🇰HK香港 | 中转
+      - 🇯🇵JP日本 | 中转
+      - 🇧🇷BR巴西 | 优化
+      - 🇰🇵 Have a nice day~
       - 🇸🇬新加坡C1
       - 🇸🇬新加坡C2
       - 🇸🇬新加坡C3
@@ -312,34 +274,15 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 🇸🇬SG新加坡D1 | 优选解锁
-      - 🇸🇬SG新加坡D1 | 三网优化
-      - 🇸🇬SG甲骨文02 | 优化解锁
-      - 🇸🇬SG甲骨文02 | 三网优化
-      - 🇧🇷巴西甲骨文 | 优化解锁
-      - 🇸🇬💀新加坡AWS｜R.I.P.🪦
-      - 🇬🇬精神鸡头🌴快乐欧卡🚛
-      - 🇬🇬FixDate：1989.6.4
-      - Y晓解系列
-      - 🇸🇬新加坡Y1
-      - 🇸🇬新加坡Y2
-      - 🇹🇼台湾Y1
-      - 🇭🇰香港Y1
-      - 🇯🇵日本Y2
-      - 🇰🇷韩国Y2
-      - 🇺🇸美国Y1
-      - 🇺🇸美国Y2
-      - 🇺🇸美国Y3 | 速度优化
-      - 🇺🇸美国Y4 | 下载专用
-      - 🇬🇧英国Y1
-      - 🇫🇷法国Y1
-      - 🇩🇪德国Y1
-      - 🇧🇷巴西Y1
-      - 🇦🇪迪拜Y1
-      - 🇮🇳印度Y1
-      - 🇳🇱荷兰Y1
-      - 🇦🇺澳大利亚Y1
-      - 以下老朋友CEL
+      - 🇸🇬SG新加坡01 | 优选解锁
+      - 🇸🇬SG新加坡02 | 移动中转
+      - 🇸🇬SG甲骨文03 | 优化解锁
+      - 🇸🇬SG甲骨文04 | 三网优化
+      - 🇭🇰HK香港｜优化
+      - 🇭🇰HK香港 | 中转
+      - 🇯🇵JP日本 | 中转
+      - 🇧🇷BR巴西 | 优化
+      - 🇰🇵 Have a nice day~
       - 🇸🇬新加坡C1
       - 🇸🇬新加坡C2
       - 🇸🇬新加坡C3
@@ -423,34 +366,15 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 180
     proxies:
-      - 🇸🇬SG新加坡D1 | 优选解锁
-      - 🇸🇬SG新加坡D1 | 三网优化
-      - 🇸🇬SG甲骨文02 | 优化解锁
-      - 🇸🇬SG甲骨文02 | 三网优化
-      - 🇧🇷巴西甲骨文 | 优化解锁
-      - 🇸🇬💀新加坡AWS｜R.I.P.🪦
-      - 🇬🇬精神鸡头🌴快乐欧卡🚛
-      - 🇬🇬FixDate：1989.6.4
-      - Y晓解系列
-      - 🇸🇬新加坡Y1
-      - 🇸🇬新加坡Y2
-      - 🇹🇼台湾Y1
-      - 🇭🇰香港Y1
-      - 🇯🇵日本Y2
-      - 🇰🇷韩国Y2
-      - 🇺🇸美国Y1
-      - 🇺🇸美国Y2
-      - 🇺🇸美国Y3 | 速度优化
-      - 🇺🇸美国Y4 | 下载专用
-      - 🇬🇧英国Y1
-      - 🇫🇷法国Y1
-      - 🇩🇪德国Y1
-      - 🇧🇷巴西Y1
-      - 🇦🇪迪拜Y1
-      - 🇮🇳印度Y1
-      - 🇳🇱荷兰Y1
-      - 🇦🇺澳大利亚Y1
-      - 以下老朋友CEL
+      - 🇸🇬SG新加坡01 | 优选解锁
+      - 🇸🇬SG新加坡02 | 移动中转
+      - 🇸🇬SG甲骨文03 | 优化解锁
+      - 🇸🇬SG甲骨文04 | 三网优化
+      - 🇭🇰HK香港｜优化
+      - 🇭🇰HK香港 | 中转
+      - 🇯🇵JP日本 | 中转
+      - 🇧🇷BR巴西 | 优化
+      - 🇰🇵 Have a nice day~
       - 🇸🇬新加坡C1
       - 🇸🇬新加坡C2
       - 🇸🇬新加坡C3
@@ -547,34 +471,15 @@ proxy-groups:
       - ⚠️ 裸奔直連
       - ♻️ 自动选择
       - ‼️ 故障转移
-      - 🇸🇬SG新加坡D1 | 优选解锁
-      - 🇸🇬SG新加坡D1 | 三网优化
-      - 🇸🇬SG甲骨文02 | 优化解锁
-      - 🇸🇬SG甲骨文02 | 三网优化
-      - 🇧🇷巴西甲骨文 | 优化解锁
-      - 🇸🇬💀新加坡AWS｜R.I.P.🪦
-      - 🇬🇬精神鸡头🌴快乐欧卡🚛
-      - 🇬🇬FixDate：1989.6.4
-      - Y晓解系列
-      - 🇸🇬新加坡Y1
-      - 🇸🇬新加坡Y2
-      - 🇹🇼台湾Y1
-      - 🇭🇰香港Y1
-      - 🇯🇵日本Y2
-      - 🇰🇷韩国Y2
-      - 🇺🇸美国Y1
-      - 🇺🇸美国Y2
-      - 🇺🇸美国Y3 | 速度优化
-      - 🇺🇸美国Y4 | 下载专用
-      - 🇬🇧英国Y1
-      - 🇫🇷法国Y1
-      - 🇩🇪德国Y1
-      - 🇧🇷巴西Y1
-      - 🇦🇪迪拜Y1
-      - 🇮🇳印度Y1
-      - 🇳🇱荷兰Y1
-      - 🇦🇺澳大利亚Y1
-      - 以下老朋友CEL
+      - 🇸🇬SG新加坡01 | 优选解锁
+      - 🇸🇬SG新加坡02 | 移动中转
+      - 🇸🇬SG甲骨文03 | 优化解锁
+      - 🇸🇬SG甲骨文04 | 三网优化
+      - 🇭🇰HK香港｜优化
+      - 🇭🇰HK香港 | 中转
+      - 🇯🇵JP日本 | 中转
+      - 🇧🇷BR巴西 | 优化
+      - 🇰🇵 Have a nice day~
       - 🇸🇬新加坡C1
       - 🇸🇬新加坡C2
       - 🇸🇬新加坡C3
