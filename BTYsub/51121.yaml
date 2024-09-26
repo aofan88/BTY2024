@@ -8,6 +8,7 @@
 # TYPE：vmess, trojan, hysteria2, ss, vless
 ####################################
 # !!当前配置文件请使用基于 Clash.Meta 内核程序
+# !!当前配置文件请使用基于 Clash.Meta 内核程序
 mixed-port: 7890
 allow-lan: true
 log-level: info
@@ -99,103 +100,76 @@ proxies:
   - {"name":"🇸🇬💀新加坡AWS｜R.I.P.🪦","type":"vmess","server":"vm-sg7.8top.top","port":80,"cipher":"auto","uuid":"bcb59a75-cecb-4b89-9819-f6cc9a4ee80c","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/masvod/public/2023/03/22/20230322_187068db3d6_r1_1200k.mp4","headers":{"host":"{\"host\":\"{\\\"host\\\":\\\"{\\\\\\\"host\\\\\\\":\\\\\\\"svideo.mfa.gov.cn\\\\\\\"}\\\"}\"}"}}}
   - {"name":"🇬🇬精神鸡头🌴快乐欧卡🚛","type":"vmess","server":"sg-d.rcdn.link","port":81,"cipher":"auto","uuid":"86e970fe-fca9-4482-85f8-59e556a66137","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/masvod/public/2023/03/07/20230307_186bb7147ea_r1_1200k.mp4","headers":{"host":"{\"host\":\"{\\\"host\\\":\\\"{\\\\\\\"host\\\\\\\":\\\\\\\"{\\\\\\\\\\\\\\\"Host\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"{\\\\\\\\\\\\\\\"Host\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"{\\\\\\\"Host\\\\\\\":\\\\\\\"{\\\"Host\\\":\\\"{\\\"Host\\\":\\\"{\\\"Host\\\":\\\"svideo.mfa.gov.cn\\\"}\\\"}\\\"}\\\\\\\"}\\\\\\\\\\\\\\\"}\\\\\\\\\\\\\\\"}\\\\\\\"}\\\"}\"}"}}}
   - {"name":"🇬🇬FixDate：1989.6.4","type":"vmess","server":"sg-d.rcdn.link","port":81,"cipher":"auto","uuid":"86e970fe-fca9-4482-85f8-59e556a66137","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/masvod/public/2023/03/07/20230307_186bb7147ea_r1_1200k.mp4","headers":{"host":"{\"host\":\"{\\\"host\\\":\\\"{\\\\\\\"host\\\\\\\":\\\\\\\"{\\\\\\\\\\\\\\\"Host\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"{\\\\\\\\\\\\\\\"Host\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"svideo.mfa.gov.cn\\\\\\\\\\\\\\\"}\\\\\\\\\\\\\\\"}\\\\\\\"}\\\"}\"}"}}}
-  - {"name":"以下老朋友CEL","type":"vmess","server":"127.0.0.1","port":80,"cipher":"auto","uuid":"7351126f-8513-4ffe-8e9c-555068a8f199","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇸🇬新加坡C1","type":"trojan","server":"1sgmax02.156786.xyz","port":719,"udp":true,"password":"8a4ca551-11db-4b00-9c2e-bc91eeedbdb1","sni":"1sgmax02.156786.xyz","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇸🇬新加坡C2","type":"hysteria2","server":"2ru04d7b1648e-9312-203c-8784-442475d42f1f.233235.xyz","port":8080,"password":"8a4ca551-11db-4b00-9c2e-bc91eeedbdb1","sni":"2ru04d7b1648e-9312-203c-8784-442475d42f1f.233235.xyz","skip-cert-verify":true}
-  - {"name":"🇸🇬新加坡C3","type":"trojan","server":"sssg001.156786.xyz","port":822,"udp":true,"password":"8a4ca551-11db-4b00-9c2e-bc91eeedbdb1","sni":"sssg001.156786.xyz","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇸🇬新加坡C4","type":"trojan","server":"twjpzz2.156786.xyz","port":47892,"udp":true,"password":"8a4ca551-11db-4b00-9c2e-bc91eeedbdb1","sni":"sg0003.170203.xyz","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇸🇬新加坡C5","type":"hysteria2","server":"hyfnsg01.156786.xyz","port":8080,"password":"8a4ca551-11db-4b00-9c2e-bc91eeedbdb1","sni":"hyfnsg01.156786.xyz","skip-cert-verify":true}
-  - {"name":"🇸🇬新加坡E1","type":"vmess","server":"sg-aws.bilivideo.cloud","port":80,"cipher":"auto","uuid":"da61c4fd-a3fa-46c1-84c1-231b4d9e0c21","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/yukihasu?ed=2560","headers":{"host":"sgp-1.bilivideo.cloud"}}}
-  - {"name":"🇸🇬新加坡E3","type":"ss","server":"oywu7iafsobgvbktcm23rpjj9rngkcfn69ph2xanjm3zf378.zhimg.xyz","port":25482,"password":"da61c4fd-a3fa-46c1-84c1-231b4d9e0c21","cipher":"aes-128-gcm"}
-  - {"name":"🇸🇬新加坡E4","type":"ss","server":"oywu7iafsobgvbktcm23rpjj9rngkcfn69ph2xanjm3zf378.zhimg.xyz","port":25481,"password":"da61c4fd-a3fa-46c1-84c1-231b4d9e0c21","cipher":"aes-128-gcm"}
-  - {"name":"🇸🇬新加坡E5","type":"ss","server":"oywu7iafsobgvbktcm23rpjj9rngkcfn69ph2xanjm3zf378.zhimg.xyz","port":25480,"password":"da61c4fd-a3fa-46c1-84c1-231b4d9e0c21","cipher":"aes-128-gcm"}
-  - {"name":"🇸🇬新加坡L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12021,"udp":true,"password":"72c57914-7af9-45d9-a64c-6a21f87f9b29","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇸🇬新加坡L2","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12022,"udp":true,"password":"72c57914-7af9-45d9-a64c-6a21f87f9b29","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇸🇬新加坡L3","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12024,"udp":true,"password":"72c57914-7af9-45d9-a64c-6a21f87f9b29","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇸🇬新加坡Y1","type":"hysteria2","server":"168.138.188.106","port":39555,"password":"372a416d-af54-4f9d-9454-72d2ce9f5bde","sni":"www.bing.com","skip-cert-verify":true}
-  - {"name":"🇸🇬新加坡Y2","type":"hysteria2","server":"168.138.184.187","port":54850,"password":"372a416d-af54-4f9d-9454-72d2ce9f5bde","sni":"www.bing.com","skip-cert-verify":true}
-  - {"name":"🇯🇵日本C1","type":"hysteria2","server":"hyfnjp03.156786.xyz","port":8080,"password":"8a4ca551-11db-4b00-9c2e-bc91eeedbdb1","sni":"hyfnjp03.156786.xyz","skip-cert-verify":true}
-  - {"name":"🇯🇵日本C2","type":"hysteria2","server":"1jp01.156786.xyz","port":8080,"password":"8a4ca551-11db-4b00-9c2e-bc91eeedbdb1","sni":"1jp01.156786.xyz","skip-cert-verify":true}
-  - {"name":"🇯🇵日本C3","type":"hysteria2","server":"hyfnjp04.156786.xyz","port":8080,"password":"8a4ca551-11db-4b00-9c2e-bc91eeedbdb1","sni":"hyfnjp04.156786.xyz","skip-cert-verify":true}
-  - {"name":"🇯🇵日本C4","type":"hysteria2","server":"hyfnjp06.156786.xyz","port":8080,"password":"8a4ca551-11db-4b00-9c2e-bc91eeedbdb1","sni":"hyfnjp06.156786.xyz","skip-cert-verify":true}
-  - {"name":"🇯🇵日本C5","type":"hysteria2","server":"hyfnjp07.156786.xyz","port":8080,"password":"8a4ca551-11db-4b00-9c2e-bc91eeedbdb1","sni":"hyfnjp07.156786.xyz","skip-cert-verify":true}
-  - {"name":"🇯🇵日本E1","type":"vmess","server":"jp-aws.bilivideo.cloud","port":80,"cipher":"auto","uuid":"da61c4fd-a3fa-46c1-84c1-231b4d9e0c21","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/yukihasu?ed=2560","headers":{"host":"jpn-1.bilivideo.cloud"}}}
-  - {"name":"🇯🇵日本E2","type":"ss","server":"czthb4k53hzmepn6kn2fmzhjqz244txbb7k7sq8nz44e6ysf.zhimg.xyz","port":25474,"password":"da61c4fd-a3fa-46c1-84c1-231b4d9e0c21","cipher":"aes-128-gcm"}
-  - {"name":"🇯🇵日本E3","type":"ss","server":"czthb4k53hzmepn6kn2fmzhjqz244txbb7k7sq8nz44e6ysf.zhimg.xyz","port":25472,"password":"da61c4fd-a3fa-46c1-84c1-231b4d9e0c21","cipher":"aes-128-gcm"}
-  - {"name":"🇯🇵日本L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12031,"udp":true,"password":"72c57914-7af9-45d9-a64c-6a21f87f9b29","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇯🇵日本L2","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12035,"udp":true,"password":"72c57914-7af9-45d9-a64c-6a21f87f9b29","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇯🇵日本L3","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12033,"udp":true,"password":"72c57914-7af9-45d9-a64c-6a21f87f9b29","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇯🇵日本Y1","type":"hysteria2","server":"138.2.2.120","port":36883,"skip-cert-verify":true}
-  - {"name":"🇯🇵日本Y2","type":"hysteria2","server":"141.147.156.163","port":48575,"skip-cert-verify":true}
-  - {"name":"🇯🇵日本Y3","type":"hysteria2","server":"138.2.31.176","port":40546,"skip-cert-verify":true}
-  - {"name":"🇰🇷韩国C1","type":"hysteria2","server":"0kr02.156786.xyz","port":8080,"skip-cert-verify":true}
-  - {"name":"🇰🇷韩国E1","type":"vmess","server":"kr-aws.bilivideo.cloud","port":80,"cipher":"auto","uuid":"da61c4fd-a3fa-46c1-84c1-231b4d9e0c21","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/yukihasu?ed=2560","headers":{"host":"kor-1.bilivideo.cloud"}}}
-  - {"name":"🇰🇷韩国E2","type":"ss","server":"czthb4k53hzmepn6kn2fmzhjqz244txbb7k7sq8nz44e6ysf.zhimg.xyz","port":25441,"password":"da61c4fd-a3fa-46c1-84c1-231b4d9e0c21","cipher":"aes-128-gcm"}
-  - {"name":"🇰🇷韩国L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12041,"udp":true,"password":"72c57914-7af9-45d9-a64c-6a21f87f9b29","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇰🇷韩国Y1","type":"hysteria2","server":"152.70.234.101","port":37511,"skip-cert-verify":true}
-  - {"name":"🇰🇷韩国Y2","type":"hysteria2","server":"150.230.253.68","port":32545,"skip-cert-verify":true}
-  - {"name":"🇺🇸美国C1","type":"hysteria2","server":"hyfnus01.156786.xyz","port":8080,"password":"8a4ca551-11db-4b00-9c2e-bc91eeedbdb1","sni":"hyfnus01.156786.xyz","skip-cert-verify":true}
-  - {"name":"🇺🇸美国C2","type":"hysteria2","server":"uk011712fbec-507b-957e-e396-77cc61a4d6f6.170203.xyz","port":8080,"password":"8a4ca551-11db-4b00-9c2e-bc91eeedbdb1","sni":"uk011712fbec-507b-957e-e396-77cc61a4d6f6.170203.xyz","skip-cert-verify":true}
-  - {"name":"🇺🇸美国C3","type":"trojan","server":"twjpzz.156786.xyz","port":28033,"udp":true,"password":"8a4ca551-11db-4b00-9c2e-bc91eeedbdb1","sni":"usmax05.170203.xyz","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇺🇸美国E1","type":"ss","server":"z4nhfzat26xhv9bhg3w2tay9sjfz6rpfhpo8mw8zzam4cjnu.zhimg.xyz","port":25592,"password":"da61c4fd-a3fa-46c1-84c1-231b4d9e0c21","cipher":"aes-128-gcm"}
-  - {"name":"🇺🇸美国E2","type":"vmess","server":"sjc-1.bilivideo.cloud","port":80,"cipher":"auto","uuid":"da61c4fd-a3fa-46c1-84c1-231b4d9e0c21","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/yukihasu?ed=2560","headers":{"host":"usa-1.bilivideo.cloud"}}}
-  - {"name":"🇺🇸美国E3","type":"ss","server":"z4nhfzat26xhv9bhg3w2tay9sjfz6rpfhpo8mw8zzam4cjnu.zhimg.xyz","port":25593,"password":"da61c4fd-a3fa-46c1-84c1-231b4d9e0c21","cipher":"aes-128-gcm"}
-  - {"name":"🇺🇸美国L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12051,"udp":true,"password":"72c57914-7af9-45d9-a64c-6a21f87f9b29","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇺🇸美国L2","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12052,"udp":true,"password":"72c57914-7af9-45d9-a64c-6a21f87f9b29","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇺🇸美国L3","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12053,"udp":true,"password":"72c57914-7af9-45d9-a64c-6a21f87f9b29","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇺🇸美国Y1","type":"hysteria2","server":"163.123.192.140","port":54006,"skip-cert-verify":true}
-  - {"name":"🇺🇸美国Y2","type":"hysteria2","server":"163.123.192.112","port":54051,"skip-cert-verify":true}
-  - {"name":"🇺🇸美国Y3 | 下载专用","type":"vless","server":"89.116.161.168","port":443,"uuid":"372a416d-af54-4f9d-9454-72d2ce9f5bde","tls":true,"servername":"k6us2.yfjc.sbs","network":"ws","ws-opts":{"path":"/yfjc/kus2"}}
-  - {"name":"🇹🇼台湾C1","type":"trojan","server":"2gzdx21.156786.xyz","port":706,"udp":true,"password":"8a4ca551-11db-4b00-9c2e-bc91eeedbdb1","sni":"2gzdx21.156786.xyz","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇹🇼台湾C2","type":"trojan","server":"tw7.170203.xyz","port":811,"udp":true,"password":"8a4ca551-11db-4b00-9c2e-bc91eeedbdb1","sni":"tw7.170203.xyz","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇹🇼台湾C3","type":"trojan","server":"tw60.233235.xyz","port":703,"udp":true,"password":"8a4ca551-11db-4b00-9c2e-bc91eeedbdb1","sni":"tw60.233235.xyz","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"以下老朋友CLY","type":"vmess","server":"127.0.0.1","port":80,"cipher":"auto","uuid":"7351126f-8513-4ffe-8e9c-555068a8f199","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
+  - {"name":"🇸🇬新加坡C1","type":"trojan","server":"2sg002ff0f283d-2433-bbbe-4d7a-59990b8b8b74.233235.xyz","port":816,"udp":true,"password":"8a4ca551-11db-4b00-9c2e-bc91eeedbdb1","sni":"2sg002ff0f283d-2433-bbbe-4d7a-59990b8b8b74.233235.xyz","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇸🇬新加坡C2","type":"trojan","server":"2sg03.170809.xyz","port":912,"udp":true,"password":"8a4ca551-11db-4b00-9c2e-bc91eeedbdb1","sni":"2sg03.170809.xyz","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇸🇬新加坡C3","type":"hysteria2","server":"2ru04d7b1648e-9312-203c-8784-442475d42f1f.233235.xyz","port":8080,"password":"8a4ca551-11db-4b00-9c2e-bc91eeedbdb1","sni":"2ru04d7b1648e-9312-203c-8784-442475d42f1f.233235.xyz","skip-cert-verify":true}
+  - {"name":"🇸🇬新加坡C4","type":"trojan","server":"1sg04.156786.xyz","port":718,"udp":true,"password":"8a4ca551-11db-4b00-9c2e-bc91eeedbdb1","sni":"1sg04.156786.xyz","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇸🇬新加坡C5","type":"trojan","server":"twjpzz2.156786.xyz","port":47892,"udp":true,"password":"8a4ca551-11db-4b00-9c2e-bc91eeedbdb1","sni":"sg0003.170203.xyz","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇸🇬新加坡L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12021,"udp":true,"password":"44962134-78c8-42da-941d-3f0a898a6e95","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇸🇬新加坡L2","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12022,"udp":true,"password":"44962134-78c8-42da-941d-3f0a898a6e95","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇸🇬新加坡L3","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12025,"udp":true,"password":"44962134-78c8-42da-941d-3f0a898a6e95","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇸🇬新加坡Y1","type":"hysteria2","server":"168.138.184.187","port":25600,"skip-cert-verify":true}
+  - {"name":"🇸🇬新加坡Y2","type":"hysteria2","server":"168.138.188.106","port":49183,"skip-cert-verify":true}
+  - {"name":"🇯🇵日本C1","type":"hysteria2","server":"hyfnjp04.156786.xyz","port":8080,"password":"8a4ca551-11db-4b00-9c2e-bc91eeedbdb1","sni":"hyfnjp04.156786.xyz","skip-cert-verify":true}
+  - {"name":"🇯🇵日本C2","type":"trojan","server":"0jp05.156786.xyz","port":822,"udp":true,"password":"8a4ca551-11db-4b00-9c2e-bc91eeedbdb1","sni":"0jp05.156786.xyz","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇯🇵日本C3","type":"hysteria2","server":"hyfnjp01.156786.xyz","port":8081,"password":"8a4ca551-11db-4b00-9c2e-bc91eeedbdb1","sni":"hyfnjp01.156786.xyz","skip-cert-verify":true}
+  - {"name":"🇯🇵日本L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12031,"udp":true,"password":"44962134-78c8-42da-941d-3f0a898a6e95","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇯🇵日本L2","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12032,"udp":true,"password":"44962134-78c8-42da-941d-3f0a898a6e95","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇯🇵日本L3","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12035,"udp":true,"password":"44962134-78c8-42da-941d-3f0a898a6e95","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇯🇵日本Y1","type":"hysteria2","server":"141.147.156.163","port":41685,"password":"372a416d-af54-4f9d-9454-72d2ce9f5bde","sni":"www.bing.com","skip-cert-verify":true}
+  - {"name":"🇯🇵日本Y2","type":"hysteria2","server":"138.2.31.176","port":23794,"password":"372a416d-af54-4f9d-9454-72d2ce9f5bde","sni":"www.bing.com","skip-cert-verify":true}
+  - {"name":"🇯🇵日本Y3","type":"hysteria2","server":"138.3.208.201","port":27447,"password":"372a416d-af54-4f9d-9454-72d2ce9f5bde","sni":"www.bing.com","skip-cert-verify":true}
+  - {"name":"🇰🇷韩国L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12041,"udp":true,"password":"44962134-78c8-42da-941d-3f0a898a6e95","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇰🇷韩国Y1","type":"hysteria2","server":"132.226.171.133","port":43235,"password":"372a416d-af54-4f9d-9454-72d2ce9f5bde","sni":"www.bing.com","skip-cert-verify":true}
+  - {"name":"🇰🇷韩国Y2","type":"hysteria2","server":"193.122.106.44","port":39422,"password":"372a416d-af54-4f9d-9454-72d2ce9f5bde","sni":"www.bing.com","skip-cert-verify":true}
+  - {"name":"🇰🇷韩国Y3","type":"hysteria2","server":"158.179.164.122","port":31825,"password":"372a416d-af54-4f9d-9454-72d2ce9f5bde","sni":"www.bing.com","skip-cert-verify":true}
+  - {"name":"🇺🇸美国C1","type":"trojan","server":"twjpzz2.156786.xyz","port":20263,"udp":true,"password":"8a4ca551-11db-4b00-9c2e-bc91eeedbdb1","sni":"usmax03.170203.xyz","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸美国C2","type":"trojan","server":"twjpzz.156786.xyz","port":29113,"udp":true,"password":"8a4ca551-11db-4b00-9c2e-bc91eeedbdb1","sni":"2usmax01.170203.xyz","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸美国L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12051,"udp":true,"password":"44962134-78c8-42da-941d-3f0a898a6e95","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸美国L2","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12052,"udp":true,"password":"44962134-78c8-42da-941d-3f0a898a6e95","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸美国L3","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12053,"udp":true,"password":"44962134-78c8-42da-941d-3f0a898a6e95","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸美国Y1","type":"hysteria2","server":"163.123.192.140","port":54015,"password":"372a416d-af54-4f9d-9454-72d2ce9f5bde","sni":"www.bing.com","skip-cert-verify":true}
+  - {"name":"🇺🇸美国Y2","type":"hysteria2","server":"163.123.192.112","port":54046,"password":"372a416d-af54-4f9d-9454-72d2ce9f5bde","sni":"www.bing.com","skip-cert-verify":true}
+  - {"name":"🇺🇸美国Y3","type":"vless","server":"163.123.192.35","port":443,"uuid":"372a416d-af54-4f9d-9454-72d2ce9f5bde","tls":true,"servername":"yfus2.xn--4gq62f52gppi29k.com"}
+  - {"name":"🇺🇸美国下载专用","type":"vless","server":"89.116.161.168","port":443,"uuid":"372a416d-af54-4f9d-9454-72d2ce9f5bde","tls":true,"servername":"k6us2.yfjc.sbs","network":"ws","ws-opts":{"path":"/yfjc/kus2"}}
+  - {"name":"🇹🇼台湾C1","type":"trojan","server":"5gzdx.233235.xyz","port":725,"udp":true,"password":"8a4ca551-11db-4b00-9c2e-bc91eeedbdb1","sni":"5gzdx.233235.xyz","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇹🇼台湾C2","type":"trojan","server":"tw3.233235.xyz","port":11125,"udp":true,"password":"8a4ca551-11db-4b00-9c2e-bc91eeedbdb1","sni":"tw3.233235.xyz","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇹🇼台湾C3","type":"trojan","server":"2gzdx21.156786.xyz","port":706,"udp":true,"password":"8a4ca551-11db-4b00-9c2e-bc91eeedbdb1","sni":"2gzdx21.156786.xyz","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇹🇼台湾C4","type":"trojan","server":"tw5.170203.xyz","port":2222,"udp":true,"password":"8a4ca551-11db-4b00-9c2e-bc91eeedbdb1","sni":"tw5.170203.xyz","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇹🇼台湾C5","type":"trojan","server":"sg1111.156786.xyz","port":703,"udp":true,"password":"8a4ca551-11db-4b00-9c2e-bc91eeedbdb1","sni":"sg1111.156786.xyz","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇹🇼台湾E1","type":"ss","server":"xff7qpzab8fn9wdikp69jb7s6d9fs29icv6nuzwg6kjjzi72.zhimg.xyz","port":25491,"password":"da61c4fd-a3fa-46c1-84c1-231b4d9e0c21","cipher":"aes-128-gcm"}
-  - {"name":"🇹🇼台湾E2","type":"ss","server":"xff7qpzab8fn9wdikp69jb7s6d9fs29icv6nuzwg6kjjzi72.zhimg.xyz","port":25490,"password":"da61c4fd-a3fa-46c1-84c1-231b4d9e0c21","cipher":"aes-128-gcm"}
-  - {"name":"🇹🇼台湾L1","type":"trojan","server":"cn1.cdn.xfltd-cdn.top","port":12011,"udp":true,"password":"72c57914-7af9-45d9-a64c-6a21f87f9b29","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇹🇼台湾L2","type":"trojan","server":"cn1.cdn.xfltd-cdn.top","port":12012,"udp":true,"password":"72c57914-7af9-45d9-a64c-6a21f87f9b29","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇭🇰香港C1","type":"hysteria2","server":"2hkmax07.170203.xyz","port":8080,"password":"8a4ca551-11db-4b00-9c2e-bc91eeedbdb1","sni":"2hkmax07.170203.xyz","skip-cert-verify":true}
-  - {"name":"🇭🇰香港C2","type":"trojan","server":"twjpzz2.156786.xyz","port":55428,"udp":true,"password":"8a4ca551-11db-4b00-9c2e-bc91eeedbdb1","sni":"hkmax04.170203.xyz","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇭🇰香港C3","type":"hysteria2","server":"2sgmax06cf4589a1-71ec-429f-b46a-892af2259b8e.233235.xyz","port":8080,"password":"8a4ca551-11db-4b00-9c2e-bc91eeedbdb1","sni":"2sgmax06cf4589a1-71ec-429f-b46a-892af2259b8e.233235.xyz","skip-cert-verify":true}
-  - {"name":"🇭🇰香港E1","type":"ss","server":"nq697nrvucq7kzmib5f5iywmwns2amu243zhz23cfkut2ew2.zhimg.xyz","port":25466,"password":"da61c4fd-a3fa-46c1-84c1-231b4d9e0c21","cipher":"aes-128-gcm"}
-  - {"name":"🇭🇰香港E2","type":"ss","server":"nq697nrvucq7kzmib5f5iywmwns2amu243zhz23cfkut2ew2.zhimg.xyz","port":25462,"password":"da61c4fd-a3fa-46c1-84c1-231b4d9e0c21","cipher":"aes-128-gcm"}
-  - {"name":"🇭🇰香港E3","type":"ss","server":"nq697nrvucq7kzmib5f5iywmwns2amu243zhz23cfkut2ew2.zhimg.xyz","port":25464,"password":"da61c4fd-a3fa-46c1-84c1-231b4d9e0c21","cipher":"aes-128-gcm"}
-  - {"name":"🇭🇰香港L1","type":"trojan","server":"cn1.cdn.xfltd-cdn.top","port":12004,"udp":true,"password":"72c57914-7af9-45d9-a64c-6a21f87f9b29","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇭🇰香港L2","type":"trojan","server":"cn1.cdn.xfltd-cdn.top","port":12006,"udp":true,"password":"72c57914-7af9-45d9-a64c-6a21f87f9b29","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇭🇰香港L3","type":"trojan","server":"cn1.cdn.xfltd-cdn.top","port":12003,"udp":true,"password":"72c57914-7af9-45d9-a64c-6a21f87f9b29","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇬🇧英国E1","type":"ss","server":"v8nzb4aarfpuvgazudkg5ryv55fw33wh7rsiyvk8x4kkgrn5.zhimg.xyz","port":25803,"password":"da61c4fd-a3fa-46c1-84c1-231b4d9e0c21","cipher":"aes-128-gcm"}
-  - {"name":"🇬🇧英国L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12069,"udp":true,"password":"72c57914-7af9-45d9-a64c-6a21f87f9b29","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇩🇪德国E1","type":"ss","server":"v8nzb4aarfpuvgazudkg5ryv55fw33wh7rsiyvk8x4kkgrn5.zhimg.xyz","port":25800,"password":"da61c4fd-a3fa-46c1-84c1-231b4d9e0c21","cipher":"aes-128-gcm"}
-  - {"name":"🇩🇪德国L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12070,"udp":true,"password":"72c57914-7af9-45d9-a64c-6a21f87f9b29","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇫🇷法国E1","type":"ss","server":"v8nzb4aarfpuvgazudkg5ryv55fw33wh7rsiyvk8x4kkgrn5.zhimg.xyz","port":25805,"password":"da61c4fd-a3fa-46c1-84c1-231b4d9e0c21","cipher":"aes-128-gcm"}
-  - {"name":"🇫🇷法国L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12065,"udp":true,"password":"72c57914-7af9-45d9-a64c-6a21f87f9b29","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇳🇱荷兰L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12074,"udp":true,"password":"72c57914-7af9-45d9-a64c-6a21f87f9b29","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇳🇱荷兰Y1","type":"hysteria2","server":"204.10.194.86","port":45418,"skip-cert-verify":true}
-  - {"name":"🇳🇱荷兰Y2 | 下载专用","type":"vless","server":"77.37.33.136","port":443,"uuid":"372a416d-af54-4f9d-9454-72d2ce9f5bde","tls":true,"servername":"k7nl1.yfjc.sbs","network":"ws","ws-opts":{"path":"/yfjc/knl1"}}
-  - {"name":"🇸🇪瑞典L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12071,"udp":true,"password":"72c57914-7af9-45d9-a64c-6a21f87f9b29","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇮🇳印度C1","type":"hysteria2","server":"in01.170203.xyz","port":8080,"skip-cert-verify":true}
-  - {"name":"🇮🇳印度L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12072,"udp":true,"password":"72c57914-7af9-45d9-a64c-6a21f87f9b29","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇧🇷巴西Y1","type":"hysteria2","server":"129.148.39.249","port":53247,"skip-cert-verify":true}
-  - {"name":"🇹🇭泰国L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12076,"udp":true,"password":"72c57914-7af9-45d9-a64c-6a21f87f9b29","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇰🇵朝鲜E1","type":"ss","server":"a58ort4b5ijo7e6r277urvztvzo7i63xijg46iy7ck3muyhk.zhimg.xyz","port":25580,"password":"da61c4fd-a3fa-46c1-84c1-231b4d9e0c21","cipher":"aes-128-gcm"}
-  - {"name":"🇲🇴澳门E1","type":"ss","server":"a58ort4b5ijo7e6r277urvztvzo7i63xijg46iy7ck3muyhk.zhimg.xyz","port":25581,"password":"da61c4fd-a3fa-46c1-84c1-231b4d9e0c21","cipher":"aes-128-gcm"}
-  - {"name":"🇦🇶南极E1","type":"ss","server":"a58ort4b5ijo7e6r277urvztvzo7i63xijg46iy7ck3muyhk.zhimg.xyz","port":25582,"password":"da61c4fd-a3fa-46c1-84c1-231b4d9e0c21","cipher":"aes-128-gcm"}
-  - {"name":"🇷🇺俄罗斯E1","type":"ss","server":"v8nzb4aarfpuvgazudkg5ryv55fw33wh7rsiyvk8x4kkgrn5.zhimg.xyz","port":25802,"password":"da61c4fd-a3fa-46c1-84c1-231b4d9e0c21","cipher":"aes-128-gcm"}
-  - {"name":"🇷🇺俄罗斯L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12075,"udp":true,"password":"72c57914-7af9-45d9-a64c-6a21f87f9b29","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇹🇷土耳其E1","type":"ss","server":"v8nzb4aarfpuvgazudkg5ryv55fw33wh7rsiyvk8x4kkgrn5.zhimg.xyz","port":25801,"password":"da61c4fd-a3fa-46c1-84c1-231b4d9e0c21","cipher":"aes-128-gcm"}
-  - {"name":"🇹🇷土耳其L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12064,"udp":true,"password":"72c57914-7af9-45d9-a64c-6a21f87f9b29","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇱🇺卢森堡E1","type":"ss","server":"v8nzb4aarfpuvgazudkg5ryv55fw33wh7rsiyvk8x4kkgrn5.zhimg.xyz","port":25804,"password":"da61c4fd-a3fa-46c1-84c1-231b4d9e0c21","cipher":"aes-128-gcm"}
-  - {"name":"🇦🇷阿根廷E1","type":"ss","server":"v8nzb4aarfpuvgazudkg5ryv55fw33wh7rsiyvk8x4kkgrn5.zhimg.xyz","port":25806,"password":"da61c4fd-a3fa-46c1-84c1-231b4d9e0c21","cipher":"aes-128-gcm"}
-  - {"name":"🇦🇷阿根廷L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12066,"udp":true,"password":"72c57914-7af9-45d9-a64c-6a21f87f9b29","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇮🇹意大利L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12062,"udp":true,"password":"72c57914-7af9-45d9-a64c-6a21f87f9b29","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇦🇺澳大利亚E1","type":"ss","server":"oywu7iafsobgvbktcm23rpjj9rngkcfn69ph2xanjm3zf378.zhimg.xyz","port":25484,"password":"da61c4fd-a3fa-46c1-84c1-231b4d9e0c21","cipher":"aes-128-gcm"}
-  - {"name":"🇦🇺澳大利亚L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12068,"udp":true,"password":"72c57914-7af9-45d9-a64c-6a21f87f9b29","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇦🇺澳大利亚Y1","type":"hysteria2","server":"192.9.176.249","port":34165,"skip-cert-verify":true}
-  - {"name":"🇲🇾马来西亚L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12067,"udp":true,"password":"72c57914-7af9-45d9-a64c-6a21f87f9b29","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇳🇬尼日利亚E1","type":"ss","server":"czthb4k53hzmepn6kn2fmzhjqz244txbb7k7sq8nz44e6ysf.zhimg.xyz","port":25440,"password":"da61c4fd-a3fa-46c1-84c1-231b4d9e0c21","cipher":"aes-128-gcm"}
-  - {"name":"🇳🇬尼日利亚L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12073,"udp":true,"password":"72c57914-7af9-45d9-a64c-6a21f87f9b29","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇮🇩印度尼西亚L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12061,"udp":true,"password":"72c57914-7af9-45d9-a64c-6a21f87f9b29","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇹🇼台湾L1","type":"trojan","server":"cn1.cdn.xfltd-cdn.top","port":12011,"udp":true,"password":"44962134-78c8-42da-941d-3f0a898a6e95","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇹🇼台湾L2","type":"trojan","server":"cn1.cdn.xfltd-cdn.top","port":12012,"udp":true,"password":"44962134-78c8-42da-941d-3f0a898a6e95","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇹🇼台湾Y1","type":"vless","server":"3bd9.55dba.e048.f65-fef1f.yfjcs.com","port":443,"uuid":"372a416d-af54-4f9d-9454-72d2ce9f5bde","tls":true,"servername":"tw.xn--4gq62f52gppi29k.com"}
+  - {"name":"🇭🇰香港C1","type":"trojan","server":"twjpzz2.156786.xyz","port":55428,"udp":true,"password":"8a4ca551-11db-4b00-9c2e-bc91eeedbdb1","sni":"hkmax04.170203.xyz","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇭🇰香港L1","type":"trojan","server":"cn1.cdn.xfltd-cdn.top","port":12001,"udp":true,"password":"44962134-78c8-42da-941d-3f0a898a6e95","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇭🇰香港L2","type":"trojan","server":"cn1.cdn.xfltd-cdn.top","port":12002,"udp":true,"password":"44962134-78c8-42da-941d-3f0a898a6e95","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇭🇰香港L3","type":"trojan","server":"cn1.cdn.xfltd-cdn.top","port":12005,"udp":true,"password":"44962134-78c8-42da-941d-3f0a898a6e95","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇭🇰香港Y1","type":"vless","server":"3bd9.55dca.e048.f65-fef1f.yfjcs.com","port":443,"uuid":"372a416d-af54-4f9d-9454-72d2ce9f5bde","tls":true,"servername":"yfhk1.xn--4gq62f52gppi29k.com"}
+  - {"name":"🇭🇰香港Y2","type":"vless","server":"3bd9.55dca.e048.f65-fef1f.yfjcs.com","port":443,"uuid":"372a416d-af54-4f9d-9454-72d2ce9f5bde","tls":true,"servername":"yfhk1.xn--4gq62f52gppi29k.com"}
+  - {"name":"🇬🇧英国L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12069,"udp":true,"password":"44962134-78c8-42da-941d-3f0a898a6e95","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇬🇧英国Y1","type":"vless","server":"141.147.102.96","port":443,"uuid":"372a416d-af54-4f9d-9454-72d2ce9f5bde","tls":true,"servername":"767w1-38dc0-9icf2.xn--4gq62f52gppi29k.com"}
+  - {"name":"🇩🇪德国L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12070,"udp":true,"password":"44962134-78c8-42da-941d-3f0a898a6e95","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇩🇪德国Y1","type":"vless","server":"150.230.147.10","port":443,"uuid":"372a416d-af54-4f9d-9454-72d2ce9f5bde","tls":true,"servername":"767w1-85dc0-9ocf2.xn--4gq62f52gppi29k.com"}
+  - {"name":"🇫🇷法国L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12065,"udp":true,"password":"44962134-78c8-42da-941d-3f0a898a6e95","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇫🇷法国Y1","type":"vless","server":"89.168.37.109","port":443,"uuid":"372a416d-af54-4f9d-9454-72d2ce9f5bde","tls":true,"servername":"downloadfr.xn--4gq62f52gppi29k.com"}
+  - {"name":"🇳🇱荷兰L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12074,"udp":true,"password":"44962134-78c8-42da-941d-3f0a898a6e95","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇳🇱荷兰Y1","type":"hysteria2","server":"204.10.194.86","port":34464,"skip-cert-verify":true}
+  - {"name":"🇳🇱荷兰BT下载专用","type":"vless","server":"188.42.145.72","port":443,"uuid":"372a416d-af54-4f9d-9454-72d2ce9f5bde","tls":true,"servername":"y0nl2.yfjc.sbs","network":"ws","ws-opts":{"path":"/yfjc/knl2"}}
+  - {"name":"🇳🇱荷兰BT下载专用2","type":"vless","server":"77.37.33.136","port":443,"uuid":"372a416d-af54-4f9d-9454-72d2ce9f5bde","tls":true,"servername":"k7nl1.yfjc.sbs","network":"ws","ws-opts":{"path":"/yfjc/knl1"}}
+  - {"name":"🇸🇪瑞典L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12071,"udp":true,"password":"44962134-78c8-42da-941d-3f0a898a6e95","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇮🇳印度L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12072,"udp":true,"password":"44962134-78c8-42da-941d-3f0a898a6e95","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇮🇳印度Y1","type":"vless","server":"129.154.254.128","port":5443,"uuid":"372a416d-af54-4f9d-9454-72d2ce9f5bde","tls":true,"servername":"767w1-38dc0-9ocf2.xn--4gq62f52gppi29k.com"}
+  - {"name":"🇹🇭泰国L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12076,"udp":true,"password":"44962134-78c8-42da-941d-3f0a898a6e95","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇷🇺俄罗斯L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12075,"udp":true,"password":"44962134-78c8-42da-941d-3f0a898a6e95","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇹🇷土耳其L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12064,"udp":true,"password":"44962134-78c8-42da-941d-3f0a898a6e95","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇦🇷阿根廷L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12066,"udp":true,"password":"44962134-78c8-42da-941d-3f0a898a6e95","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇦🇪阿联酋Y1","type":"vless","server":"193.123.79.22","port":443,"uuid":"372a416d-af54-4f9d-9454-72d2ce9f5bde","tls":true,"servername":"b295-23ae29-6bh.xn--4gq62f52gppi29k.com"}
+  - {"name":"🇮🇹意大利L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12062,"udp":true,"password":"44962134-78c8-42da-941d-3f0a898a6e95","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇦🇺澳大利亚L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12068,"udp":true,"password":"44962134-78c8-42da-941d-3f0a898a6e95","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇦🇺澳大利亚Y1","type":"hysteria2","server":"192.9.176.249","port":28670,"skip-cert-verify":true}
+  - {"name":"🇲🇾马来西亚L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12067,"udp":true,"password":"44962134-78c8-42da-941d-3f0a898a6e95","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇵🇰巴基斯坦L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12077,"udp":true,"password":"44962134-78c8-42da-941d-3f0a898a6e95","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇳🇬尼日利亚L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12073,"udp":true,"password":"44962134-78c8-42da-941d-3f0a898a6e95","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
 proxy-groups:
   - name: 💚 選擇節點
     type: select
@@ -213,16 +187,12 @@ proxy-groups:
       - 🇸🇬💀新加坡AWS｜R.I.P.🪦
       - 🇬🇬精神鸡头🌴快乐欧卡🚛
       - 🇬🇬FixDate：1989.6.4
-      - 以下老朋友CEL
+      - 以下老朋友CLY
       - 🇸🇬新加坡C1
       - 🇸🇬新加坡C2
       - 🇸🇬新加坡C3
       - 🇸🇬新加坡C4
       - 🇸🇬新加坡C5
-      - 🇸🇬新加坡E1
-      - 🇸🇬新加坡E3
-      - 🇸🇬新加坡E4
-      - 🇸🇬新加坡E5
       - 🇸🇬新加坡L1
       - 🇸🇬新加坡L2
       - 🇸🇬新加坡L3
@@ -231,85 +201,62 @@ proxy-groups:
       - 🇯🇵日本C1
       - 🇯🇵日本C2
       - 🇯🇵日本C3
-      - 🇯🇵日本C4
-      - 🇯🇵日本C5
-      - 🇯🇵日本E1
-      - 🇯🇵日本E2
-      - 🇯🇵日本E3
       - 🇯🇵日本L1
       - 🇯🇵日本L2
       - 🇯🇵日本L3
       - 🇯🇵日本Y1
       - 🇯🇵日本Y2
       - 🇯🇵日本Y3
-      - 🇰🇷韩国C1
-      - 🇰🇷韩国E1
-      - 🇰🇷韩国E2
       - 🇰🇷韩国L1
       - 🇰🇷韩国Y1
       - 🇰🇷韩国Y2
+      - 🇰🇷韩国Y3
       - 🇺🇸美国C1
       - 🇺🇸美国C2
-      - 🇺🇸美国C3
-      - 🇺🇸美国E1
-      - 🇺🇸美国E2
-      - 🇺🇸美国E3
       - 🇺🇸美国L1
       - 🇺🇸美国L2
       - 🇺🇸美国L3
       - 🇺🇸美国Y1
       - 🇺🇸美国Y2
-      - 🇺🇸美国Y3 | 下载专用
+      - 🇺🇸美国Y3
+      - 🇺🇸美国下载专用
       - 🇹🇼台湾C1
       - 🇹🇼台湾C2
       - 🇹🇼台湾C3
       - 🇹🇼台湾C4
-      - 🇹🇼台湾C5
-      - 🇹🇼台湾E1
-      - 🇹🇼台湾E2
       - 🇹🇼台湾L1
       - 🇹🇼台湾L2
+      - 🇹🇼台湾Y1
       - 🇭🇰香港C1
-      - 🇭🇰香港C2
-      - 🇭🇰香港C3
-      - 🇭🇰香港E1
-      - 🇭🇰香港E2
-      - 🇭🇰香港E3
       - 🇭🇰香港L1
       - 🇭🇰香港L2
       - 🇭🇰香港L3
-      - 🇬🇧英国E1
+      - 🇭🇰香港Y1
+      - 🇭🇰香港Y2
       - 🇬🇧英国L1
-      - 🇩🇪德国E1
+      - 🇬🇧英国Y1
       - 🇩🇪德国L1
-      - 🇫🇷法国E1
+      - 🇩🇪德国Y1
       - 🇫🇷法国L1
+      - 🇫🇷法国Y1
       - 🇳🇱荷兰L1
       - 🇳🇱荷兰Y1
-      - 🇳🇱荷兰Y2 | 下载专用
+      - 🇳🇱荷兰BT下载专用
+      - 🇳🇱荷兰BT下载专用2
       - 🇸🇪瑞典L1
-      - 🇮🇳印度C1
       - 🇮🇳印度L1
-      - 🇧🇷巴西Y1
+      - 🇮🇳印度Y1
       - 🇹🇭泰国L1
-      - 🇰🇵朝鲜E1
-      - 🇲🇴澳门E1
-      - 🇦🇶南极E1
-      - 🇷🇺俄罗斯E1
       - 🇷🇺俄罗斯L1
-      - 🇹🇷土耳其E1
       - 🇹🇷土耳其L1
-      - 🇱🇺卢森堡E1
-      - 🇦🇷阿根廷E1
       - 🇦🇷阿根廷L1
+      - 🇦🇪阿联酋Y1
       - 🇮🇹意大利L1
-      - 🇦🇺澳大利亚E1
       - 🇦🇺澳大利亚L1
       - 🇦🇺澳大利亚Y1
       - 🇲🇾马来西亚L1
-      - 🇳🇬尼日利亚E1
+      - 🇵🇰巴基斯坦L1
       - 🇳🇬尼日利亚L1
-      - 🇮🇩印度尼西亚L1
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -327,16 +274,12 @@ proxy-groups:
       - 🇸🇬💀新加坡AWS｜R.I.P.🪦
       - 🇬🇬精神鸡头🌴快乐欧卡🚛
       - 🇬🇬FixDate：1989.6.4
-      - 以下老朋友CEL
+      - 以下老朋友CLY
       - 🇸🇬新加坡C1
       - 🇸🇬新加坡C2
       - 🇸🇬新加坡C3
       - 🇸🇬新加坡C4
       - 🇸🇬新加坡C5
-      - 🇸🇬新加坡E1
-      - 🇸🇬新加坡E3
-      - 🇸🇬新加坡E4
-      - 🇸🇬新加坡E5
       - 🇸🇬新加坡L1
       - 🇸🇬新加坡L2
       - 🇸🇬新加坡L3
@@ -345,85 +288,62 @@ proxy-groups:
       - 🇯🇵日本C1
       - 🇯🇵日本C2
       - 🇯🇵日本C3
-      - 🇯🇵日本C4
-      - 🇯🇵日本C5
-      - 🇯🇵日本E1
-      - 🇯🇵日本E2
-      - 🇯🇵日本E3
       - 🇯🇵日本L1
       - 🇯🇵日本L2
       - 🇯🇵日本L3
       - 🇯🇵日本Y1
       - 🇯🇵日本Y2
       - 🇯🇵日本Y3
-      - 🇰🇷韩国C1
-      - 🇰🇷韩国E1
-      - 🇰🇷韩国E2
       - 🇰🇷韩国L1
       - 🇰🇷韩国Y1
       - 🇰🇷韩国Y2
+      - 🇰🇷韩国Y3
       - 🇺🇸美国C1
       - 🇺🇸美国C2
-      - 🇺🇸美国C3
-      - 🇺🇸美国E1
-      - 🇺🇸美国E2
-      - 🇺🇸美国E3
       - 🇺🇸美国L1
       - 🇺🇸美国L2
       - 🇺🇸美国L3
       - 🇺🇸美国Y1
       - 🇺🇸美国Y2
-      - 🇺🇸美国Y3 | 下载专用
+      - 🇺🇸美国Y3
+      - 🇺🇸美国下载专用
       - 🇹🇼台湾C1
       - 🇹🇼台湾C2
       - 🇹🇼台湾C3
       - 🇹🇼台湾C4
-      - 🇹🇼台湾C5
-      - 🇹🇼台湾E1
-      - 🇹🇼台湾E2
       - 🇹🇼台湾L1
       - 🇹🇼台湾L2
+      - 🇹🇼台湾Y1
       - 🇭🇰香港C1
-      - 🇭🇰香港C2
-      - 🇭🇰香港C3
-      - 🇭🇰香港E1
-      - 🇭🇰香港E2
-      - 🇭🇰香港E3
       - 🇭🇰香港L1
       - 🇭🇰香港L2
       - 🇭🇰香港L3
-      - 🇬🇧英国E1
+      - 🇭🇰香港Y1
+      - 🇭🇰香港Y2
       - 🇬🇧英国L1
-      - 🇩🇪德国E1
+      - 🇬🇧英国Y1
       - 🇩🇪德国L1
-      - 🇫🇷法国E1
+      - 🇩🇪德国Y1
       - 🇫🇷法国L1
+      - 🇫🇷法国Y1
       - 🇳🇱荷兰L1
       - 🇳🇱荷兰Y1
-      - 🇳🇱荷兰Y2 | 下载专用
+      - 🇳🇱荷兰BT下载专用
+      - 🇳🇱荷兰BT下载专用2
       - 🇸🇪瑞典L1
-      - 🇮🇳印度C1
       - 🇮🇳印度L1
-      - 🇧🇷巴西Y1
+      - 🇮🇳印度Y1
       - 🇹🇭泰国L1
-      - 🇰🇵朝鲜E1
-      - 🇲🇴澳门E1
-      - 🇦🇶南极E1
-      - 🇷🇺俄罗斯E1
       - 🇷🇺俄罗斯L1
-      - 🇹🇷土耳其E1
       - 🇹🇷土耳其L1
-      - 🇱🇺卢森堡E1
-      - 🇦🇷阿根廷E1
       - 🇦🇷阿根廷L1
+      - 🇦🇪阿联酋Y1
       - 🇮🇹意大利L1
-      - 🇦🇺澳大利亚E1
       - 🇦🇺澳大利亚L1
       - 🇦🇺澳大利亚Y1
       - 🇲🇾马来西亚L1
-      - 🇳🇬尼日利亚E1
+      - 🇵🇰巴基斯坦L1
       - 🇳🇬尼日利亚L1
-      - 🇮🇩印度尼西亚L1
   - name: ‼️ 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -440,16 +360,12 @@ proxy-groups:
       - 🇸🇬💀新加坡AWS｜R.I.P.🪦
       - 🇬🇬精神鸡头🌴快乐欧卡🚛
       - 🇬🇬FixDate：1989.6.4
-      - 以下老朋友CEL
+      - 以下老朋友CLY
       - 🇸🇬新加坡C1
       - 🇸🇬新加坡C2
       - 🇸🇬新加坡C3
       - 🇸🇬新加坡C4
       - 🇸🇬新加坡C5
-      - 🇸🇬新加坡E1
-      - 🇸🇬新加坡E3
-      - 🇸🇬新加坡E4
-      - 🇸🇬新加坡E5
       - 🇸🇬新加坡L1
       - 🇸🇬新加坡L2
       - 🇸🇬新加坡L3
@@ -458,85 +374,62 @@ proxy-groups:
       - 🇯🇵日本C1
       - 🇯🇵日本C2
       - 🇯🇵日本C3
-      - 🇯🇵日本C4
-      - 🇯🇵日本C5
-      - 🇯🇵日本E1
-      - 🇯🇵日本E2
-      - 🇯🇵日本E3
       - 🇯🇵日本L1
       - 🇯🇵日本L2
       - 🇯🇵日本L3
       - 🇯🇵日本Y1
       - 🇯🇵日本Y2
       - 🇯🇵日本Y3
-      - 🇰🇷韩国C1
-      - 🇰🇷韩国E1
-      - 🇰🇷韩国E2
       - 🇰🇷韩国L1
       - 🇰🇷韩国Y1
       - 🇰🇷韩国Y2
+      - 🇰🇷韩国Y3
       - 🇺🇸美国C1
       - 🇺🇸美国C2
-      - 🇺🇸美国C3
-      - 🇺🇸美国E1
-      - 🇺🇸美国E2
-      - 🇺🇸美国E3
       - 🇺🇸美国L1
       - 🇺🇸美国L2
       - 🇺🇸美国L3
       - 🇺🇸美国Y1
       - 🇺🇸美国Y2
-      - 🇺🇸美国Y3 | 下载专用
+      - 🇺🇸美国Y3
+      - 🇺🇸美国下载专用
       - 🇹🇼台湾C1
       - 🇹🇼台湾C2
       - 🇹🇼台湾C3
       - 🇹🇼台湾C4
-      - 🇹🇼台湾C5
-      - 🇹🇼台湾E1
-      - 🇹🇼台湾E2
       - 🇹🇼台湾L1
       - 🇹🇼台湾L2
+      - 🇹🇼台湾Y1
       - 🇭🇰香港C1
-      - 🇭🇰香港C2
-      - 🇭🇰香港C3
-      - 🇭🇰香港E1
-      - 🇭🇰香港E2
-      - 🇭🇰香港E3
       - 🇭🇰香港L1
       - 🇭🇰香港L2
       - 🇭🇰香港L3
-      - 🇬🇧英国E1
+      - 🇭🇰香港Y1
+      - 🇭🇰香港Y2
       - 🇬🇧英国L1
-      - 🇩🇪德国E1
+      - 🇬🇧英国Y1
       - 🇩🇪德国L1
-      - 🇫🇷法国E1
+      - 🇩🇪德国Y1
       - 🇫🇷法国L1
+      - 🇫🇷法国Y1
       - 🇳🇱荷兰L1
       - 🇳🇱荷兰Y1
-      - 🇳🇱荷兰Y2 | 下载专用
+      - 🇳🇱荷兰BT下载专用
+      - 🇳🇱荷兰BT下载专用2
       - 🇸🇪瑞典L1
-      - 🇮🇳印度C1
       - 🇮🇳印度L1
-      - 🇧🇷巴西Y1
+      - 🇮🇳印度Y1
       - 🇹🇭泰国L1
-      - 🇰🇵朝鲜E1
-      - 🇲🇴澳门E1
-      - 🇦🇶南极E1
-      - 🇷🇺俄罗斯E1
       - 🇷🇺俄罗斯L1
-      - 🇹🇷土耳其E1
       - 🇹🇷土耳其L1
-      - 🇱🇺卢森堡E1
-      - 🇦🇷阿根廷E1
       - 🇦🇷阿根廷L1
+      - 🇦🇪阿联酋Y1
       - 🇮🇹意大利L1
-      - 🇦🇺澳大利亚E1
       - 🇦🇺澳大利亚L1
       - 🇦🇺澳大利亚Y1
       - 🇲🇾马来西亚L1
-      - 🇳🇬尼日利亚E1
+      - 🇵🇰巴基斯坦L1
       - 🇳🇬尼日利亚L1
-      - 🇮🇩印度尼西亚L1
   - name: ⚠️ 裸奔直連
     type: select
     proxies:
@@ -566,16 +459,12 @@ proxy-groups:
       - 🇸🇬💀新加坡AWS｜R.I.P.🪦
       - 🇬🇬精神鸡头🌴快乐欧卡🚛
       - 🇬🇬FixDate：1989.6.4
-      - 以下老朋友CEL
+      - 以下老朋友CLY
       - 🇸🇬新加坡C1
       - 🇸🇬新加坡C2
       - 🇸🇬新加坡C3
       - 🇸🇬新加坡C4
       - 🇸🇬新加坡C5
-      - 🇸🇬新加坡E1
-      - 🇸🇬新加坡E3
-      - 🇸🇬新加坡E4
-      - 🇸🇬新加坡E5
       - 🇸🇬新加坡L1
       - 🇸🇬新加坡L2
       - 🇸🇬新加坡L3
@@ -584,93 +473,64 @@ proxy-groups:
       - 🇯🇵日本C1
       - 🇯🇵日本C2
       - 🇯🇵日本C3
-      - 🇯🇵日本C4
-      - 🇯🇵日本C5
-      - 🇯🇵日本E1
-      - 🇯🇵日本E2
-      - 🇯🇵日本E3
       - 🇯🇵日本L1
       - 🇯🇵日本L2
       - 🇯🇵日本L3
       - 🇯🇵日本Y1
       - 🇯🇵日本Y2
       - 🇯🇵日本Y3
-      - 🇰🇷韩国C1
-      - 🇰🇷韩国E1
-      - 🇰🇷韩国E2
       - 🇰🇷韩国L1
       - 🇰🇷韩国Y1
       - 🇰🇷韩国Y2
+      - 🇰🇷韩国Y3
       - 🇺🇸美国C1
       - 🇺🇸美国C2
-      - 🇺🇸美国C3
-      - 🇺🇸美国E1
-      - 🇺🇸美国E2
-      - 🇺🇸美国E3
       - 🇺🇸美国L1
       - 🇺🇸美国L2
       - 🇺🇸美国L3
       - 🇺🇸美国Y1
       - 🇺🇸美国Y2
-      - 🇺🇸美国Y3 | 下载专用
+      - 🇺🇸美国Y3
+      - 🇺🇸美国下载专用
       - 🇹🇼台湾C1
       - 🇹🇼台湾C2
       - 🇹🇼台湾C3
       - 🇹🇼台湾C4
-      - 🇹🇼台湾C5
-      - 🇹🇼台湾E1
-      - 🇹🇼台湾E2
       - 🇹🇼台湾L1
       - 🇹🇼台湾L2
+      - 🇹🇼台湾Y1
       - 🇭🇰香港C1
-      - 🇭🇰香港C2
-      - 🇭🇰香港C3
-      - 🇭🇰香港E1
-      - 🇭🇰香港E2
-      - 🇭🇰香港E3
       - 🇭🇰香港L1
       - 🇭🇰香港L2
       - 🇭🇰香港L3
-      - 🇬🇧英国E1
+      - 🇭🇰香港Y1
+      - 🇭🇰香港Y2
       - 🇬🇧英国L1
-      - 🇩🇪德国E1
+      - 🇬🇧英国Y1
       - 🇩🇪德国L1
-      - 🇫🇷法国E1
+      - 🇩🇪德国Y1
       - 🇫🇷法国L1
+      - 🇫🇷法国Y1
       - 🇳🇱荷兰L1
       - 🇳🇱荷兰Y1
-      - 🇳🇱荷兰Y2 | 下载专用
+      - 🇳🇱荷兰BT下载专用
+      - 🇳🇱荷兰BT下载专用2
       - 🇸🇪瑞典L1
-      - 🇮🇳印度C1
       - 🇮🇳印度L1
-      - 🇧🇷巴西Y1
+      - 🇮🇳印度Y1
       - 🇹🇭泰国L1
-      - 🇰🇵朝鲜E1
-      - 🇲🇴澳门E1
-      - 🇦🇶南极E1
-      - 🇷🇺俄罗斯E1
       - 🇷🇺俄罗斯L1
-      - 🇹🇷土耳其E1
       - 🇹🇷土耳其L1
-      - 🇱🇺卢森堡E1
-      - 🇦🇷阿根廷E1
       - 🇦🇷阿根廷L1
+      - 🇦🇪阿联酋Y1
       - 🇮🇹意大利L1
-      - 🇦🇺澳大利亚E1
       - 🇦🇺澳大利亚L1
       - 🇦🇺澳大利亚Y1
       - 🇲🇾马来西亚L1
-      - 🇳🇬尼日利亚E1
+      - 🇵🇰巴基斯坦L1
       - 🇳🇬尼日利亚L1
-      - 🇮🇩印度尼西亚L1
 
 rules:
-# 本地/局域网地址
-# 参考：https://en.wikipedia.org/wiki/Reserved_IP_addresses
-# ACL4SSR标志 如没有，代表不是用ACL4SSR规则
-# 本地/局域网地址
-# Router managed 路由器管理域名
-# 本碎片只包含常见广告关键字、广告联盟。无副作用，放心使用
   - DOMAIN-SUFFIX,acl4.ssr,⚠️ 裸奔直連
   - DOMAIN-SUFFIX,ip6-localhost,⚠️ 裸奔直連
   - DOMAIN-SUFFIX,ip6-loopback,⚠️ 裸奔直連
@@ -706,12 +566,6 @@ rules:
   - DOMAIN-SUFFIX,zte.home,⚠️ 裸奔直連
   - DOMAIN-SUFFIX,tplogin.cn,⚠️ 裸奔直連
   - DOMAIN-SUFFIX,wifi.cmcc,⚠️ 裸奔直連
-# 广告关键词
-# 广告联盟-国内****************
-# 广告联盟-国外****************
-# 垃圾站点****************
-# 运营商广告****************
-# 包含常用应用的各种去广告规则。
   - DOMAIN-KEYWORD,admarvel,⛔️ 攔截訪問
   - DOMAIN-KEYWORD,admaster,⛔️ 攔截訪問
   - DOMAIN-KEYWORD,adsage,⛔️ 攔截訪問
@@ -1304,66 +1158,6 @@ rules:
   - DOMAIN-SUFFIX,go.10086.cn,⛔️ 攔截訪問
   - DOMAIN-SUFFIX,hivedata.cc,⛔️ 攔截訪問
   - DOMAIN-SUFFIX,navi.gd.chinamobile.com,⛔️ 攔截訪問
-# 可能有轻微副作用，可放心使用。（如果网站功能和广告冲突，会删掉去广告规则）
-# 163
-# 17173
-# 178
-# 2345
-# 360
-# 58
-# Alibaba
-# Adobe
-# Apple
-# AutoHome
-# Baidu
-# Book-app 起点 掌阅 书旗 宜搜
-# ByteDance 头条抖音
-# Dangdang
-# Duomi
-# Facebook
-# Fang
-# Google
-# JD
-# Kugou
-# Kuwo
-# Meizu flyme 魅族
-# Meitu
-# Miui 小米
-# Moji
-# Qingting.fm
-# QQ
-# RenRen
-# Sina
-# Sougou
-# Teleplus
-# Twitter
-# UC ali
-# Weifeng
-# WPS Office
-# Wi-Fi key
-# Ximalaya 喜马拉雅
-# Xunlei 迅雷app&看看
-# Yahoo
-# Zhihu
-# Ads in Video apps 下面都是 ********************
-# 6间房
-# Baofeng 暴风影音
-# Douyu
-# Fenghuang 凤凰TV
-# Funshion 风行
-# iqiyi PPS 爱奇艺
-# Ku6 酷6
-# LeTV 乐视
-# MGTV 芒果TV
-# Sohu 搜狐
-# PPTV、PPLive
-# QQ Live
-# Youku & Tudou
-# Youtube
-# Others ads in Video apps
-# Ads in Video apps end 上面都是 ********************
-# 常用网站广告
-# Google China
   - DOMAIN-SUFFIX,a.youdao.com,⛔️ 攔截訪問
   - DOMAIN-SUFFIX,adgeo.corp.163.com,⛔️ 攔截訪問
   - DOMAIN-SUFFIX,analytics.126.net,⛔️ 攔截訪問
@@ -2387,7 +2181,6 @@ rules:
   - DOMAIN-SUFFIX,tralog.ganji.com,⛔️ 攔截訪問
   - DOMAIN-SUFFIX,up.qingdaonews.com,⛔️ 攔截訪問
   - DOMAIN-SUFFIX,vaserviece.10jqka.com.cn,⛔️ 攔截訪問
-# 内容：SteamCN
   - DOMAIN-SUFFIX,265.com,⚠️ 裸奔直連
   - DOMAIN-SUFFIX,2mdn.net,⚠️ 裸奔直連
   - DOMAIN-SUFFIX,alt1-mtalk.google.com,⚠️ 裸奔直連
@@ -2417,8 +2210,6 @@ rules:
   - DOMAIN-SUFFIX,tools.google.com,⚠️ 裸奔直連
   - DOMAIN-SUFFIX,tools.l.google.com,⚠️ 裸奔直連
   - DOMAIN-SUFFIX,www-googletagmanager.l.google.com,⚠️ 裸奔直連
-# 数量：16条
-# Telegram
   - DOMAIN,csgo.wmsj.cn,⚠️ 裸奔直連
   - DOMAIN,dl.steam.clngaa.com,⚠️ 裸奔直連
   - DOMAIN,dl.steam.ksyna.com,⚠️ 裸奔直連
@@ -2435,14 +2226,10 @@ rules:
   - DOMAIN-SUFFIX,steamchina.com,⚠️ 裸奔直連
   - DOMAIN-SUFFIX,steamcontent.com,⚠️ 裸奔直連
   - DOMAIN-SUFFIX,steamusercontent.com,⚠️ 裸奔直連
-# 长风网站，自动注入
   - DOMAIN-SUFFIX,v2rayse.com,💚 選擇節點
   - DOMAIN-SUFFIX,cff.pw,💚 選擇節點
   - DOMAIN-SUFFIX,vpnse.org,💚 選擇節點
   - DOMAIN-SUFFIX,cfmem.com,💚 選擇節點
-#PROCESS-NAME,Telegram.exe
-#PROCESS-NAME,org.telegram.messenger
-# 内容：国外媒体列表
   - DOMAIN-SUFFIX,t.me,💚 選擇節點
   - DOMAIN-SUFFIX,tdesktop.com,💚 選擇節點
   - DOMAIN-SUFFIX,telegra.ph,💚 選擇節點
@@ -2455,64 +2242,13 @@ rules:
   - IP-CIDR6,2001:67c:4e8::/48,💚 選擇節點,no-resolve
   - IP-CIDR6,2001:b28:f23d::/48,💚 選擇節點,no-resolve
   - IP-CIDR6,2001:b28:f23f::/48,💚 選擇節點,no-resolve
-# 更新：2024-06-30 11:02:56
-# 数量：367条
-# ABC
-# AbemaTV
-# All4
-# Amazon
-# AppleNews
-# AppleTV
-# BBCiPlayer
-# Bahamut
-# DAZN
-# Deezer
-# DiscoveryPlus
-# DisneyPlus
-# EncoreTVB
-# FoxNow
-# HBO
-# HBO_GO_HKG
-# HWTV
-# Hulu
-# HuluJapan
-# ITV
-# JOOX
-# Japonx
-# KKBOX
-# KKTV
-# LiTV
-# LineTV
-# My5
-# MyTVSuper
-# Netflix
-# Niconico
-# NivodTV
-# Olevod
-# OpenAi
-# PBS
-# Pandora
-# Pornhub
-# Qobuz
-# SoundCloud
-# Spotify
-# TIDAL
-# TaiWanGood 台湾好
-# TikTok
-# Twitch
-# ViuTV
-# YouTube
-# YouTubeMusic
-#   - USER-AGENT,AbemaTV*,💚 選擇節點
   - DOMAIN-SUFFIX,edgedatg.com,💚 選擇節點
   - DOMAIN-SUFFIX,go.com,💚 選擇節點
-#   - USER-AGENT,All4*,💚 選擇節點
   - DOMAIN-KEYWORD,abematv.akamaized.net,💚 選擇節點
   - DOMAIN-SUFFIX,abema.io,💚 選擇節點
   - DOMAIN-SUFFIX,abema.tv,💚 選擇節點
   - DOMAIN-SUFFIX,ameba.jp,💚 選擇節點
   - DOMAIN-SUFFIX,hayabusa.io,💚 選擇節點
-#   - URL-REGEX,^https?:\/\/www\.amazon\.com\/(Amazon-Video|gp\/video)\/,💚 選擇節點
   - DOMAIN-SUFFIX,c4assets.com,💚 選擇節點
   - DOMAIN-SUFFIX,channel4.com,💚 選擇節點
   - DOMAIN-KEYWORD,avoddashs,💚 選擇節點
@@ -2537,14 +2273,10 @@ rules:
   - DOMAIN-SUFFIX,media-amazon.com,💚 選擇節點
   - DOMAIN-SUFFIX,pv-cdn.net,💚 選擇節點
   - DOMAIN-SUFFIX,seattlespheres.com,💚 選擇節點
-#   - USER-AGENT,AppleNews*,💚 選擇節點
-#   - USER-AGENT,com.apple.news*,💚 選擇節點
-#   - USER-AGENT,BBCiPlayer*,💚 選擇節點
   - DOMAIN,gspe1-ssl.ls.apple.com,💚 選擇節點
   - DOMAIN,np-edge.itunes.apple.com,💚 選擇節點
   - DOMAIN,play-edge.itunes.apple.com,💚 選擇節點
   - DOMAIN-SUFFIX,tv.apple.com,💚 選擇節點
-#   - USER-AGENT,Anime*,💚 選擇節點
   - DOMAIN-KEYWORD,bbcfmt,💚 選擇節點
   - DOMAIN-KEYWORD,uk-live,💚 選擇節點
   - DOMAIN,aod-dash-uk-live.akamaized.net,💚 選擇節點
@@ -2559,13 +2291,11 @@ rules:
   - DOMAIN-SUFFIX,bbci.co,💚 選擇節點
   - DOMAIN-SUFFIX,bbci.co.uk,💚 選擇節點
   - DOMAIN-SUFFIX,bidi.net.uk,💚 選擇節點
-#   - USER-AGENT,DAZN*,💚 選擇節點
   - DOMAIN,bahamut.akamaized.net,💚 選擇節點
   - DOMAIN,gamer-cds.cdn.hinet.net,💚 選擇節點
   - DOMAIN,gamer2-cds.cdn.hinet.net,💚 選擇節點
   - DOMAIN-SUFFIX,bahamut.com.tw,💚 選擇節點
   - DOMAIN-SUFFIX,gamer.com.tw,💚 選擇節點
-#   - USER-AGENT,Deezer*,💚 選擇節點
   - DOMAIN-KEYWORD,voddazn,💚 選擇節點
   - DOMAIN,d151l6v8er5bdm.cloudfront.net,💚 選擇節點
   - DOMAIN-SUFFIX,d151l6v8er5bdm.cloudfront.net,💚 選擇節點
@@ -2577,14 +2307,11 @@ rules:
   - DOMAIN-SUFFIX,indazn.com,💚 選擇節點
   - DOMAIN-SUFFIX,indaznlab.com,💚 選擇節點
   - DOMAIN-SUFFIX,sentry.io,💚 選擇節點
-#   - USER-AGENT,Disney*,💚 選擇節點
   - DOMAIN-SUFFIX,deezer.com,💚 選擇節點
   - DOMAIN-SUFFIX,dzcdn.net,💚 選擇節點
   - DOMAIN-SUFFIX,disco-api.com,💚 選擇節點
   - DOMAIN-SUFFIX,discovery.com,💚 選擇節點
   - DOMAIN-SUFFIX,uplynk.com,💚 選擇節點
-#   - USER-AGENT,Disney+*,💚 選擇節點
-#   - USER-AGENT,encoreTVB*,💚 選擇節點
   - DOMAIN,cdn.registerdisney.go.com,💚 選擇節點
   - DOMAIN-SUFFIX,adobedtm.com,💚 選擇節點
   - DOMAIN-SUFFIX,bam.nr-data.net,💚 選擇節點
@@ -2605,24 +2332,19 @@ rules:
   - DOMAIN-SUFFIX,dssott.com,💚 選擇節點
   - DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com,💚 選擇節點
   - DOMAIN-SUFFIX,js-agent.newrelic.com,💚 選擇節點
-#   - USER-AGENT,FOX%20NOW*,💚 選擇節點
   - DOMAIN,bcbolt446c5271-a.akamaihd.net,💚 選擇節點
   - DOMAIN,content.jwplatform.com,💚 選擇節點
   - DOMAIN,edge.api.brightcove.com,💚 選擇節點
   - DOMAIN,videos-f.jwpsrv.com,💚 選擇節點
   - DOMAIN-SUFFIX,encoretvb.com,💚 選擇節點
-#   - USER-AGENT,HBO%20NOW*,💚 選擇節點
   - DOMAIN-SUFFIX,fox.com,💚 選擇節點
   - DOMAIN-SUFFIX,foxdcg.com,💚 選擇節點
   - DOMAIN-SUFFIX,uplynk.com,💚 選擇節點
-#   - USER-AGENT,HBOMAX*,💚 選擇節點
-#   - USER-AGENT,HBO%20GO%20PROD*,💚 選擇節點
   - DOMAIN-SUFFIX,hbo.com,💚 選擇節點
   - DOMAIN-SUFFIX,hbogo.com,💚 選擇節點
   - DOMAIN-SUFFIX,hbomax.com,💚 選擇節點
   - DOMAIN-SUFFIX,hbomaxcdn.com,💚 選擇節點
   - DOMAIN-SUFFIX,hbonow.com,💚 選擇節點
-#   - USER-AGENT,HWTVMobile*,💚 選擇節點
   - DOMAIN-KEYWORD,hbogoasia,💚 選擇節點
   - DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,💚 選擇節點
   - DOMAIN,bcbolthboa-a.akamaihd.net,💚 選擇節點
@@ -2642,7 +2364,6 @@ rules:
   - DOMAIN-SUFFIX,hboasia.com,💚 選擇節點
   - DOMAIN-SUFFIX,hbogoasia.com,💚 選擇節點
   - DOMAIN-SUFFIX,hbogoasia.hk,💚 選擇節點
-#   - USER-AGENT,ITV_Player*,💚 選擇節點
   - DOMAIN-SUFFIX,5itv.tv,💚 選擇節點
   - DOMAIN-SUFFIX,ocnttv.com,💚 選擇節點
   - DOMAIN-SUFFIX,cws-hulu.conviva.com,💚 選擇節點
@@ -2658,12 +2379,9 @@ rules:
   - DOMAIN-SUFFIX,prod.hjholdings.tv,💚 選擇節點
   - DOMAIN-SUFFIX,streaks.jp,💚 選擇節點
   - DOMAIN-SUFFIX,yb.uncn.jp,💚 選擇節點
-#   - USER-AGENT,JOOX*,💚 選擇節點
   - DOMAIN,itvpnpmobile-a.akamaihd.net,💚 選擇節點
   - DOMAIN-SUFFIX,itv.com,💚 選擇節點
   - DOMAIN-SUFFIX,itvstatic.com,💚 選擇節點
-#   - USER-AGENT,WeMusic*,💚 選擇節點
-#   - USER-AGENT,KKTV*,💚 選擇節點
   - DOMAIN-KEYWORD,jooxweb-api,💚 選擇節點
   - DOMAIN-SUFFIX,joox.com,💚 選擇節點
   - DOMAIN-KEYWORD,japonx,💚 選擇節點
@@ -2679,32 +2397,25 @@ rules:
   - DOMAIN-SUFFIX,kfs.io,💚 選擇節點
   - DOMAIN-SUFFIX,kkbox.com,💚 選擇節點
   - DOMAIN-SUFFIX,kkbox.com.tw,💚 選擇節點
-#   - USER-AGENT,com.kktv.ios.kktv*,💚 選擇節點
-#   - USER-AGENT,LINE%20TV*,💚 選擇節點
   - DOMAIN,kktv-theater.kk.stream,💚 選擇節點
   - DOMAIN,theater-kktv.cdn.hinet.net,💚 選擇節點
   - DOMAIN-SUFFIX,kktv.com.tw,💚 選擇節點
   - DOMAIN-SUFFIX,kktv.me,💚 選擇節點
   - DOMAIN,litvfreemobile-hichannel.cdn.hinet.net,💚 選擇節點
   - DOMAIN-SUFFIX,litv.tv,💚 選擇節點
-#   - USER-AGENT,LINE*,💚 選擇節點
-#   - USER-AGENT,My5*,💚 選擇節點
   - DOMAIN,d3c7rimkq79yfu.cloudfront.net,💚 選擇節點
   - DOMAIN-SUFFIX,d3c7rimkq79yfu.cloudfront.net,💚 選擇節點
   - DOMAIN-SUFFIX,linetv.tw,💚 選擇節點
   - DOMAIN-SUFFIX,profile.line-scdn.net,💚 選擇節點
-#   - USER-AGENT,mytv*,💚 選擇節點
   - DOMAIN,d349g9zuie06uo.cloudfront.net,💚 選擇節點
   - DOMAIN-SUFFIX,channel5.com,💚 選擇節點
   - DOMAIN-SUFFIX,my5.tv,💚 選擇節點
-#   - USER-AGENT,Argo*,💚 選擇節點
   - DOMAIN-KEYWORD,nowtv100,💚 選擇節點
   - DOMAIN-KEYWORD,rthklive,💚 選擇節點
   - DOMAIN,mytvsuperlimited.hb.omtrdc.net,💚 選擇節點
   - DOMAIN,mytvsuperlimited.sc.omtrdc.net,💚 選擇節點
   - DOMAIN-SUFFIX,mytvsuper.com,💚 選擇節點
   - DOMAIN-SUFFIX,tvb.com,💚 選擇節點
-#   - USER-AGENT,Niconico*,💚 選擇節點
   - DOMAIN-KEYWORD,apiproxy-device-prod-nlb-,💚 選擇節點
   - DOMAIN-KEYWORD,dualstack.apiproxy-,💚 選擇節點
   - DOMAIN-KEYWORD,netflixdnstest,💚 選擇節點
@@ -2745,7 +2456,6 @@ rules:
   - IP-CIDR,203.75.84.0/24,💚 選擇節點,no-resolve
   - IP-CIDR,207.45.72.0/22,💚 選擇節點,no-resolve
   - IP-CIDR,208.75.76.0/22,💚 選擇節點,no-resolve
-#   - USER-AGENT,PBS*,💚 選擇節點
   - DOMAIN-SUFFIX,dmc.nico,💚 選擇節點
   - DOMAIN-SUFFIX,nicovideo.jp,💚 選擇節點
   - DOMAIN-SUFFIX,nimg.jp,💚 選擇節點
@@ -2786,20 +2496,16 @@ rules:
   - DOMAIN-SUFFIX,openaiapi-site.azureedge.net,💚 選擇節點
   - DOMAIN-SUFFIX,sentry.io,💚 選擇節點
   - DOMAIN-SUFFIX,stripe.com,💚 選擇節點
-#   - USER-AGENT,Pandora*,💚 選擇節點
   - DOMAIN-SUFFIX,pbs.org,💚 選擇節點
-#   - USER-AGENT,SoundCloud*,💚 選擇節點
   - DOMAIN-SUFFIX,pandora.com,💚 選擇節點
   - DOMAIN-SUFFIX,phncdn.com,💚 選擇節點
   - DOMAIN-SUFFIX,phprcdn.com,💚 選擇節點
   - DOMAIN-SUFFIX,pornhub.com,💚 選擇節點
   - DOMAIN-SUFFIX,pornhubpremium.com,💚 選擇節點
   - DOMAIN-SUFFIX,qobuz.com,💚 選擇節點
-#   - USER-AGENT,Spotify*,💚 選擇節點
   - DOMAIN-SUFFIX,p-cdn.us,💚 選擇節點
   - DOMAIN-SUFFIX,sndcdn.com,💚 選擇節點
   - DOMAIN-SUFFIX,soundcloud.com,💚 選擇節點
-#   - USER-AGENT,TIDAL*,💚 選擇節點
   - DOMAIN-KEYWORD,-spotify-,💚 選擇節點
   - DOMAIN-KEYWORD,spotify.com,💚 選擇節點
   - DOMAIN-SUFFIX,pscdn.co,💚 選擇節點
@@ -2808,14 +2514,11 @@ rules:
   - DOMAIN-SUFFIX,spotify.com,💚 選擇節點
   - DOMAIN-SUFFIX,spotifycdn.com,💚 選擇節點
   - DOMAIN-SUFFIX,spotifycdn.net,💚 選擇節點
-#   - USER-AGENT,TaiwanGood*,💚 選擇節點
   - DOMAIN-SUFFIX,tidal-cms.s3.amazonaws.com,💚 選擇節點
   - DOMAIN-SUFFIX,tidal.com,💚 選擇節點
   - DOMAIN-SUFFIX,tidalhifi.com,💚 選擇節點
-#   - USER-AGENT,TikTok*,💚 選擇節點
   - DOMAIN,hamifans.emome.net,💚 選擇節點
   - DOMAIN-SUFFIX,skyking.com.tw,💚 選擇節點
-#   - USER-AGENT,Viu*,💚 選擇節點
   - DOMAIN-KEYWORD,tiktokcdn,💚 選擇節點
   - DOMAIN-SUFFIX,byteoversea.com,💚 選擇節點
   - DOMAIN-SUFFIX,ibytedtos.com,💚 選擇節點
@@ -2833,7 +2536,6 @@ rules:
   - DOMAIN-SUFFIX,twitch-ext.rootonline.de,💚 選擇節點
   - DOMAIN-SUFFIX,twitch.tv,💚 選擇節點
   - DOMAIN-SUFFIX,twitchcdn.net,💚 選擇節點
-#   - USER-AGENT,*youtube*,💚 選擇節點
   - PROCESS-NAME,com.viu.pad,💚 選擇節點
   - PROCESS-NAME,com.viu.phone,💚 選擇節點
   - PROCESS-NAME,com.vuclip.viu,💚 選擇節點
@@ -2849,9 +2551,6 @@ rules:
   - DOMAIN-SUFFIX,viu.com,💚 選擇節點
   - DOMAIN-SUFFIX,viu.now.com,💚 選擇節點
   - DOMAIN-SUFFIX,viu.tv,💚 選擇節點
-#   - USER-AGENT,YouTube*,💚 選擇節點
-#   - USER-AGENT,com.google.ios.youtube*,💚 選擇節點
-#   - USER-AGENT,*YouTubeMusic*,💚 選擇節點
   - DOMAIN-KEYWORD,youtube,💚 選擇節點
   - DOMAIN,youtubei.googleapis.com,💚 選擇節點
   - DOMAIN,yt3.ggpht.com,💚 選擇節點
@@ -2866,46 +2565,7 @@ rules:
   - DOMAIN-SUFFIX,youtubekids.com,💚 選擇節點
   - DOMAIN-SUFFIX,yt.be,💚 選擇節點
   - DOMAIN-SUFFIX,ytimg.com,💚 選擇節點
-#   - USER-AGENT,*com.google.ios.youtubemusic*,💚 選擇節點
-#   - USER-AGENT,YouTubeMusic*,💚 選擇節點
-#   - USER-AGENT,com.google.ios.youtubemusic*,💚 選擇節點
-# 代理列表
   - DOMAIN,music.youtube.com,💚 選擇節點
-# MyList && Other
-# 国外域名
-# 国外域名关键字
-# Top Blocked Sites
-# Amazon
-# BBC
-# Claude
-# Developer 开发者常用国外网站、镜像和论坛
-# Discord
-# Facebook
-# Github
-# Google
-# GoogleCNProxyIP 谷歌中国服务 services.googleapis.cn
-# Instagram
-# Kakao Talk
-# Line
-# OpenAi
-# OneDrive
-#DOMAIN-SUFFIX,aria.microsoft.com
-# Porn
-# Pixiv
-# Spark
-# Steam
-# TapTap
-# Twitch
-# Twitter
-# Telegram
-# TeraBox
-# Whatsapp
-# Wikipedia 维基相关域名
-# Zoom
-#飞流直播
-#华文电视
-# VikACG
-# 直连列表
   - DOMAIN-SUFFIX,1password.com,💚 選擇節點
   - DOMAIN-SUFFIX,adguard.org,💚 選擇節點
   - DOMAIN-SUFFIX,bit.no.com,💚 選擇節點
@@ -3325,53 +2985,6 @@ rules:
   - DOMAIN-SUFFIX,ocnttv.com,💚 選擇節點
   - DOMAIN-SUFFIX,vikacg.com,💚 選擇節點
   - DOMAIN-SUFFIX,picjs.xyz,💚 選擇節點
-# MyList
-# CN域名直连(中国|公司|网络)
-# 中国国内常见域名关键词直连
-# 360
-# 4399
-# 58
-# Alibaba
-# Baidu
-# Bilibili
-# ByteDance
-# CCTV
-# ChinaNet
-# DiDi
-# Douyu 斗鱼
-# Epic
-# HuaWei
-# Heytap
-# Iflytek 科大讯飞
-# Iqiyi
-# JD
-# Kingsoft
-# Kuaishou 快手
-# Meitu
-# LeTV 乐视
-# MGTV 芒果TV
-# MI
-# NetEase
-# PPTV、PPLive
-# PDD 拼多多
-# Sina
-# Sohu Sogo
-# Sony
-# SteamCN
-# Tencent
-# Vip 唯品会
-# Ximalaya 喜马拉雅
-# Xunlei 迅雷
-# YYeTs 人人影视
-# TeamViewer
-# Public Direct CDN 公共直连
-#DOMAIN-SUFFIX,ajax.aspnetcdn.com
-#DOMAIN-SUFFIX,ajax.cloudflare.com
-#DOMAIN-SUFFIX,cdnjs.cloudflare.com
-#DOMAIN-SUFFIX,code.jquery.com
-# China DNS
-# AccelerateDirectSites
-# 中国云服务商ip端
   - DOMAIN-SUFFIX,13th.tech,⚠️ 裸奔直連
   - DOMAIN-SUFFIX,423down.com,⚠️ 裸奔直連
   - DOMAIN-SUFFIX,bokecc.com,⚠️ 裸奔直連
@@ -3980,12 +3593,6 @@ rules:
   - DOMAIN-SUFFIX,zhipin.com,⚠️ 裸奔直連
   - DOMAIN-SUFFIX,zhongsou.com,⚠️ 裸奔直連
   - DOMAIN-SUFFIX,zhuihd.com,⚠️ 裸奔直連
-# 阿里
-# 腾讯 qq
-# 百度 Baidu
-# 华为 huwei
-# 网易 NetEase
-# 360
   - IP-CIDR,8.128.0.0/10,⚠️ 裸奔直連,no-resolve
   - IP-CIDR,8.208.0.0/12,⚠️ 裸奔直連,no-resolve
   - IP-CIDR,14.1.112.0/22,⚠️ 裸奔直連,no-resolve
