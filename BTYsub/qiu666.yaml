@@ -88,10 +88,10 @@ dns:
       - 0.0.0.0/32
 
 proxies:
-  - {"name":"🇸🇬SG新加坡01 | 优选解锁","type":"vmess","server":"visa.com.sg","port":8080,"cipher":"auto","uuid":"949ca3ff-04fb-4bac-dfaf-d0afe2c66f48","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"dosg1.bty2024.me"}}}
-  - {"name":"🇸🇬SG新加坡02 | 优化解锁","type":"vmess","server":"visa.com.sg","port":2082,"cipher":"auto","uuid":"27ab7a8e-f3bc-4d57-c464-109e02917ac1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"ducksg2.bty2024.me"}}}
-  - {"name":"🇸🇬SG新加坡03 | 优选解锁","type":"vmess","server":"visa.com.sg","port":80,"cipher":"auto","uuid":"325c7e6a-ea0b-4e16-e0d0-a5db7f66b195","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"azsg_1.bty2024.me"}}}
-  - {"name":"🇺🇸US美国 | 优化解锁","type":"vmess","server":"visa.com","port":80,"cipher":"auto","uuid":"f67c96ba-95ae-490c-f329-abc4f1987945","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"dous1.bty2024.me"}}}
+  - {"name":"🇸🇬SG新加坡01 | 优选解锁","type":"vmess","server":"visa.cm.sg","port":886,"cipher":"auto","uuid":"949ca3ff-04fb-4bac-dfaf-d0afe2c66f48","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"dosg1.bty2024.me"}}}
+  - {"name":"🇸🇬SG新加坡02 | 优化解锁","type":"vmess","server":"vi.com.sg","port":2085,"cipher":"auto","uuid":"27ab7a8e-f3bc-4d57-c464-109e02917ac1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"ducksg2.bty2024.me"}}}
+  - {"name":"🇸🇬SG新加坡03 | 优选解锁","type":"vmess","server":"visa.com.sg","port":8964,"cipher":"auto","uuid":"325c7e6a-ea0b-4e16-e0d0-a5db7f66b195","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"azsg_1.bty2024.me"}}}
+  - {"name":"🇺🇸US美国 | 优化解锁","type":"vmess","server":"va.com","port":80,"cipher":"auto","uuid":"f67c96ba-95ae-490c-f329-abc4f1987945","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"dous1.bty2024.me"}}}
   - {"name":"套餐到期：2024-10-26\r","type":"ss","server":"132.145.126.148","port":29961,"password":"69f98502-2a08-4379-9fff-a7e43228475b","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇸🇬新加坡L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12025,"udp":true,"password":"262192d3-128c-4f19-97e7-965f1e2ee7a0","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇸🇬新加坡L2","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12022,"udp":true,"password":"262192d3-128c-4f19-97e7-965f1e2ee7a0","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
