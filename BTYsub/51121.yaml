@@ -102,96 +102,85 @@ proxies:
   - {"name":"🇸🇬新加坡E2","type":"ss","server":"5n6ifmvm4doy5jmdghvmglyzy4uqfc5f8hnv.biliapi.xyz","port":25480,"password":"a3f8ef8a-b9a8-48d5-ab4d-e55735741b36","cipher":"aes-128-gcm"}
   - {"name":"🇸🇬新加坡E3","type":"ss","server":"5n6ifmvm4doy5jmdghvmglyzy4uqfc5f8hnv.biliapi.xyz","port":25483,"password":"a3f8ef8a-b9a8-48d5-ab4d-e55735741b36","cipher":"aes-128-gcm"}
   - {"name":"🇸🇬新加坡E4","type":"ss","server":"5n6ifmvm4doy5jmdghvmglyzy4uqfc5f8hnv.biliapi.xyz","port":25482,"password":"a3f8ef8a-b9a8-48d5-ab4d-e55735741b36","cipher":"aes-128-gcm"}
-  - {"name":"🇸🇬新加坡L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12025,"udp":true,"password":"262192d3-128c-4f19-97e7-965f1e2ee7a0","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇸🇬新加坡L2","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12022,"udp":true,"password":"262192d3-128c-4f19-97e7-965f1e2ee7a0","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇸🇬新加坡L3","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12023,"udp":true,"password":"262192d3-128c-4f19-97e7-965f1e2ee7a0","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇸🇬新加坡Y1","type":"hysteria2","server":"54.179.4.150","port":28088,"password":"4482c8c6-f96f-422e-9857-963d8fe86c26","sni":"www.bing.com","skip-cert-verify":true}
-  - {"name":"🇸🇬新加坡Y2","type":"hysteria2","server":"168.138.184.187","port":46407,"password":"4482c8c6-f96f-422e-9857-963d8fe86c26","sni":"www.bing.com","skip-cert-verify":true}
-  - {"name":"🇸🇬新加坡Y3","type":"hysteria2","server":"168.138.188.106","port":43623,"password":"4482c8c6-f96f-422e-9857-963d8fe86c26","sni":"www.bing.com","skip-cert-verify":true}
+  - {"name":"🇸🇬新加坡L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12021,"udp":true,"password":"c1da7853-6b75-486e-84a4-6d1ac352eb8e","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇸🇬新加坡L2","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12025,"udp":true,"password":"c1da7853-6b75-486e-84a4-6d1ac352eb8e","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇸🇬新加坡L3","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12023,"udp":true,"password":"c1da7853-6b75-486e-84a4-6d1ac352eb8e","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇸🇬新加坡Y1","type":"hysteria2","server":"54.179.4.150","port":46750,"password":"61795919-381f-4258-aef4-d79048018f46","sni":"www.bing.com","skip-cert-verify":true}
+  - {"name":"🇸🇬新加坡Y2","type":"hysteria2","server":"168.138.184.187","port":31674,"password":"61795919-381f-4258-aef4-d79048018f46","sni":"www.bing.com","skip-cert-verify":true}
+  - {"name":"🇸🇬新加坡Y3","type":"hysteria2","server":"168.138.188.106","port":40270,"password":"61795919-381f-4258-aef4-d79048018f46","sni":"www.bing.com","skip-cert-verify":true}
   - {"name":"🇯🇵日本E1","type":"ss","server":"pb2draiip8t4ukrodmjhefg7ughxrvrji3cq.biliapi.xyz","port":25475,"password":"a3f8ef8a-b9a8-48d5-ab4d-e55735741b36","cipher":"aes-128-gcm"}
   - {"name":"🇯🇵日本E2","type":"ss","server":"pb2draiip8t4ukrodmjhefg7ughxrvrji3cq.biliapi.xyz","port":25472,"password":"a3f8ef8a-b9a8-48d5-ab4d-e55735741b36","cipher":"aes-128-gcm"}
   - {"name":"🇯🇵日本E3","type":"ss","server":"pb2draiip8t4ukrodmjhefg7ughxrvrji3cq.biliapi.xyz","port":25474,"password":"a3f8ef8a-b9a8-48d5-ab4d-e55735741b36","cipher":"aes-128-gcm"}
-  - {"name":"🇯🇵日本L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12034,"udp":true,"password":"262192d3-128c-4f19-97e7-965f1e2ee7a0","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇯🇵日本L2","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12032,"udp":true,"password":"262192d3-128c-4f19-97e7-965f1e2ee7a0","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇯🇵日本L3","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12035,"udp":true,"password":"262192d3-128c-4f19-97e7-965f1e2ee7a0","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇯🇵日本Y1","type":"hysteria2","server":"138.2.31.176","port":25700,"password":"4482c8c6-f96f-422e-9857-963d8fe86c26","sni":"www.bing.com","skip-cert-verify":true}
-  - {"name":"🇯🇵日本Y2","type":"hysteria2","server":"138.3.208.201","port":43238,"password":"4482c8c6-f96f-422e-9857-963d8fe86c26","sni":"www.bing.com","skip-cert-verify":true}
-  - {"name":"🇯🇵日本Y3","type":"vless","server":"162.159.58.35","port":443,"uuid":"4482c8c6-f96f-422e-9857-963d8fe86c26","tls":true,"network":"ws","ws-opts":{"path":"/yfjc/jp1"}}
+  - {"name":"🇯🇵日本L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12031,"udp":true,"password":"c1da7853-6b75-486e-84a4-6d1ac352eb8e","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇯🇵日本L2","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12035,"udp":true,"password":"c1da7853-6b75-486e-84a4-6d1ac352eb8e","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇯🇵日本L3","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12033,"udp":true,"password":"c1da7853-6b75-486e-84a4-6d1ac352eb8e","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇯🇵日本Y1","type":"vless","server":"162.159.138.178","port":443,"uuid":"61795919-381f-4258-aef4-d79048018f46","tls":true,"network":"ws","ws-opts":{"path":"/yfjc/jp1"}}
+  - {"name":"🇯🇵日本Y2","type":"hysteria2","server":"141.147.156.163","port":47129,"password":"61795919-381f-4258-aef4-d79048018f46","sni":"www.bing.com","skip-cert-verify":true}
+  - {"name":"🇯🇵日本Y3","type":"hysteria2","server":"138.2.31.176","port":41554,"password":"61795919-381f-4258-aef4-d79048018f46","sni":"www.bing.com","skip-cert-verify":true}
   - {"name":"🇰🇷韩国E1","type":"vmess","server":"38nn7tb3nckccjbq.mzstatic.cloud","port":80,"cipher":"auto","uuid":"a3f8ef8a-b9a8-48d5-ab4d-e55735741b36","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/yukihasu?ed=2560","headers":{"host":"dm.toutiao.com"}}}
   - {"name":"🇰🇷韩国E2","type":"ss","server":"pb2draiip8t4ukrodmjhefg7ughxrvrji3cq.biliapi.xyz","port":25441,"password":"a3f8ef8a-b9a8-48d5-ab4d-e55735741b36","cipher":"aes-128-gcm"}
-  - {"name":"🇰🇷韩国L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12041,"udp":true,"password":"262192d3-128c-4f19-97e7-965f1e2ee7a0","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇰🇷韩国Y1","type":"hysteria2","server":"152.70.234.101","port":36555,"password":"4482c8c6-f96f-422e-9857-963d8fe86c26","sni":"www.bing.com","skip-cert-verify":true}
-  - {"name":"🇰🇷韩国Y2","type":"hysteria2","server":"193.122.106.44","port":29387,"password":"4482c8c6-f96f-422e-9857-963d8fe86c26","sni":"www.bing.com","skip-cert-verify":true}
-  - {"name":"🇰🇷韩国Y3","type":"vless","server":"193.123.236.234","port":443,"uuid":"4482c8c6-f96f-422e-9857-963d8fe86c26","tls":true,"servername":"b295-23ap29-6bh.xn--4gq62f52gppi29k.com"}
+  - {"name":"🇰🇷韩国L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12041,"udp":true,"password":"c1da7853-6b75-486e-84a4-6d1ac352eb8e","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇰🇷韩国Y1","type":"hysteria2","server":"152.70.234.101","port":34540,"password":"61795919-381f-4258-aef4-d79048018f46","sni":"www.bing.com","skip-cert-verify":true}
+  - {"name":"🇰🇷韩国Y2","type":"hysteria2","server":"193.122.106.44","port":49215,"password":"61795919-381f-4258-aef4-d79048018f46","sni":"www.bing.com","skip-cert-verify":true}
+  - {"name":"🇰🇷韩国Y3","type":"hysteria2","server":"158.179.164.122","port":22988,"password":"61795919-381f-4258-aef4-d79048018f46","sni":"www.bing.com","skip-cert-verify":true}
   - {"name":"🇺🇸美国E1","type":"ss","server":"h8uht3qo6ly3lib9bdq3b3xfox9o9yevq7f5.biliapi.xyz","port":25592,"password":"a3f8ef8a-b9a8-48d5-ab4d-e55735741b36","cipher":"aes-128-gcm"}
   - {"name":"🇺🇸美国E2","type":"vmess","server":"3pend5l52u89qy9z.mzstatic.cloud","port":1080,"cipher":"auto","uuid":"a3f8ef8a-b9a8-48d5-ab4d-e55735741b36","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/yukihasu?ed=2560","headers":{"host":"us-1.bilivideo.cloud"}}}
   - {"name":"🇺🇸美国E3","type":"ss","server":"h8uht3qo6ly3lib9bdq3b3xfox9o9yevq7f5.biliapi.xyz","port":25591,"password":"a3f8ef8a-b9a8-48d5-ab4d-e55735741b36","cipher":"aes-128-gcm"}
-  - {"name":"🇺🇸美国L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12051,"udp":true,"password":"262192d3-128c-4f19-97e7-965f1e2ee7a0","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇺🇸美国L2","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12052,"udp":true,"password":"262192d3-128c-4f19-97e7-965f1e2ee7a0","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇺🇸美国L3","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12053,"udp":true,"password":"262192d3-128c-4f19-97e7-965f1e2ee7a0","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇺🇸美国Y1","type":"vless","server":"163.123.192.186","port":5443,"uuid":"4482c8c6-f96f-422e-9857-963d8fe86c26","tls":true,"servername":"yfus1.xn--4gq62f52gppi29k.com"}
-  - {"name":"🇺🇸美国Y2","type":"vless","server":"155.248.213.85","port":443,"uuid":"4482c8c6-f96f-422e-9857-963d8fe86c26","tls":true,"servername":"767w1-45dc0-9ocf2.xn--4gq62f52gppi29k.com"}
-  - {"name":"🇺🇸美国Y3","type":"hysteria2","server":"163.123.192.112","port":54039,"password":"4482c8c6-f96f-422e-9857-963d8fe86c26","sni":"www.bing.com","skip-cert-verify":true}
-  - {"name":"🇺🇸美国 | 下载专用","type":"vless","server":"185.176.24.87","port":443,"uuid":"4482c8c6-f96f-422e-9857-963d8fe86c26","tls":true,"servername":"k7us1.yfjc.sbs","network":"ws","ws-opts":{"path":"/yfjc/kus1"}}
+  - {"name":"🇺🇸美国L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12051,"udp":true,"password":"c1da7853-6b75-486e-84a4-6d1ac352eb8e","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸美国L2","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12052,"udp":true,"password":"c1da7853-6b75-486e-84a4-6d1ac352eb8e","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸美国L3","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12053,"udp":true,"password":"c1da7853-6b75-486e-84a4-6d1ac352eb8e","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸美国Y1","type":"hysteria2","server":"163.123.192.140","port":54057,"skip-cert-verify":true}
+  - {"name":"🇺🇸美国Y2","type":"hysteria2","server":"163.123.192.112","port":54021,"skip-cert-verify":true}
+  - {"name":"🇺🇸美国 | 下载专用1","type":"vless","server":"185.176.24.87","port":443,"uuid":"61795919-381f-4258-aef4-d79048018f46","tls":true,"servername":"k7us1.yfjc.sbs","network":"ws","ws-opts":{"path":"/yfjc/kus1"}}
+  - {"name":"🇺🇸美国 | 下载专用2","type":"vless","server":"89.116.161.168","port":443,"uuid":"61795919-381f-4258-aef4-d79048018f46","tls":true,"servername":"k6us2.yfjc.sbs","network":"ws","ws-opts":{"path":"/yfjc/kus2"}}
   - {"name":"🇹🇼台湾E1","type":"ss","server":"ozrsbbhcqdtrh5meiwhfot2qllialp48xnpk.biliapi.xyz","port":25491,"password":"a3f8ef8a-b9a8-48d5-ab4d-e55735741b36","cipher":"aes-128-gcm"}
   - {"name":"🇹🇼台湾E2","type":"ss","server":"ozrsbbhcqdtrh5meiwhfot2qllialp48xnpk.biliapi.xyz","port":25490,"password":"a3f8ef8a-b9a8-48d5-ab4d-e55735741b36","cipher":"aes-128-gcm"}
-  - {"name":"🇹🇼台湾L1","type":"trojan","server":"cn1.cdn.xfltd-cdn.top","port":12011,"udp":true,"password":"262192d3-128c-4f19-97e7-965f1e2ee7a0","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇹🇼台湾Y1","type":"vless","server":"3bd9.55dba.e048.f65-fef1f.yfjcs.com","port":443,"uuid":"4482c8c6-f96f-422e-9857-963d8fe86c26","tls":true,"servername":"tw.xn--4gq62f52gppi29k.com"}
+  - {"name":"🇹🇼台湾L1","type":"trojan","server":"cn1.cdn.xfltd-cdn.top","port":12011,"udp":true,"password":"c1da7853-6b75-486e-84a4-6d1ac352eb8e","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇹🇼台湾L2","type":"trojan","server":"cn1.cdn.xfltd-cdn.top","port":12012,"udp":true,"password":"c1da7853-6b75-486e-84a4-6d1ac352eb8e","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇭🇰香港E1","type":"vmess","server":"d7qlavy665ejtfcn.mzstatic.cloud","port":80,"cipher":"auto","uuid":"a3f8ef8a-b9a8-48d5-ab4d-e55735741b36","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/yukihasu?ed=2560","headers":{"host":"p11.douyinpic.com"}}}
   - {"name":"🇭🇰香港E2","type":"ss","server":"455kdqs6a76d8el54sbthyiw5sgaly8p8ym2.biliapi.xyz","port":25466,"password":"a3f8ef8a-b9a8-48d5-ab4d-e55735741b36","cipher":"aes-128-gcm"}
   - {"name":"🇭🇰香港E3","type":"ss","server":"455kdqs6a76d8el54sbthyiw5sgaly8p8ym2.biliapi.xyz","port":25462,"password":"a3f8ef8a-b9a8-48d5-ab4d-e55735741b36","cipher":"aes-128-gcm"}
-  - {"name":"🇭🇰香港L1","type":"trojan","server":"cn1.cdn.xfltd-cdn.top","port":12005,"udp":true,"password":"262192d3-128c-4f19-97e7-965f1e2ee7a0","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇭🇰香港L2","type":"trojan","server":"cn1.cdn.xfltd-cdn.top","port":12006,"udp":true,"password":"262192d3-128c-4f19-97e7-965f1e2ee7a0","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇭🇰香港L3","type":"trojan","server":"cn1.cdn.xfltd-cdn.top","port":12003,"udp":true,"password":"262192d3-128c-4f19-97e7-965f1e2ee7a0","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇭🇰香港Y1","type":"vless","server":"3bd9.55dca.e048.f65-fef1f.yfjcs.com","port":443,"uuid":"4482c8c6-f96f-422e-9857-963d8fe86c26","tls":true,"servername":"yfhk1.xn--4gq62f52gppi29k.com"}
-  - {"name":"🇭🇰香港Y2","type":"vless","server":"3bd9.55dca.e048.f65-fef1f.yfjcs.com","port":443,"uuid":"4482c8c6-f96f-422e-9857-963d8fe86c26","tls":true,"servername":"yfhk1.xn--4gq62f52gppi29k.com"}
+  - {"name":"🇭🇰香港L1","type":"trojan","server":"cn1.cdn.xfltd-cdn.top","port":12001,"udp":true,"password":"c1da7853-6b75-486e-84a4-6d1ac352eb8e","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇭🇰香港L2","type":"trojan","server":"cn1.cdn.xfltd-cdn.top","port":12005,"udp":true,"password":"c1da7853-6b75-486e-84a4-6d1ac352eb8e","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇭🇰香港L3","type":"trojan","server":"cn1.cdn.xfltd-cdn.top","port":12003,"udp":true,"password":"c1da7853-6b75-486e-84a4-6d1ac352eb8e","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇬🇧英国E1","type":"ss","server":"nktodw3gtxxtmi2m6ih38vv2rllkysstyw6f.biliapi.xyz","port":25803,"password":"a3f8ef8a-b9a8-48d5-ab4d-e55735741b36","cipher":"aes-128-gcm"}
-  - {"name":"🇬🇧英国L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12069,"udp":true,"password":"262192d3-128c-4f19-97e7-965f1e2ee7a0","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇬🇧英国Y1","type":"vless","server":"143.47.236.28","port":443,"uuid":"4482c8c6-f96f-422e-9857-963d8fe86c26","tls":true,"servername":"767w1-38dc0-9kcf2.xn--4gq62f52gppi29k.com"}
-  - {"name":"🇬🇧英国Y2","type":"vless","server":"141.147.102.96","port":443,"uuid":"4482c8c6-f96f-422e-9857-963d8fe86c26","tls":true,"servername":"767w1-38dc0-9icf2.xn--4gq62f52gppi29k.com"}
+  - {"name":"🇬🇧英国L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12069,"udp":true,"password":"c1da7853-6b75-486e-84a4-6d1ac352eb8e","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇩🇪德国E1","type":"ss","server":"nktodw3gtxxtmi2m6ih38vv2rllkysstyw6f.biliapi.xyz","port":25800,"password":"a3f8ef8a-b9a8-48d5-ab4d-e55735741b36","cipher":"aes-128-gcm"}
-  - {"name":"🇩🇪德国L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12070,"udp":true,"password":"262192d3-128c-4f19-97e7-965f1e2ee7a0","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇩🇪德国Y1","type":"vless","server":"150.230.147.10","port":443,"uuid":"4482c8c6-f96f-422e-9857-963d8fe86c26","tls":true,"servername":"767w1-85dc0-9ocf2.xn--4gq62f52gppi29k.com"}
-  - {"name":"🇩🇪德国Y2","type":"vless","server":"141.147.33.180","port":443,"uuid":"4482c8c6-f96f-422e-9857-963d8fe86c26","tls":true,"servername":"767w1-85dc0-9yjd.xn--4gq62f52gppi29k.com"}
+  - {"name":"🇩🇪德国L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12070,"udp":true,"password":"c1da7853-6b75-486e-84a4-6d1ac352eb8e","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇫🇷法国E1","type":"ss","server":"nktodw3gtxxtmi2m6ih38vv2rllkysstyw6f.biliapi.xyz","port":25805,"password":"a3f8ef8a-b9a8-48d5-ab4d-e55735741b36","cipher":"aes-128-gcm"}
-  - {"name":"🇫🇷法国L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12065,"udp":true,"password":"262192d3-128c-4f19-97e7-965f1e2ee7a0","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇫🇷法国Y1","type":"vless","server":"89.168.37.109","port":443,"uuid":"4482c8c6-f96f-422e-9857-963d8fe86c26","tls":true,"servername":"downloadfr.xn--4gq62f52gppi29k.com"}
-  - {"name":"🇫🇷法国Y2","type":"vless","server":"89.168.34.45","port":443,"uuid":"4482c8c6-f96f-422e-9857-963d8fe86c26","tls":true,"servername":"b2-9fr2329-6bh.xn--4gq62f52gppi29k.com"}
-  - {"name":"🇫🇷法国Y3","type":"vless","server":"144.24.206.147","port":443,"uuid":"4482c8c6-f96f-422e-9857-963d8fe86c26","tls":true,"servername":"b2-9fr5232-96bh.xn--4gq62f52gppi29k.com"}
-  - {"name":"🇳🇱荷兰L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12074,"udp":true,"password":"262192d3-128c-4f19-97e7-965f1e2ee7a0","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇳🇱荷兰Y1","type":"hysteria2","server":"204.10.194.86","port":38258,"skip-cert-verify":true}
-  - {"name":"🇳🇱荷兰Y2","type":"vless","server":"158.101.195.118","port":443,"uuid":"4482c8c6-f96f-422e-9857-963d8fe86c26","tls":true,"servername":"b295-23nl29-6bh.xn--4gq62f52gppi29k.com"}
-  - {"name":"🇳🇱荷兰 | 下载专用1","type":"vless","server":"188.42.145.72","port":443,"uuid":"4482c8c6-f96f-422e-9857-963d8fe86c26","tls":true,"servername":"y0nl2.yfjc.sbs","network":"ws","ws-opts":{"path":"/yfjc/knl2"}}
-  - {"name":"🇳🇱荷兰 | 下载专用2","type":"vless","server":"204.10.194.78","port":443,"uuid":"4482c8c6-f96f-422e-9857-963d8fe86c26","tls":true,"servername":"yfnl1.xn--4gq62f52gppi29k.com"}
+  - {"name":"🇫🇷法国L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12065,"udp":true,"password":"c1da7853-6b75-486e-84a4-6d1ac352eb8e","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇳🇱荷兰L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12074,"udp":true,"password":"c1da7853-6b75-486e-84a4-6d1ac352eb8e","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇳🇱荷兰Y1","type":"hysteria2","server":"204.10.194.86","port":34745,"skip-cert-verify":true}
+  - {"name":"🇳🇱荷兰 | 下载专用1","type":"vless","server":"188.42.145.72","port":443,"uuid":"61795919-381f-4258-aef4-d79048018f46","tls":true,"servername":"y0nl2.yfjc.sbs","network":"ws","ws-opts":{"path":"/yfjc/knl2"}}
+  - {"name":"🇳🇱荷兰 | 下载专用2","type":"vless","server":"77.37.33.136","port":443,"uuid":"61795919-381f-4258-aef4-d79048018f46","tls":true,"servername":"k7nl1.yfjc.sbs","network":"ws","ws-opts":{"path":"/yfjc/knl1"}}
   - {"name":"🇸🇪瑞典E1","type":"ss","server":"nktodw3gtxxtmi2m6ih38vv2rllkysstyw6f.biliapi.xyz","port":25807,"password":"a3f8ef8a-b9a8-48d5-ab4d-e55735741b36","cipher":"aes-128-gcm"}
-  - {"name":"🇸🇪瑞典L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12071,"udp":true,"password":"262192d3-128c-4f19-97e7-965f1e2ee7a0","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇸🇪瑞典Y1","type":"vless","server":"129.151.206.225","port":443,"uuid":"4482c8c6-f96f-422e-9857-963d8fe86c26","tls":true,"servername":"yfsg.xn--4gq62f52gppi29k.com"}
+  - {"name":"🇸🇪瑞典L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12071,"udp":true,"password":"c1da7853-6b75-486e-84a4-6d1ac352eb8e","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇮🇳印度E1","type":"ss","server":"5n6ifmvm4doy5jmdghvmglyzy4uqfc5f8hnv.biliapi.xyz","port":25485,"password":"a3f8ef8a-b9a8-48d5-ab4d-e55735741b36","cipher":"aes-128-gcm"}
-  - {"name":"🇮🇳印度L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12072,"udp":true,"password":"262192d3-128c-4f19-97e7-965f1e2ee7a0","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇮🇳印度Y1","type":"vless","server":"129.154.254.128","port":5443,"uuid":"4482c8c6-f96f-422e-9857-963d8fe86c26","tls":true,"servername":"767w1-38dc0-9ocf2.xn--4gq62f52gppi29k.com"}
-  - {"name":"🇮🇳印度Y2","type":"hysteria2","server":"140.245.28.185","port":54865,"password":"4482c8c6-f96f-422e-9857-963d8fe86c26","sni":"www.bing.com","skip-cert-verify":true}
-  - {"name":"🇮🇳印度Y3","type":"vless","server":"129.159.227.221","port":443,"uuid":"4482c8c6-f96f-422e-9857-963d8fe86c26","tls":true,"servername":"767w1-7kjd0-9kcf2.xn--4gq62f52gppi29k.com"}
-  - {"name":"🇧🇷巴西Y1","type":"hysteria2","server":"129.148.39.249","port":27874,"skip-cert-verify":true}
-  - {"name":"🇦🇪迪拜Y1","type":"vless","server":"193.123.86.232","port":443,"uuid":"4482c8c6-f96f-422e-9857-963d8fe86c26","tls":true,"servername":"b295-23ae29-6bh.xn--4gq62f52gppi29k.com"}
+  - {"name":"🇮🇳印度L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12072,"udp":true,"password":"c1da7853-6b75-486e-84a4-6d1ac352eb8e","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇮🇳印度Y1","type":"hysteria2","server":"140.245.28.185","port":40577,"skip-cert-verify":true}
+  - {"name":"🇮🇳印度Y2","type":"hysteria2","server":"129.154.237.229","port":32379,"skip-cert-verify":true}
   - {"name":"🇲🇴澳门E1","type":"ss","server":"ajbki989lfxn9asifvhrjqdrcdylb7i279tf.biliapi.xyz","port":25581,"password":"a3f8ef8a-b9a8-48d5-ab4d-e55735741b36","cipher":"aes-128-gcm"}
   - {"name":"🇰🇵朝鲜E1","type":"ss","server":"ajbki989lfxn9asifvhrjqdrcdylb7i279tf.biliapi.xyz","port":25580,"password":"a3f8ef8a-b9a8-48d5-ab4d-e55735741b36","cipher":"aes-128-gcm"}
-  - {"name":"🇮🇹意大利L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12062,"udp":true,"password":"262192d3-128c-4f19-97e7-965f1e2ee7a0","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇧🇷巴西Y1","type":"hysteria2","server":"129.148.39.249","port":46930,"skip-cert-verify":true}
+  - {"name":"🇹🇭泰国L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12076,"udp":true,"password":"c1da7853-6b75-486e-84a4-6d1ac352eb8e","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇮🇹意大利L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12062,"udp":true,"password":"c1da7853-6b75-486e-84a4-6d1ac352eb8e","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇱🇺卢森堡E1","type":"ss","server":"nktodw3gtxxtmi2m6ih38vv2rllkysstyw6f.biliapi.xyz","port":25804,"password":"a3f8ef8a-b9a8-48d5-ab4d-e55735741b36","cipher":"aes-128-gcm"}
   - {"name":"🇷🇺俄罗斯E1","type":"ss","server":"nktodw3gtxxtmi2m6ih38vv2rllkysstyw6f.biliapi.xyz","port":25802,"password":"a3f8ef8a-b9a8-48d5-ab4d-e55735741b36","cipher":"aes-128-gcm"}
-  - {"name":"🇷🇺俄罗斯L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12075,"udp":true,"password":"262192d3-128c-4f19-97e7-965f1e2ee7a0","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇷🇺俄罗斯L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12075,"udp":true,"password":"c1da7853-6b75-486e-84a4-6d1ac352eb8e","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇹🇷土耳其E1","type":"ss","server":"nktodw3gtxxtmi2m6ih38vv2rllkysstyw6f.biliapi.xyz","port":25801,"password":"a3f8ef8a-b9a8-48d5-ab4d-e55735741b36","cipher":"aes-128-gcm"}
-  - {"name":"🇹🇷土耳其L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12064,"udp":true,"password":"262192d3-128c-4f19-97e7-965f1e2ee7a0","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇹🇷土耳其L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12064,"udp":true,"password":"c1da7853-6b75-486e-84a4-6d1ac352eb8e","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇦🇷阿根廷E1","type":"ss","server":"nktodw3gtxxtmi2m6ih38vv2rllkysstyw6f.biliapi.xyz","port":25806,"password":"a3f8ef8a-b9a8-48d5-ab4d-e55735741b36","cipher":"aes-128-gcm"}
-  - {"name":"🇦🇷阿根廷L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12066,"udp":true,"password":"262192d3-128c-4f19-97e7-965f1e2ee7a0","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇦🇷阿根廷L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12066,"udp":true,"password":"c1da7853-6b75-486e-84a4-6d1ac352eb8e","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇦🇺澳大利亚E1","type":"ss","server":"5n6ifmvm4doy5jmdghvmglyzy4uqfc5f8hnv.biliapi.xyz","port":25484,"password":"a3f8ef8a-b9a8-48d5-ab4d-e55735741b36","cipher":"aes-128-gcm"}
-  - {"name":"🇦🇺澳大利亚L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12068,"udp":true,"password":"262192d3-128c-4f19-97e7-965f1e2ee7a0","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇦🇺澳大利亚Y1","type":"hysteria2","server":"192.9.181.38","port":45295,"skip-cert-verify":true}
-  - {"name":"🇦🇺澳大利亚Y2","type":"hysteria2","server":"192.9.176.249","port":46491,"skip-cert-verify":true}
-  - {"name":"🇲🇾马来西亚L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12067,"udp":true,"password":"262192d3-128c-4f19-97e7-965f1e2ee7a0","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇵🇰巴基斯坦L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12077,"udp":true,"password":"262192d3-128c-4f19-97e7-965f1e2ee7a0","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇦🇺澳大利亚L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12068,"udp":true,"password":"c1da7853-6b75-486e-84a4-6d1ac352eb8e","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇦🇺澳大利亚Y1","type":"hysteria2","server":"192.9.181.38","port":37022,"skip-cert-verify":true}
+  - {"name":"🇦🇺澳大利亚Y2","type":"hysteria2","server":"192.9.176.249","port":28998,"skip-cert-verify":true}
+  - {"name":"🇲🇾马来西亚L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12067,"udp":true,"password":"c1da7853-6b75-486e-84a4-6d1ac352eb8e","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇵🇰巴基斯坦L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12077,"udp":true,"password":"c1da7853-6b75-486e-84a4-6d1ac352eb8e","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇳🇬尼日利亚E1","type":"ss","server":"pb2draiip8t4ukrodmjhefg7ughxrvrji3cq.biliapi.xyz","port":25440,"password":"a3f8ef8a-b9a8-48d5-ab4d-e55735741b36","cipher":"aes-128-gcm"}
-  - {"name":"🇳🇬尼日利亚L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12073,"udp":true,"password":"262192d3-128c-4f19-97e7-965f1e2ee7a0","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇳🇬尼日利亚L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12073,"udp":true,"password":"c1da7853-6b75-486e-84a4-6d1ac352eb8e","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇮🇩印度尼西亚E1","type":"ss","server":"5n6ifmvm4doy5jmdghvmglyzy4uqfc5f8hnv.biliapi.xyz","port":25486,"password":"a3f8ef8a-b9a8-48d5-ab4d-e55735741b36","cipher":"aes-128-gcm"}
+  - {"name":"🇮🇩印度尼西亚L1","type":"trojan","server":"cn2.cdn.xfltd-cdn.top","port":12061,"udp":true,"password":"c1da7853-6b75-486e-84a4-6d1ac352eb8e","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp"}
 proxy-groups:
   - name: 💚 選擇節點
     type: select
@@ -240,50 +229,38 @@ proxy-groups:
       - 🇺🇸美国L3
       - 🇺🇸美国Y1
       - 🇺🇸美国Y2
-      - 🇺🇸美国Y3
-      - 🇺🇸美国 | 下载专用
+      - 🇺🇸美国 | 下载专用1
+      - 🇺🇸美国 | 下载专用2
       - 🇹🇼台湾E1
       - 🇹🇼台湾E2
       - 🇹🇼台湾L1
-      - 🇹🇼台湾Y1
+      - 🇹🇼台湾L2
       - 🇭🇰香港E1
       - 🇭🇰香港E2
       - 🇭🇰香港E3
       - 🇭🇰香港L1
       - 🇭🇰香港L2
       - 🇭🇰香港L3
-      - 🇭🇰香港Y1
-      - 🇭🇰香港Y2
       - 🇬🇧英国E1
       - 🇬🇧英国L1
-      - 🇬🇧英国Y1
-      - 🇬🇧英国Y2
       - 🇩🇪德国E1
       - 🇩🇪德国L1
-      - 🇩🇪德国Y1
-      - 🇩🇪德国Y2
       - 🇫🇷法国E1
       - 🇫🇷法国L1
-      - 🇫🇷法国Y1
-      - 🇫🇷法国Y2
-      - 🇫🇷法国Y3
       - 🇳🇱荷兰L1
       - 🇳🇱荷兰Y1
-      - 🇳🇱荷兰Y2
       - 🇳🇱荷兰 | 下载专用1
       - 🇳🇱荷兰 | 下载专用2
       - 🇸🇪瑞典E1
       - 🇸🇪瑞典L1
-      - 🇸🇪瑞典Y1
       - 🇮🇳印度E1
       - 🇮🇳印度L1
       - 🇮🇳印度Y1
       - 🇮🇳印度Y2
-      - 🇮🇳印度Y3
-      - 🇧🇷巴西Y1
-      - 🇦🇪迪拜Y1
       - 🇲🇴澳门E1
       - 🇰🇵朝鲜E1
+      - 🇧🇷巴西Y1
+      - 🇹🇭泰国L1
       - 🇮🇹意大利L1
       - 🇱🇺卢森堡E1
       - 🇷🇺俄罗斯E1
@@ -301,6 +278,7 @@ proxy-groups:
       - 🇳🇬尼日利亚E1
       - 🇳🇬尼日利亚L1
       - 🇮🇩印度尼西亚E1
+      - 🇮🇩印度尼西亚L1
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -349,50 +327,38 @@ proxy-groups:
       - 🇺🇸美国L3
       - 🇺🇸美国Y1
       - 🇺🇸美国Y2
-      - 🇺🇸美国Y3
-      - 🇺🇸美国 | 下载专用
+      - 🇺🇸美国 | 下载专用1
+      - 🇺🇸美国 | 下载专用2
       - 🇹🇼台湾E1
       - 🇹🇼台湾E2
       - 🇹🇼台湾L1
-      - 🇹🇼台湾Y1
+      - 🇹🇼台湾L2
       - 🇭🇰香港E1
       - 🇭🇰香港E2
       - 🇭🇰香港E3
       - 🇭🇰香港L1
       - 🇭🇰香港L2
       - 🇭🇰香港L3
-      - 🇭🇰香港Y1
-      - 🇭🇰香港Y2
       - 🇬🇧英国E1
       - 🇬🇧英国L1
-      - 🇬🇧英国Y1
-      - 🇬🇧英国Y2
       - 🇩🇪德国E1
       - 🇩🇪德国L1
-      - 🇩🇪德国Y1
-      - 🇩🇪德国Y2
       - 🇫🇷法国E1
       - 🇫🇷法国L1
-      - 🇫🇷法国Y1
-      - 🇫🇷法国Y2
-      - 🇫🇷法国Y3
       - 🇳🇱荷兰L1
       - 🇳🇱荷兰Y1
-      - 🇳🇱荷兰Y2
       - 🇳🇱荷兰 | 下载专用1
       - 🇳🇱荷兰 | 下载专用2
       - 🇸🇪瑞典E1
       - 🇸🇪瑞典L1
-      - 🇸🇪瑞典Y1
       - 🇮🇳印度E1
       - 🇮🇳印度L1
       - 🇮🇳印度Y1
       - 🇮🇳印度Y2
-      - 🇮🇳印度Y3
-      - 🇧🇷巴西Y1
-      - 🇦🇪迪拜Y1
       - 🇲🇴澳门E1
       - 🇰🇵朝鲜E1
+      - 🇧🇷巴西Y1
+      - 🇹🇭泰国L1
       - 🇮🇹意大利L1
       - 🇱🇺卢森堡E1
       - 🇷🇺俄罗斯E1
@@ -410,6 +376,7 @@ proxy-groups:
       - 🇳🇬尼日利亚E1
       - 🇳🇬尼日利亚L1
       - 🇮🇩印度尼西亚E1
+      - 🇮🇩印度尼西亚L1
   - name: ‼️ 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -457,50 +424,38 @@ proxy-groups:
       - 🇺🇸美国L3
       - 🇺🇸美国Y1
       - 🇺🇸美国Y2
-      - 🇺🇸美国Y3
-      - 🇺🇸美国 | 下载专用
+      - 🇺🇸美国 | 下载专用1
+      - 🇺🇸美国 | 下载专用2
       - 🇹🇼台湾E1
       - 🇹🇼台湾E2
       - 🇹🇼台湾L1
-      - 🇹🇼台湾Y1
+      - 🇹🇼台湾L2
       - 🇭🇰香港E1
       - 🇭🇰香港E2
       - 🇭🇰香港E3
       - 🇭🇰香港L1
       - 🇭🇰香港L2
       - 🇭🇰香港L3
-      - 🇭🇰香港Y1
-      - 🇭🇰香港Y2
       - 🇬🇧英国E1
       - 🇬🇧英国L1
-      - 🇬🇧英国Y1
-      - 🇬🇧英国Y2
       - 🇩🇪德国E1
       - 🇩🇪德国L1
-      - 🇩🇪德国Y1
-      - 🇩🇪德国Y2
       - 🇫🇷法国E1
       - 🇫🇷法国L1
-      - 🇫🇷法国Y1
-      - 🇫🇷法国Y2
-      - 🇫🇷法国Y3
       - 🇳🇱荷兰L1
       - 🇳🇱荷兰Y1
-      - 🇳🇱荷兰Y2
       - 🇳🇱荷兰 | 下载专用1
       - 🇳🇱荷兰 | 下载专用2
       - 🇸🇪瑞典E1
       - 🇸🇪瑞典L1
-      - 🇸🇪瑞典Y1
       - 🇮🇳印度E1
       - 🇮🇳印度L1
       - 🇮🇳印度Y1
       - 🇮🇳印度Y2
-      - 🇮🇳印度Y3
-      - 🇧🇷巴西Y1
-      - 🇦🇪迪拜Y1
       - 🇲🇴澳门E1
       - 🇰🇵朝鲜E1
+      - 🇧🇷巴西Y1
+      - 🇹🇭泰国L1
       - 🇮🇹意大利L1
       - 🇱🇺卢森堡E1
       - 🇷🇺俄罗斯E1
@@ -518,6 +473,7 @@ proxy-groups:
       - 🇳🇬尼日利亚E1
       - 🇳🇬尼日利亚L1
       - 🇮🇩印度尼西亚E1
+      - 🇮🇩印度尼西亚L1
   - name: ⚠️ 裸奔直連
     type: select
     proxies:
@@ -578,50 +534,38 @@ proxy-groups:
       - 🇺🇸美国L3
       - 🇺🇸美国Y1
       - 🇺🇸美国Y2
-      - 🇺🇸美国Y3
-      - 🇺🇸美国 | 下载专用
+      - 🇺🇸美国 | 下载专用1
+      - 🇺🇸美国 | 下载专用2
       - 🇹🇼台湾E1
       - 🇹🇼台湾E2
       - 🇹🇼台湾L1
-      - 🇹🇼台湾Y1
+      - 🇹🇼台湾L2
       - 🇭🇰香港E1
       - 🇭🇰香港E2
       - 🇭🇰香港E3
       - 🇭🇰香港L1
       - 🇭🇰香港L2
       - 🇭🇰香港L3
-      - 🇭🇰香港Y1
-      - 🇭🇰香港Y2
       - 🇬🇧英国E1
       - 🇬🇧英国L1
-      - 🇬🇧英国Y1
-      - 🇬🇧英国Y2
       - 🇩🇪德国E1
       - 🇩🇪德国L1
-      - 🇩🇪德国Y1
-      - 🇩🇪德国Y2
       - 🇫🇷法国E1
       - 🇫🇷法国L1
-      - 🇫🇷法国Y1
-      - 🇫🇷法国Y2
-      - 🇫🇷法国Y3
       - 🇳🇱荷兰L1
       - 🇳🇱荷兰Y1
-      - 🇳🇱荷兰Y2
       - 🇳🇱荷兰 | 下载专用1
       - 🇳🇱荷兰 | 下载专用2
       - 🇸🇪瑞典E1
       - 🇸🇪瑞典L1
-      - 🇸🇪瑞典Y1
       - 🇮🇳印度E1
       - 🇮🇳印度L1
       - 🇮🇳印度Y1
       - 🇮🇳印度Y2
-      - 🇮🇳印度Y3
-      - 🇧🇷巴西Y1
-      - 🇦🇪迪拜Y1
       - 🇲🇴澳门E1
       - 🇰🇵朝鲜E1
+      - 🇧🇷巴西Y1
+      - 🇹🇭泰国L1
       - 🇮🇹意大利L1
       - 🇱🇺卢森堡E1
       - 🇷🇺俄罗斯E1
@@ -639,6 +583,7 @@ proxy-groups:
       - 🇳🇬尼日利亚E1
       - 🇳🇬尼日利亚L1
       - 🇮🇩印度尼西亚E1
+      - 🇮🇩印度尼西亚L1
 
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,⚠️ 裸奔直連
