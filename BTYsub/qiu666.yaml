@@ -93,28 +93,31 @@ proxies:
   - {"name":"🇸🇬新加坡C1","type":"trojan","server":"11sg0001.564659.xyz","port":10150,"udp":true,"password":"5e42fefc-8ea8-46f6-bbad-8070db4490fd","sni":"11sg0001.564659.xyz","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇸🇬新加坡C2","type":"hysteria2","server":"2ru04d7b1648e-9312-203c-8784-442475d42f1f.233235.xyz","port":8080,"password":"5e42fefc-8ea8-46f6-bbad-8070db4490fd","sni":"2ru04d7b1648e-9312-203c-8784-442475d42f1f.233235.xyz","skip-cert-verify":true}
   - {"name":"🇸🇬新加坡C3","type":"trojan","server":"2sg002ff0f283d-2433-bbbe-4d7a-59990b8b8b74.233235.xyz","port":816,"udp":true,"password":"5e42fefc-8ea8-46f6-bbad-8070db4490fd","sni":"2sg002ff0f283d-2433-bbbe-4d7a-59990b8b8b74.233235.xyz","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇸🇬新加坡Y1","type":"hysteria2","server":"168.138.184.187","port":26471,"password":"9c2be164-411e-478b-9061-be6ab339d525","sni":"www.bing.com","skip-cert-verify":true}
-  - {"name":"🇸🇬新加坡Y2","type":"hysteria2","server":"168.138.188.106","port":37272,"password":"9c2be164-411e-478b-9061-be6ab339d525","sni":"www.bing.com","skip-cert-verify":true}
-  - {"name":"🇸🇬新加坡Y3","type":"hysteria2","server":"54.179.4.150","port":42944,"skip-cert-verify":true}
+  - {"name":"🇸🇬新加坡H1","type":"ss","server":"gsgs.hy2.one","port":53342,"password":"ZGQ3YjY3YWEtMDQzZS00NWMxLTg0Y2YtZDdiZmMyOGM=","cipher":"2022-blake3-aes-256-gcm:OGYyMGNmOTA4MjJlMTE3NmFlNTMzZDdmZDVlZWQwYzE="}
+  - {"name":"🇸🇬新加坡H2","type":"ss","server":"gsgs.hy2.one","port":53341,"password":"ZGQ3YjY3YWEtMDQzZS00NWMxLTg0Y2YtZDdiZmMyOGM=","cipher":"2022-blake3-aes-256-gcm:OGYyMGNmOTA4MjJlMTE3NmFlNTMzZDdmZDVlZWQwYzE="}
+  - {"name":"🇸🇬新加坡H3","type":"ss","server":"gsgs.hy2.one","port":53340,"password":"ZGQ3YjY3YWEtMDQzZS00NWMxLTg0Y2YtZDdiZmMyOGM=","cipher":"2022-blake3-aes-256-gcm:OGYyMGNmOTA4MjJlMTE3NmFlNTMzZDdmZDVlZWQwYzE="}
+  - {"name":"🇸🇬新加坡H4","type":"vmess","server":"cf.hy2.one","port":2052,"cipher":"auto","uuid":"dd7b67aa-043e-45c1-84cf-d7bfc28c235d","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/0","headers":{"host":"sg0002.hy-2.top"}}}
+  - {"name":"🇸🇬新加坡Y1","type":"hysteria2","server":"54.179.4.150","port":41883,"password":"48b6b338-02b5-435e-8bcf-8e63f74ed0b6","sni":"www.bing.com","skip-cert-verify":true}
+  - {"name":"🇸🇬新加坡Y2","type":"hysteria2","server":"168.138.184.187","port":45955,"password":"48b6b338-02b5-435e-8bcf-8e63f74ed0b6","sni":"www.bing.com","skip-cert-verify":true}
+  - {"name":"🇸🇬新加坡Y3","type":"hysteria2","server":"168.138.188.106","port":23109,"password":"48b6b338-02b5-435e-8bcf-8e63f74ed0b6","sni":"www.bing.com","skip-cert-verify":true}
   - {"name":"🇯🇵日本C1","type":"trojan","server":"jpmax01.564659.xyz","port":10150,"udp":true,"password":"5e42fefc-8ea8-46f6-bbad-8070db4490fd","sni":"jpmax01.564659.xyz","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇯🇵日本C2","type":"trojan","server":"0jp05.233235.xyz","port":1123,"udp":true,"password":"5e42fefc-8ea8-46f6-bbad-8070db4490fd","sni":"0jp05.233235.xyz","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇯🇵日本C3","type":"trojan","server":"1jpmax05.233235.xyz","port":1123,"udp":true,"password":"5e42fefc-8ea8-46f6-bbad-8070db4490fd","sni":"1jpmax05.233235.xyz","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇯🇵日本H1","type":"ss","server":"gsgs.hy2.one","port":53339,"password":"ZGQ3YjY3YWEtMDQzZS00NWMxLTg0Y2YtZDdiZmMyOGM=","cipher":"2022-blake3-aes-256-gcm:OGYyMGNmOTA4MjJlMTE3NmFlNTMzZDdmZDVlZWQwYzE="}
-  - {"name":"🇯🇵日本Y1","type":"hysteria2","server":"138.2.2.120","port":49106,"password":"9c2be164-411e-478b-9061-be6ab339d525","sni":"www.bing.com","skip-cert-verify":true}
-  - {"name":"🇯🇵日本Y2","type":"hysteria2","server":"138.2.31.176","port":37498,"password":"9c2be164-411e-478b-9061-be6ab339d525","sni":"www.bing.com","skip-cert-verify":true}
-  - {"name":"🇯🇵日本Y3","type":"hysteria2","server":"138.3.208.201","port":28443,"password":"9c2be164-411e-478b-9061-be6ab339d525","sni":"www.bing.com","skip-cert-verify":true}
-  - {"name":"🇰🇷韩国Y1","type":"hysteria2","server":"132.226.171.133","port":31681,"skip-cert-verify":true}
-  - {"name":"🇰🇷韩国Y2","type":"hysteria2","server":"193.122.106.44","port":52216,"skip-cert-verify":true}
-  - {"name":"🇰🇷韩国Y3","type":"hysteria2","server":"152.70.234.101","port":31952,"skip-cert-verify":true}
+  - {"name":"🇯🇵日本Y1","type":"vless","server":"162.159.138.178","port":443,"uuid":"48b6b338-02b5-435e-8bcf-8e63f74ed0b6","tls":true,"network":"ws","ws-opts":{"path":"/yfjc/jp1"}}
+  - {"name":"🇯🇵日本Y2","type":"hysteria2","server":"138.2.2.120","port":41593,"password":"48b6b338-02b5-435e-8bcf-8e63f74ed0b6","sni":"www.bing.com","skip-cert-verify":true}
+  - {"name":"🇯🇵日本Y3","type":"hysteria2","server":"138.2.31.176","port":37688,"password":"48b6b338-02b5-435e-8bcf-8e63f74ed0b6","sni":"www.bing.com","skip-cert-verify":true}
+  - {"name":"🇰🇷韩国Y1","type":"hysteria2","server":"132.226.235.134","port":21454,"password":"48b6b338-02b5-435e-8bcf-8e63f74ed0b6","sni":"www.bing.com","skip-cert-verify":true}
+  - {"name":"🇰🇷韩国Y2","type":"hysteria2","server":"150.230.253.68","port":43612,"password":"48b6b338-02b5-435e-8bcf-8e63f74ed0b6","sni":"www.bing.com","skip-cert-verify":true}
+  - {"name":"🇰🇷韩国Y3","type":"hysteria2","server":"152.70.234.101","port":46045,"password":"48b6b338-02b5-435e-8bcf-8e63f74ed0b6","sni":"www.bing.com","skip-cert-verify":true}
   - {"name":"🇺🇸美国C1","type":"trojan","server":"twjpzznew.564659.xyz","port":63639,"udp":true,"password":"5e42fefc-8ea8-46f6-bbad-8070db4490fd","sni":"usmax03.233235.xyz","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇺🇸美国C2","type":"trojan","server":"twjpzznew.564659.xyz","port":49838,"udp":true,"password":"5e42fefc-8ea8-46f6-bbad-8070db4490fd","sni":"usmax051.579679.xyz","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇺🇸美国C3","type":"hysteria2","server":"hyfnus01.595780.xyz","port":8080,"password":"5e42fefc-8ea8-46f6-bbad-8070db4490fd","sni":"hyfnus01.595780.xyz","skip-cert-verify":true}
-  - {"name":"🇺🇸美国H1","type":"hysteria2","server":"us03.hy2.one","port":38732,"skip-cert-verify":true}
-  - {"name":"🇺🇸美国H2","type":"ss","server":"gsgs.hy2.one","port":63324,"password":"ZGQ3YjY3YWEtMDQzZS00NWMxLTg0Y2YtZDdiZmMyOGM=","cipher":"2022-blake3-aes-256-gcm:OGYyMGNmOTA4MjJlMTE3NmFlNTMzZDdmZDVlZWQwYzE="}
-  - {"name":"🇺🇸美国H3","type":"ss","server":"gsgs.hy2.one","port":53333,"password":"ZGQ3YjY3YWEtMDQzZS00NWMxLTg0Y2YtZDdiZmMyOGM=","cipher":"2022-blake3-aes-256-gcm:OGYyMGNmOTA4MjJlMTE3NmFlNTMzZDdmZDVlZWQwYzE="}
-  - {"name":"🇺🇸美国Y1","type":"vless","server":"185.176.24.87","port":443,"uuid":"9c2be164-411e-478b-9061-be6ab339d525","tls":true,"servername":"k7us1.yfjc.sbs","network":"ws","ws-opts":{"path":"/yfjc/kus1"}}
-  - {"name":"🇺🇸美国Y2","type":"hysteria2","server":"163.123.192.112","port":54030,"skip-cert-verify":true}
-  - {"name":"🇺🇸美国Y3","type":"hysteria2","server":"163.123.192.140","port":54036,"skip-cert-verify":true}
+  - {"name":"🇺🇸美国H1","type":"ss","server":"gsgs.hy2.one","port":63324,"password":"ZGQ3YjY3YWEtMDQzZS00NWMxLTg0Y2YtZDdiZmMyOGM=","cipher":"2022-blake3-aes-256-gcm:OGYyMGNmOTA4MjJlMTE3NmFlNTMzZDdmZDVlZWQwYzE="}
+  - {"name":"🇺🇸美国Y1","type":"hysteria2","server":"163.123.192.140","port":54005,"skip-cert-verify":true}
+  - {"name":"🇺🇸美国Y2","type":"hysteria2","server":"163.123.192.112","port":54024,"skip-cert-verify":true}
+  - {"name":"🇺🇸美国 | BT下载专用1","type":"vless","server":"185.176.24.87","port":443,"uuid":"48b6b338-02b5-435e-8bcf-8e63f74ed0b6","tls":true,"servername":"k7us1.yfjc.sbs","network":"ws","ws-opts":{"path":"/yfjc/kus1"}}
+  - {"name":"🇺🇸美国 | BT下载专用2","type":"vless","server":"89.116.161.168","port":443,"uuid":"48b6b338-02b5-435e-8bcf-8e63f74ed0b6","tls":true,"servername":"k6us2.yfjc.sbs","network":"ws","ws-opts":{"path":"/yfjc/kus2"}}
   - {"name":"🇹🇼台湾C1","type":"trojan","server":"2gzdx21.233235.xyz","port":8080,"udp":true,"password":"5e42fefc-8ea8-46f6-bbad-8070db4490fd","sni":"2gzdx21.233235.xyz","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇹🇼台湾C2","type":"trojan","server":"6gzdx2.233235.xyz","port":712,"udp":true,"password":"5e42fefc-8ea8-46f6-bbad-8070db4490fd","sni":"6gzdx2.233235.xyz","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇹🇼台湾C3","type":"trojan","server":"tw60.233235.xyz","port":703,"udp":true,"password":"5e42fefc-8ea8-46f6-bbad-8070db4490fd","sni":"tw60.233235.xyz","skip-cert-verify":true,"network":"tcp"}
@@ -122,12 +125,19 @@ proxies:
   - {"name":"🇹🇼台湾C5","type":"trojan","server":"tw5.233235.xyz","port":2222,"udp":true,"password":"5e42fefc-8ea8-46f6-bbad-8070db4490fd","sni":"tw5.233235.xyz","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇭🇰香港H1","type":"ss","server":"gsgs.hy2.one","port":53344,"password":"ZGQ3YjY3YWEtMDQzZS00NWMxLTg0Y2YtZDdiZmMyOGM=","cipher":"2022-blake3-aes-256-gcm:OGYyMGNmOTA4MjJlMTE3NmFlNTMzZDdmZDVlZWQwYzE="}
   - {"name":"🇭🇰香港H2","type":"hysteria2","server":"ahkt.hy2.one","port":21065,"skip-cert-verify":true}
-  - {"name":"🇳🇱荷兰Y1","type":"hysteria2","server":"204.10.194.86","port":51192,"skip-cert-verify":true}
-  - {"name":"🇮🇳印度Y1","type":"hysteria2","server":"140.245.28.185","port":42065,"skip-cert-verify":true}
-  - {"name":"🇧🇷巴西Y1","type":"hysteria2","server":"129.148.39.249","port":20600,"skip-cert-verify":true}
+  - {"name":"🇭🇰香港H3","type":"vmess","server":"cf.hy2.one","port":80,"cipher":"auto","uuid":"dd7b67aa-043e-45c1-84cf-d7bfc28c235d","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"hk06.hy-2.top"}}}
+  - {"name":"🇬🇧英国H1","type":"ss","server":"gsgs.hy2.one","port":60194,"password":"ZGQ3YjY3YWEtMDQzZS00NWMxLTg0Y2YtZDdiZmMyOGM=","cipher":"2022-blake3-aes-256-gcm:OGYyMGNmOTA4MjJlMTE3NmFlNTMzZDdmZDVlZWQwYzE="}
+  - {"name":"🇳🇱荷兰Y1","type":"hysteria2","server":"204.10.194.86","port":20416,"skip-cert-verify":true}
+  - {"name":"🇳🇱荷兰 | BT下载专用1","type":"vless","server":"77.37.33.136","port":443,"uuid":"48b6b338-02b5-435e-8bcf-8e63f74ed0b6","tls":true,"servername":"k7nl1.yfjc.sbs","network":"ws","ws-opts":{"path":"/yfjc/knl1"}}
+  - {"name":"🇳🇱荷兰 | BT下载专用2","type":"vless","server":"188.42.145.72","port":443,"uuid":"48b6b338-02b5-435e-8bcf-8e63f74ed0b6","tls":true,"servername":"y0nl2.yfjc.sbs","network":"ws","ws-opts":{"path":"/yfjc/knl2"}}
+  - {"name":"🇮🇳印度Y1","type":"hysteria2","server":"140.245.28.185","port":25896,"skip-cert-verify":true}
+  - {"name":"🇮🇳印度Y2","type":"hysteria2","server":"129.154.237.229","port":41610,"skip-cert-verify":true}
+  - {"name":"🇹🇭泰国H1","type":"ss","server":"gsgs.hy2.one","port":63329,"password":"ZGQ3YjY3YWEtMDQzZS00NWMxLTg0Y2YtZDdiZmMyOGM=","cipher":"2022-blake3-aes-256-gcm:OGYyMGNmOTA4MjJlMTE3NmFlNTMzZDdmZDVlZWQwYzE="}
   - {"name":"🇻🇳越南H1","type":"ss","server":"gsgs.hy2.one","port":63326,"password":"ZGQ3YjY3YWEtMDQzZS00NWMxLTg0Y2YtZDdiZmMyOGM=","cipher":"2022-blake3-aes-256-gcm:OGYyMGNmOTA4MjJlMTE3NmFlNTMzZDdmZDVlZWQwYzE="}
+  - {"name":"🇧🇷巴西Y1","type":"hysteria2","server":"129.148.39.249","port":38878,"skip-cert-verify":true}
   - {"name":"🇹🇷土耳其H1","type":"ss","server":"gsgs.hy2.one","port":63327,"password":"ZGQ3YjY3YWEtMDQzZS00NWMxLTg0Y2YtZDdiZmMyOGM=","cipher":"2022-blake3-aes-256-gcm:OGYyMGNmOTA4MjJlMTE3NmFlNTMzZDdmZDVlZWQwYzE="}
-  - {"name":"🇦🇺澳大利亚Y1","type":"hysteria2","server":"192.9.176.249","port":22601,"skip-cert-verify":true}
+  - {"name":"🇦🇺澳大利亚Y1","type":"hysteria2","server":"192.9.181.38","port":35889,"skip-cert-verify":true}
+  - {"name":"🇦🇺澳大利亚Y2","type":"hysteria2","server":"192.9.176.249","port":49662,"skip-cert-verify":true}
 proxy-groups:
   - name: 🟢 选择节点@BTY2024
     type: select
@@ -137,6 +147,10 @@ proxy-groups:
       - 🇸🇬新加坡C1
       - 🇸🇬新加坡C2
       - 🇸🇬新加坡C3
+      - 🇸🇬新加坡H1
+      - 🇸🇬新加坡H2
+      - 🇸🇬新加坡H3
+      - 🇸🇬新加坡H4
       - 🇸🇬新加坡Y1
       - 🇸🇬新加坡Y2
       - 🇸🇬新加坡Y3
@@ -154,11 +168,10 @@ proxy-groups:
       - 🇺🇸美国C2
       - 🇺🇸美国C3
       - 🇺🇸美国H1
-      - 🇺🇸美国H2
-      - 🇺🇸美国H3
       - 🇺🇸美国Y1
       - 🇺🇸美国Y2
-      - 🇺🇸美国Y3
+      - 🇺🇸美国 | BT下载专用1
+      - 🇺🇸美国 | BT下载专用2
       - 🇹🇼台湾C1
       - 🇹🇼台湾C2
       - 🇹🇼台湾C3
@@ -166,12 +179,19 @@ proxy-groups:
       - 🇹🇼台湾C5
       - 🇭🇰香港H1
       - 🇭🇰香港H2
+      - 🇭🇰香港H3
+      - 🇬🇧英国H1
       - 🇳🇱荷兰Y1
+      - 🇳🇱荷兰 | BT下载专用1
+      - 🇳🇱荷兰 | BT下载专用2
       - 🇮🇳印度Y1
-      - 🇧🇷巴西Y1
+      - 🇮🇳印度Y2
+      - 🇹🇭泰国H1
       - 🇻🇳越南H1
+      - 🇧🇷巴西Y1
       - 🇹🇷土耳其H1
       - 🇦🇺澳大利亚Y1
+      - 🇦🇺澳大利亚Y2
   - name: 🇨🇳 国内直连
     type: select
     proxies:
@@ -191,6 +211,10 @@ proxy-groups:
       - 🇸🇬新加坡C1
       - 🇸🇬新加坡C2
       - 🇸🇬新加坡C3
+      - 🇸🇬新加坡H1
+      - 🇸🇬新加坡H2
+      - 🇸🇬新加坡H3
+      - 🇸🇬新加坡H4
       - 🇸🇬新加坡Y1
       - 🇸🇬新加坡Y2
       - 🇸🇬新加坡Y3
@@ -208,11 +232,10 @@ proxy-groups:
       - 🇺🇸美国C2
       - 🇺🇸美国C3
       - 🇺🇸美国H1
-      - 🇺🇸美国H2
-      - 🇺🇸美国H3
       - 🇺🇸美国Y1
       - 🇺🇸美国Y2
-      - 🇺🇸美国Y3
+      - 🇺🇸美国 | BT下载专用1
+      - 🇺🇸美国 | BT下载专用2
       - 🇹🇼台湾C1
       - 🇹🇼台湾C2
       - 🇹🇼台湾C3
@@ -220,12 +243,19 @@ proxy-groups:
       - 🇹🇼台湾C5
       - 🇭🇰香港H1
       - 🇭🇰香港H2
+      - 🇭🇰香港H3
+      - 🇬🇧英国H1
       - 🇳🇱荷兰Y1
+      - 🇳🇱荷兰 | BT下载专用1
+      - 🇳🇱荷兰 | BT下载专用2
       - 🇮🇳印度Y1
-      - 🇧🇷巴西Y1
+      - 🇮🇳印度Y2
+      - 🇹🇭泰国H1
       - 🇻🇳越南H1
+      - 🇧🇷巴西Y1
       - 🇹🇷土耳其H1
       - 🇦🇺澳大利亚Y1
+      - 🇦🇺澳大利亚Y2
 
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🇨🇳 国内直连
