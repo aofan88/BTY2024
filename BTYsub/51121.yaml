@@ -1,9 +1,9 @@
 ####################################
 # 创建者：Joe
 # 客户端：Clash.Meta
-# 创建时间：2025-02-04 20:55:37
+# 创建时间：2025-02-04 21:07:09
 # 使用模版：AF88-mini2TW
-# 节点数量：53
+# 节点数量：52
 # 节点类型：vmess, trojan, hysteria2, vless
 ####################################
 # !!当前配置文件请使用基于 Clash.Meta 内核程序
@@ -117,8 +117,8 @@ proxies:
   - {"name":"🇰🇷韩国Y1","type":"hysteria2","server":"132.226.235.134","port":20000,"password":"3197b1bd-9c77-4216-adda-c4e250f681f9","sni":"www.bing.com","skip-cert-verify":true}
   - {"name":"🇰🇷韩国Y2","type":"hysteria2","server":"152.70.234.101","port":20000,"password":"3197b1bd-9c77-4216-adda-c4e250f681f9","sni":"www.bing.com","skip-cert-verify":true}
   - {"name":"🇰🇷韩国Y3","type":"hysteria2","server":"158.179.164.122","port":20000,"password":"3197b1bd-9c77-4216-adda-c4e250f681f9","sni":"www.bing.com","skip-cert-verify":true}
-  - {"name":" 🇺🇸美国C1","type":"hysteria2","server":"hyfnus01.595780.xyz","port":8080,"skip-cert-verify":true}
-  - {"name":" 🇺🇸美国C2","type":"trojan","server":"twjpzz2.595780.xyz","port":20263,"udp":true,"password":"905f6927-2ab4-4846-bd2d-a44ec5661ebb","sni":"usmax03.233235.xyz","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸美国C1","type":"hysteria2","server":"hyfnus01.595780.xyz","port":8080,"skip-cert-verify":true}
+  - {"name":"🇺🇸美国C2","type":"trojan","server":"twjpzz2.595780.xyz","port":20263,"udp":true,"password":"905f6927-2ab4-4846-bd2d-a44ec5661ebb","sni":"usmax03.233235.xyz","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇺🇸美国W1","type":"trojan","server":"159.223.201.32","port":443,"udp":true,"password":"650bae67-5a2c-4d23-b45b-17ce262bf1dd","sni":"us1.cbb01d1e-cdd6-4a11-9fb8-1c4561.083111.xyz","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇺🇸美国W2","type":"hysteria2","server":"64.227.98.237","port":55555,"password":"650bae67-5a2c-4d23-b45b-17ce262bf1dd","sni":"tv.apple.com","skip-cert-verify":true}
   - {"name":"🇺🇸美国W3","type":"hysteria2","server":"107.173.230.12","port":55555,"password":"650bae67-5a2c-4d23-b45b-17ce262bf1dd","sni":"tv.apple.com","skip-cert-verify":true}
@@ -130,7 +130,6 @@ proxies:
   - {"name":"🇹🇼台湾H1","type":"vmess","server":"cf.hy2.one","port":80,"cipher":"auto","uuid":"3b574bfa-72c7-411a-bf8e-4d8c055acd75","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/af323d","headers":{"host":"tw02.hy2.one"}}}
   - {"name":"🇹🇼台湾H2","type":"vless","server":"tw02.hy-2.sbs","port":50052,"udp":true,"uuid":"3b574bfa-72c7-411a-bf8e-4d8c055acd75","tls":true,"servername":"www.python.org","flow":"xtls-rprx-vision","network":"tcp","reality-opts":{"public-key":"X0trg79L3teC4E6tlpzK74e38xpzkYIKAO2bvcsY6ng","short-id":"07288de2"},"client-fingerprint":"chrome"}
   - {"name":"🇭🇰香港C1","type":"trojan","server":"twjpzz2.595780.xyz","port":37107,"udp":true,"password":"905f6927-2ab4-4846-bd2d-a44ec5661ebb","sni":"2jp04162531be-29a9-2764-8627-51a5f4436fbd.233235.xyz","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇭🇰香港H1","type":"hysteria2","server":"ahkt.hy2.one","port":21065,"password":"3b574bfa-72c7-411a-bf8e-4d8c055acd75","sni":"www.bing.com","skip-cert-verify":true}
   - {"name":"🇭🇰香港W1","type":"trojan","server":"34.96.165.80","port":443,"udp":true,"password":"650bae67-5a2c-4d23-b45b-17ce262bf1dd","sni":"hk2.cbb01d1e-cdd6-4a11-9fb8-1c4561.083111.xyz","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇭🇰香港W2","type":"trojan","server":"34.96.143.52","port":443,"udp":true,"password":"650bae67-5a2c-4d23-b45b-17ce262bf1dd","sni":"hk1.cbb01d1e-cdd6-4a11-9fb8-1c4561.083111.xyz","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇭🇰香港W4 | 优选","type":"vmess","server":"cfyx1.sbjc.shop","port":443,"cipher":"auto","uuid":"650bae67-5a2c-4d23-b45b-17ce262bf1dd","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/SQqqeeer","headers":{"host":"hk1.013888.xyz"}}}
@@ -176,8 +175,8 @@ proxy-groups:
       - 🇰🇷韩国Y1
       - 🇰🇷韩国Y2
       - 🇰🇷韩国Y3
-      - ' 🇺🇸美国C1'
-      - ' 🇺🇸美国C2'
+      - 🇺🇸美国C1
+      - 🇺🇸美国C2
       - 🇺🇸美国W1
       - 🇺🇸美国W2
       - 🇺🇸美国W3
@@ -189,7 +188,6 @@ proxy-groups:
       - 🇹🇼台湾H1
       - 🇹🇼台湾H2
       - 🇭🇰香港C1
-      - 🇭🇰香港H1
       - 🇭🇰香港W1
       - 🇭🇰香港W2
       - 🇭🇰香港W4 | 优选
@@ -235,8 +233,8 @@ proxy-groups:
       - 🇰🇷韩国Y1
       - 🇰🇷韩国Y2
       - 🇰🇷韩国Y3
-      - ' 🇺🇸美国C1'
-      - ' 🇺🇸美国C2'
+      - 🇺🇸美国C1
+      - 🇺🇸美国C2
       - 🇺🇸美国W1
       - 🇺🇸美国W2
       - 🇺🇸美国W3
@@ -248,7 +246,6 @@ proxy-groups:
       - 🇹🇼台湾H1
       - 🇹🇼台湾H2
       - 🇭🇰香港C1
-      - 🇭🇰香港H1
       - 🇭🇰香港W1
       - 🇭🇰香港W2
       - 🇭🇰香港W4 | 优选
@@ -304,8 +301,8 @@ proxy-groups:
       - 🇰🇷韩国Y1
       - 🇰🇷韩国Y2
       - 🇰🇷韩国Y3
-      - ' 🇺🇸美国C1'
-      - ' 🇺🇸美国C2'
+      - 🇺🇸美国C1
+      - 🇺🇸美国C2
       - 🇺🇸美国W1
       - 🇺🇸美国W2
       - 🇺🇸美国W3
@@ -317,7 +314,6 @@ proxy-groups:
       - 🇹🇼台湾H1
       - 🇹🇼台湾H2
       - 🇭🇰香港C1
-      - 🇭🇰香港H1
       - 🇭🇰香港W1
       - 🇭🇰香港W2
       - 🇭🇰香港W4 | 优选
