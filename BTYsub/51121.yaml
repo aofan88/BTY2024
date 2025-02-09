@@ -2,8 +2,8 @@
 # KQIP_Mini_Fallback 精簡帶轉移
 # KQIP1.0 By Joe
 # Feb/8/2025 16:13
-# 创建时间：2025-02-09 23:13:10
-# 节点数量：84
+# 创建时间：2025-02-09 23:14:19
+# 节点数量：76
 # 节点类型：ss, vmess, trojan, hysteria2, vless
 ####################################
 # !!当前配置文件请使用基于 Clash.Meta 内核程序
@@ -106,8 +106,6 @@ proxies:
   - {"name":"🇸🇬新加坡E1","type":"vmess","server":"zyx7klo63ah67m4i.mzstatic.cloud","port":80,"cipher":"auto","uuid":"0251d9b8-3374-4e4f-abab-4d4e4f0b26e5","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/yukihasu?ed=2560","headers":{"host":"dm.toutiao.com"}}}
   - {"name":"🇸🇬新加坡E2","type":"ss","server":"5n6ifmvm4doy5jmdghvmglyzy4uqfc5f8hnv.biliapi.xyz","port":25482,"password":"0251d9b8-3374-4e4f-abab-4d4e4f0b26e5","cipher":"aes-128-gcm"}
   - {"name":"🇸🇬新加坡E3","type":"ss","server":"5n6ifmvm4doy5jmdghvmglyzy4uqfc5f8hnv.biliapi.xyz","port":25483,"password":"0251d9b8-3374-4e4f-abab-4d4e4f0b26e5","cipher":"aes-128-gcm"}
-  - {"name":"🇸🇬新加坡H1","type":"ss","server":"gsgs.hy2.one","port":53342,"password":"M2I1NzRiZmEtNzJjNy00MTFhLWJmOGUtNGQ4YzA1NWE=","cipher":"2022-blake3-aes-256-gcm:OGYyMGNmOTA4MjJlMTE3NmFlNTMzZDdmZDVlZWQwYzE="}
-  - {"name":"🇸🇬新加坡H2","type":"ss","server":"gsgs.hy2.one","port":53340,"password":"M2I1NzRiZmEtNzJjNy00MTFhLWJmOGUtNGQ4YzA1NWE=","cipher":"2022-blake3-aes-256-gcm:OGYyMGNmOTA4MjJlMTE3NmFlNTMzZDdmZDVlZWQwYzE="}
   - {"name":"🇸🇬新加坡W1","type":"trojan","server":"v4.698ef622-fce7-419c-8945-98372a87a412.098999.xyz","port":1002,"udp":true,"password":"650bae67-5a2c-4d23-b45b-17ce262bf1dd","sni":"sg1.cbb01d1e-cdd6-4a11-9fb8-1c4561.083111.xyz","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇸🇬新加坡Y1","type":"hysteria2","server":"168.138.184.187","port":27003,"password":"3197b1bd-9c77-4216-adda-c4e250f681f9","sni":"www.bing.com","skip-cert-verify":true}
   - {"name":"🇸🇬新加坡Y2","type":"hysteria2","server":"168.138.188.106","port":30191,"password":"3197b1bd-9c77-4216-adda-c4e250f681f9","sni":"www.bing.com","skip-cert-verify":true}
@@ -137,13 +135,9 @@ proxies:
   - {"name":"🇹🇼台湾C4","type":"trojan","server":"tw5.233235.xyz","port":2222,"udp":true,"password":"905f6927-2ab4-4846-bd2d-a44ec5661ebb","sni":"tw5.233235.xyz","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇹🇼台湾C5","type":"trojan","server":"sg1111.233235.xyz","port":8080,"udp":true,"password":"905f6927-2ab4-4846-bd2d-a44ec5661ebb","sni":"sg1111.233235.xyz","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇹🇼台湾E1","type":"ss","server":"ozrsbbhcqdtrh5meiwhfot2qllialp48xnpk.biliapi.xyz","port":16481,"password":"0251d9b8-3374-4e4f-abab-4d4e4f0b26e5","cipher":"aes-128-gcm"}
-  - {"name":"🇹🇼台湾H1","type":"ss","server":"gsgs.hy2.one","port":53332,"password":"M2I1NzRiZmEtNzJjNy00MTFhLWJmOGUtNGQ4YzA1NWE=","cipher":"2022-blake3-aes-256-gcm:OGYyMGNmOTA4MjJlMTE3NmFlNTMzZDdmZDVlZWQwYzE="}
   - {"name":"🇭🇰香港E1","type":"ss","server":"455kdqs6a76d8el54sbthyiw5sgaly8p8ym2.biliapi.xyz","port":16475,"password":"0251d9b8-3374-4e4f-abab-4d4e4f0b26e5","cipher":"aes-128-gcm"}
   - {"name":"🇭🇰香港E2","type":"ss","server":"455kdqs6a76d8el54sbthyiw5sgaly8p8ym2.biliapi.xyz","port":16471,"password":"0251d9b8-3374-4e4f-abab-4d4e4f0b26e5","cipher":"aes-128-gcm"}
   - {"name":"🇭🇰香港E3","type":"ss","server":"455kdqs6a76d8el54sbthyiw5sgaly8p8ym2.biliapi.xyz","port":16467,"password":"0251d9b8-3374-4e4f-abab-4d4e4f0b26e5","cipher":"aes-128-gcm"}
-  - {"name":"🇭🇰香港H1","type":"ss","server":"gsgs.hy2.one","port":53349,"password":"M2I1NzRiZmEtNzJjNy00MTFhLWJmOGUtNGQ4YzA1NWE=","cipher":"2022-blake3-aes-256-gcm:OGYyMGNmOTA4MjJlMTE3NmFlNTMzZDdmZDVlZWQwYzE="}
-  - {"name":"🇭🇰香港H2","type":"ss","server":"gsgs.hy2.one","port":53348,"password":"M2I1NzRiZmEtNzJjNy00MTFhLWJmOGUtNGQ4YzA1NWE=","cipher":"2022-blake3-aes-256-gcm:OGYyMGNmOTA4MjJlMTE3NmFlNTMzZDdmZDVlZWQwYzE="}
-  - {"name":"🇭🇰香港H3","type":"ss","server":"gsgs.hy2.one","port":53344,"password":"M2I1NzRiZmEtNzJjNy00MTFhLWJmOGUtNGQ4YzA1NWE=","cipher":"2022-blake3-aes-256-gcm:OGYyMGNmOTA4MjJlMTE3NmFlNTMzZDdmZDVlZWQwYzE="}
   - {"name":"🇭🇰香港H4","type":"hysteria2","server":"ahkt.hy2.one","port":21065,"password":"3b574bfa-72c7-411a-bf8e-4d8c055acd75","sni":"www.bing.com","skip-cert-verify":true}
   - {"name":"🇭🇰香港W1","type":"trojan","server":"35.220.224.43","port":443,"udp":true,"password":"650bae67-5a2c-4d23-b45b-17ce262bf1dd","sni":"hk1.cbb01d1e-cdd6-4a11-9fb8-1c4561.083111.xyz","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇭🇰香港W2","type":"trojan","server":"35.241.93.5","port":443,"udp":true,"password":"650bae67-5a2c-4d23-b45b-17ce262bf1dd","sni":"hk2.cbb01d1e-cdd6-4a11-9fb8-1c4561.083111.xyz","skip-cert-verify":true,"network":"tcp"}
@@ -159,8 +153,6 @@ proxies:
   - {"name":"🇩🇪德国E1","type":"ss","server":"nktodw3gtxxtmi2m6ih38vv2rllkysstyw6f.biliapi.xyz","port":25800,"password":"0251d9b8-3374-4e4f-abab-4d4e4f0b26e5","cipher":"aes-128-gcm"}
   - {"name":"🇧🇷巴西Y1","type":"hysteria2","server":"129.148.39.249","port":30101,"skip-cert-verify":true}
   - {"name":"🇸🇪瑞典E1","type":"ss","server":"nktodw3gtxxtmi2m6ih38vv2rllkysstyw6f.biliapi.xyz","port":25807,"password":"0251d9b8-3374-4e4f-abab-4d4e4f0b26e5","cipher":"aes-128-gcm"}
-  - {"name":"🇹🇭泰国H1","type":"ss","server":"gsgs.hy2.one","port":63329,"password":"M2I1NzRiZmEtNzJjNy00MTFhLWJmOGUtNGQ4YzA1NWE=","cipher":"2022-blake3-aes-256-gcm:OGYyMGNmOTA4MjJlMTE3NmFlNTMzZDdmZDVlZWQwYzE="}
-  - {"name":"🇻🇳越南H1","type":"ss","server":"gsgs.hy2.one","port":63326,"password":"M2I1NzRiZmEtNzJjNy00MTFhLWJmOGUtNGQ4YzA1NWE=","cipher":"2022-blake3-aes-256-gcm:OGYyMGNmOTA4MjJlMTE3NmFlNTMzZDdmZDVlZWQwYzE="}
   - {"name":"🇲🇴澳门E","type":"ss","server":"ajbki989lfxn9asifvhrjqdrcdylb7i279tf.biliapi.xyz","port":25581,"password":"0251d9b8-3374-4e4f-abab-4d4e4f0b26e5","cipher":"aes-128-gcm"}
   - {"name":"🇰🇵朝鲜E1","type":"ss","server":"ajbki989lfxn9asifvhrjqdrcdylb7i279tf.biliapi.xyz","port":25580,"password":"0251d9b8-3374-4e4f-abab-4d4e4f0b26e5","cipher":"aes-128-gcm"}
   - {"name":"🇦🇶南极E1","type":"ss","server":"ajbki989lfxn9asifvhrjqdrcdylb7i279tf.biliapi.xyz","port":25582,"password":"0251d9b8-3374-4e4f-abab-4d4e4f0b26e5","cipher":"aes-128-gcm"}
@@ -195,8 +187,6 @@ proxy-groups:
       - 🇸🇬新加坡E1
       - 🇸🇬新加坡E2
       - 🇸🇬新加坡E3
-      - 🇸🇬新加坡H1
-      - 🇸🇬新加坡H2
       - 🇸🇬新加坡W1
       - 🇸🇬新加坡Y1
       - 🇸🇬新加坡Y2
@@ -226,13 +216,9 @@ proxy-groups:
       - 🇹🇼台湾C4
       - 🇹🇼台湾C5
       - 🇹🇼台湾E1
-      - 🇹🇼台湾H1
       - 🇭🇰香港E1
       - 🇭🇰香港E2
       - 🇭🇰香港E3
-      - 🇭🇰香港H1
-      - 🇭🇰香港H2
-      - 🇭🇰香港H3
       - 🇭🇰香港H4
       - 🇭🇰香港W1
       - 🇭🇰香港W2
@@ -248,8 +234,6 @@ proxy-groups:
       - 🇩🇪德国E1
       - 🇧🇷巴西Y1
       - 🇸🇪瑞典E1
-      - 🇹🇭泰国H1
-      - 🇻🇳越南H1
       - 🇲🇴澳门E
       - 🇰🇵朝鲜E1
       - 🇦🇶南极E1
@@ -285,8 +269,6 @@ proxy-groups:
       - 🇸🇬新加坡E1
       - 🇸🇬新加坡E2
       - 🇸🇬新加坡E3
-      - 🇸🇬新加坡H1
-      - 🇸🇬新加坡H2
       - 🇸🇬新加坡W1
       - 🇸🇬新加坡Y1
       - 🇸🇬新加坡Y2
@@ -316,13 +298,9 @@ proxy-groups:
       - 🇹🇼台湾C4
       - 🇹🇼台湾C5
       - 🇹🇼台湾E1
-      - 🇹🇼台湾H1
       - 🇭🇰香港E1
       - 🇭🇰香港E2
       - 🇭🇰香港E3
-      - 🇭🇰香港H1
-      - 🇭🇰香港H2
-      - 🇭🇰香港H3
       - 🇭🇰香港H4
       - 🇭🇰香港W1
       - 🇭🇰香港W2
@@ -338,8 +316,6 @@ proxy-groups:
       - 🇩🇪德国E1
       - 🇧🇷巴西Y1
       - 🇸🇪瑞典E1
-      - 🇹🇭泰国H1
-      - 🇻🇳越南H1
       - 🇲🇴澳门E
       - 🇰🇵朝鲜E1
       - 🇦🇶南极E1
@@ -374,8 +350,6 @@ proxy-groups:
       - 🇸🇬新加坡E1
       - 🇸🇬新加坡E2
       - 🇸🇬新加坡E3
-      - 🇸🇬新加坡H1
-      - 🇸🇬新加坡H2
       - 🇸🇬新加坡W1
       - 🇸🇬新加坡Y1
       - 🇸🇬新加坡Y2
@@ -405,13 +379,9 @@ proxy-groups:
       - 🇹🇼台湾C4
       - 🇹🇼台湾C5
       - 🇹🇼台湾E1
-      - 🇹🇼台湾H1
       - 🇭🇰香港E1
       - 🇭🇰香港E2
       - 🇭🇰香港E3
-      - 🇭🇰香港H1
-      - 🇭🇰香港H2
-      - 🇭🇰香港H3
       - 🇭🇰香港H4
       - 🇭🇰香港W1
       - 🇭🇰香港W2
@@ -427,8 +397,6 @@ proxy-groups:
       - 🇩🇪德国E1
       - 🇧🇷巴西Y1
       - 🇸🇪瑞典E1
-      - 🇹🇭泰国H1
-      - 🇻🇳越南H1
       - 🇲🇴澳门E
       - 🇰🇵朝鲜E1
       - 🇦🇶南极E1
@@ -473,8 +441,6 @@ proxy-groups:
       - 🇸🇬新加坡E1
       - 🇸🇬新加坡E2
       - 🇸🇬新加坡E3
-      - 🇸🇬新加坡H1
-      - 🇸🇬新加坡H2
       - 🇸🇬新加坡W1
       - 🇸🇬新加坡Y1
       - 🇸🇬新加坡Y2
@@ -504,13 +470,9 @@ proxy-groups:
       - 🇹🇼台湾C4
       - 🇹🇼台湾C5
       - 🇹🇼台湾E1
-      - 🇹🇼台湾H1
       - 🇭🇰香港E1
       - 🇭🇰香港E2
       - 🇭🇰香港E3
-      - 🇭🇰香港H1
-      - 🇭🇰香港H2
-      - 🇭🇰香港H3
       - 🇭🇰香港H4
       - 🇭🇰香港W1
       - 🇭🇰香港W2
@@ -526,8 +488,6 @@ proxy-groups:
       - 🇩🇪德国E1
       - 🇧🇷巴西Y1
       - 🇸🇪瑞典E1
-      - 🇹🇭泰国H1
-      - 🇻🇳越南H1
       - 🇲🇴澳门E
       - 🇰🇵朝鲜E1
       - 🇦🇶南极E1
