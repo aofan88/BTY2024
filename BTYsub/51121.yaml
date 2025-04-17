@@ -88,6 +88,7 @@ dns:
       - 0.0.0.0/32
 
 proxies:
+  - {"name":"🇸🇬SG新加坡AWS戰神2","type":"vless","server":"18.141.55.209","port":51121,"uuid":"0163ad41-9023-485c-ed34-0093950da1e9","tls":false,"network":"ws","ws-opts":{"path":"/51121"}}
   - {"name":"🇸🇬SG新加坡Q3","type":"vless","server":"128.199.237.143","port":443,"uuid":"59511197-a451-4e68-b334-5b0533a7aac5","tls":true,"servername":"cmvlsg.bty2025.ggff.net","network":"ws","ws-opts":{"path":"/?ed=2560"},"client-fingerprint":"random"}
   - {"name":"🇸🇬SG新加坡P2","type":"vless","server":"168.138.165.174","port":443,"uuid":"59511197-a451-4e68-b334-5b0533a7aac5","tls":true,"servername":"cmvlsg.bty2025.ggff.net","network":"ws","ws-opts":{"path":"/?ed=2560"},"client-fingerprint":"random"}
   - {"name":"🇸🇬SG新加坡B1","type":"vless","server":"138.2.64.229","port":443,"uuid":"59511197-a451-4e68-b334-5b0533a7aac5","tls":true,"servername":"cmvlsg.bty2025.ggff.net","network":"ws","ws-opts":{"path":"/?ed=2560"},"client-fingerprint":"random"}
@@ -171,6 +172,7 @@ proxy-groups:
     type: select
     proxies:
       - ♻️ 志杰跳动
+      - 🇸🇬SG新加坡AWS戰神2
       - 🇸🇬SG新加坡Q3
       - 🇸🇬SG新加坡P2
       - 🇸🇬SG新加坡B1
@@ -255,6 +257,7 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
+      - 🇸🇬SG新加坡AWS戰神2
       - 🇸🇬SG新加坡Q3
       - 🇸🇬SG新加坡P2
       - 🇸🇬SG新加坡B1
@@ -338,6 +341,7 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 180
     proxies:
+      - 🇸🇬SG新加坡AWS戰神2
       - 🇸🇬SG新加坡Q3
       - 🇸🇬SG新加坡P2
       - 🇸🇬SG新加坡B1
@@ -431,6 +435,7 @@ proxy-groups:
     proxies:
       - ❤️ 幸福的秘诀
       - ♻️ 志杰跳动
+      - 🇸🇬SG新加坡AWS戰神2
       - 🇸🇬SG新加坡Q3
       - 🇸🇬SG新加坡P2
       - 🇸🇬SG新加坡B1
