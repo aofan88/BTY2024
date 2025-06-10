@@ -6,4 +6,5 @@ vless://0ce73ab8-21da-414d-a713-ff202202abf6@4896twy1.aofan.xyz:443?encryption=n
 hysteria2://20058e13-d380-4298-83f1-0d6c503f601a@4896twc2.aofan.xyz:8080/?insecure=1#🇹🇼TW台灣中華電信2
 ss://YWVzLTEyOC1nY206ZWMxYjAyMTYtYjNkMS00MmFkLTgyODktYmRhZWIwMzc1ZjAx@4896twe1.aofan.xyz:16481#🇹🇼TW台灣中華電信3
 hysteria2://20058e13-d380-4298-83f1-0d6c503f601a@4896hkc1.aofan.xyz:8080/?insecure=1#🇭🇰HK香港AWS戰神1
-hysteria2://20058e13-d380-4298-83f1-0d6c503f601a@4896hkc2.aofan.xyz:8080/?insecure=1#🇭🇰HK香港AWS戰神2
+vless://0ce73ab8-21da-414d-a713-ff202202abf6@4896hky1.aofan.xyz:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=yfhk1.xn--4gq62f52gppi29k.com&fp=chrome&type=tcp&headerType=none#🇭🇰HK香港AWS戰神2
+
