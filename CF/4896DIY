@@ -3,6 +3,9 @@ vless://21320308-b2bb-440c-e02b-10ce8f58e2f4@bestip.af88.xyz:80?encryption=none&
 hysteria2://20058e13-d380-4298-83f1-0d6c503f601a@4896sgc1.af88.xyz:8080?sni=sg17.352343.cc&insecure=0#🇸🇬SG新加坡AWS小弟
 hysteria2://5cc7239e-be14-400a-bbf2-9c100b21d1b5@4896sgy1.af88.xyz:20000?sni=www.bing.com&insecure=1#🇸🇬SG新加坡Oracle
 //ss://YWVzLTEyOC1nY206ZWMxYjAyMTYtYjNkMS00MmFkLTgyODktYmRhZWIwMzc1ZjAx@4896sge1.af88.xyz:16515#🇸🇬SG新加坡Linode
+vless://d359f9e7-dcc9-4e93-a8c5-f4223e0d09e4@43.212.186.103:29803?encryption=none&security=none&type=ws&path=%2F#🇹🇼TW台灣aws|直連
+vless://e06b624d-4629-4ef1-a521-6a68dd70622e@aws4.af88.xyz:443?encryption=none&security=tls&alpn=h2%2Chttp%2F1.1&type=ws&path=%2F#🇹🇼TW台灣aws|中轉
+vless://794c349e-38c5-4020-cfa7-af996d39a8c2@fxxktw.af88.xyz:51122?encryption=none&security=none&type=ws&path=%2F#🇹🇼TW台灣中華電信無限戰神
 ss://YWVzLTEyOC1nY206ZWMxYjAyMTYtYjNkMS00MmFkLTgyODktYmRhZWIwMzc1ZjAx@4896twe1.af88.xyz:16481#🇹🇼TW台灣中華電信1
 vless://5cc7239e-be14-400a-bbf2-9c100b21d1b5@4896twy1.af88.xyz:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=tw.xn--4gq62f52gppi29k.com&fp=chrome&type=tcp&headerType=none#🇹🇼TW台灣中華電信2
 vless://5cc7239e-be14-400a-bbf2-9c100b21d1b5@4896hky1.af88.xyz:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=yfhk2.xn--4gq62f52gppi29k.com&fp=safari&type=tcp&headerType=none#🇭🇰HK香港電訊
