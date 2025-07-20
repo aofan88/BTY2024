@@ -20,7 +20,9 @@ vless://e999f800-2efe-4103-dac3-1dce8e015218@4896hkf1.btycloud.top:51122?type=ws
 vless://6c56e629-800a-42f1-8440-c689ec538734@4896hkl1.btycloud.top:24758?encryption=none&flow=xtls-rprx-vision&security=reality&sni=osxapps.itunes.apple.com&fp=chrome&pbk=o59R2PjAsu1h4KcFjK-EDGP41N2PHZL_Pgk64UcFxh0&sid=a6d87a12&type=tcp&headerType=none#🇭🇰HK香港BGP專線1
 hysteria2://6c56e629-800a-42f1-8440-c689ec538734@4896hkl2.btycloud.top:30000?sni=www.tesla.cn&insecure=1#🇭🇰HK香港BGP專線2
 
-
+vless://23f9a491-63fa-4f14-9b12-9ac27f935b20@4896jpf1.btycloud.top:51122?encryption=none&security=none&type=ws&path=%2F#🇯🇵JP日本無限女兒|直連
+vless://23f9a491-63fa-4f14-9b12-9ac27f935b20@bestip.af88.xyz:8080?encryption=none&security=none&type=ws&host=4896jpf1cf.btycloud.top&path=%2F#🇯🇵JP日本無限女兒|優選
+vless://23f9a491-63fa-4f14-9b12-9ac27f935b20@visa.co.jp:8080?encryption=none&security=none&type=ws&host=4896jpf1cf.btycloud.top&path=%2F#🇯🇵JP日本無限女兒|Visa
 vless://6c56e629-800a-42f1-8440-c689ec538734@4896jpl1.btycloud.top:25485?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com.cn&fp=chrome&pbk=VOFSjjWT0wIH3Q0ntyEZd8WwksrIAb5gPt_3PBnEASg&sid=9c5b8c53&type=tcp&headerType=none#🇯🇵JP日本BGP專線1
 hysteria2://6c56e629-800a-42f1-8440-c689ec538734@4896krl1.btycloud.top:30000?sni=www.apple.com&insecure=1#🇰🇷KR韓國BGP專線1
 hysteria2://6c56e629-800a-42f1-8440-c689ec538734@79.72.81.183:30000?sni=www.apple.com&insecure=1#🇬🇧UK英國甲骨文
