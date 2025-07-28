@@ -4,9 +4,9 @@ anytls://b8480328-c0e7-44a0-9230-d654233da35d@4896ma.af88.xyz:13093?insecure=1&u
 anytls://b8480328-c0e7-44a0-9230-d654233da35d@4896ma.af88.xyz:13094?insecure=1&udp=1#🇺🇸US美國解鎖
 anytls://b8480328-c0e7-44a0-9230-d654233da35d@4896ma.af88.xyz:13096?insecure=1&udp=1#🇦🇺AU澳洲解鎖
 vless://21320308-b2bb-440c-e02b-10ce8f58e2f4@visa.com.sg:80?encryption=none&security=none&type=ws&host=d1cksg2cf.af88.xyz&path=%2F#🇦🇬7/23早新增解鎖雞⬆️
-//vless://21320308-b2bb-440c-e02b-10ce8f58e2f4@visa.com.sg:80?encryption=none&security=none&type=ws&host=d1cksg2cf.af88.xyz&path=%2F#🇸🇬SG新加坡甲骨文無限visa
+vless://b6d15938-bd84-4fcd-d1a3-029196f12dc7@4896sgd1.btycloud.top:31020?type=tcp&security=reality&sni=www.apple.com&pbk=GYWsqpHF-NciKKouaDMsn4QySu5dRnuOsv0JtiK_YXM&flow=xtls-rprx-vision&sid=3bbc852d&fp=chrome#🇸🇬SG新加坡DO無限直連
 //vless://21320308-b2bb-440c-e02b-10ce8f58e2f4@bestip.af88.xyz:80?encryption=none&security=none&type=ws&host=d1cksg2cf.af88.xyz&path=%2F#🇸🇬SG新加坡甲骨文無限優選
-vless://41d93cd8-9d39-4aa8-c671-349b23f6bf63@bty-fksg.btycloud.top:51122?type=ws&security=none&path=%2F#🇸🇬SG新加坡無限樂色直連
+vless://d3d3e8bf-67d0-4da8-feda-27e5998d560b@142.91.102.16:51122?type=tcp&security=reality&sni=apps.apple.com%3A&pbk=XDtCcDhce40clSWUGfdy2e_IfHydDDWVbkdwzv0X6iw&flow=xtls-rprx-vision&sid=5f5a49e7&fp=chrome#🇸🇬SG新加坡樂色無限直連
 hysteria2://48b19ae1-19e4-471d-a467-ad838c3f3fd6@4896sgc1.btycloud.top:8080?sni=sg09.453521.xyz&insecure=0#🇸🇬SG新加坡AWS小弟
 vless://0ba9dd28-f867-4bdd-8b86-cb324b49fd2b@4896sgl1.btycloud.top:39645?encryption=none&flow=xtls-rprx-vision&security=reality&sni=iosapps.itunes.apple.com&fp=chrome&pbk=x7VqpFP7_PrY4ebNw8hi8Ec5Tm5Upmt5JOdrN1M9VnQ&sid=2b3b0b93&type=tcp&headerType=none#🇸🇬SG新加坡BGP專線1
 hysteria2://0ba9dd28-f867-4bdd-8b86-cb324b49fd2b@4896sgl2.btycloud.top:30000?sni=www.teslaautomation.de&insecure=1#🇸🇬SG新加坡BGP專線2
@@ -26,10 +26,7 @@ vless://99cf03ad-1291-48e4-898d-e81754acea94@4896twy1.btycloud.top:443?encryptio
 vless://0ba9dd28-f867-4bdd-8b86-cb324b49fd2b@4896hkl1.btycloud.top:24758?encryption=none&flow=xtls-rprx-vision&security=reality&sni=osxapps.itunes.apple.com&fp=chrome&pbk=o59R2PjAsu1h4KcFjK-EDGP41N2PHZL_Pgk64UcFxh0&sid=a6d87a12&type=tcp&headerType=none#🇭🇰HK香港BGP專線1
 hysteria2://0ba9dd28-f867-4bdd-8b86-cb324b49fd2b@4896hkl2.btycloud.top:30000?sni=www.tesla.cn&insecure=1#🇭🇰HK香港BGP專線2
 
-vless://23f9a491-63fa-4f14-9b12-9ac27f935b20@4896jpf1.btycloud.top:51122?encryption=none&security=none&type=ws&path=%2F#🇯🇵JP日本無限樂色女兒-直連
-vless://23f9a491-63fa-4f14-9b12-9ac27f935b20@visa.co.jp:80?encryption=none&security=none&type=ws&host=4896jpf1cf.btycloud.top&path=%2F#🇯🇵JP日本無限樂色女兒-Visa
-vless://23f9a491-63fa-4f14-9b12-9ac27f935b20@bestip.af88.xyz:80?encryption=none&security=none&type=ws&host=4896jpf1cf.btycloud.top&path=%2F#🇯🇵JP日本無限樂色女兒-移動優選
-vless://23f9a491-63fa-4f14-9b12-9ac27f935b20@bestcn.af88.xyz:80?encryption=none&security=none&type=ws&host=4896jpf1cf.btycloud.top&path=%2F#🇯🇵JP日本無限樂色女兒-電信優選
+
 vless://0ba9dd28-f867-4bdd-8b86-cb324b49fd2b@4896jpl1.btycloud.top:25485?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com.cn&fp=chrome&pbk=VOFSjjWT0wIH3Q0ntyEZd8WwksrIAb5gPt_3PBnEASg&sid=9c5b8c53&type=tcp&headerType=none#🇯🇵JP日本BGP專線1
 hysteria2://0ba9dd28-f867-4bdd-8b86-cb324b49fd2b@4896krl1.btycloud.top:30000?sni=www.apple.com&insecure=1#🇰🇷KR韓國BGP專線1
 hysteria2://0ba9dd28-f867-4bdd-8b86-cb324b49fd2b@79.72.81.183:30000?sni=www.apple.com&insecure=1#🇬🇧UK英國甲骨文
