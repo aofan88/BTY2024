@@ -13,7 +13,7 @@ vless://21320308-b2bb-440c-e02b-10ce8f58e2f4@visa.com.sg:80?encryption=none&secu
 vless://d3d3e8bf-67d0-4da8-feda-27e5998d560b@4896sgf1.btycloud.top:51122?type=tcp&security=reality&sni=officecdn.microsoft.com&pbk=XDtCcDhce40clSWUGfdy2e_IfHydDDWVbkdwzv0X6iw&flow=xtls-rprx-vision&sid=5f5a49e7&fp=chrome#🇸🇬SG新加坡樂色無限直連
 hysteria2://754ffbe9-e8f2-4cc8-99f6-cd9ec07f6102@4896sgc1.btycloud.top:8080?sni=vsg05.344233.cc&insecure=0#🇸🇬SG新加坡AWS小弟
 vless://9f4738d4-e84e-402f-b8d6-bc6f128d80bb@4896sgl1.btycloud.top:48574?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.lamer.com.sg&fp=chrome&pbk=lmxSayN8tUg2Dag2MPXrdqZ2SQK9K3OjlaKk8wVCRnc&sid=f8f18902&type=tcp&headerType=none#🇸🇬SG新加坡BGP專線1
-hysteria2://9f4738d4-e84e-402f-b8d6-bc6f128d80bb@4896sgl2.btycloud.top:30000?sni=www.teslaenergy.com&insecure=1#🇸🇬SG新加坡BGP專線1
+hysteria2://9f4738d4-e84e-402f-b8d6-bc6f128d80bb@4896sgl2.btycloud.top:30000?sni=www.teslaenergy.com&insecure=1#🇸🇬SG新加坡BGP專線2
 //hysteria2://99cf03ad-1291-48e4-898d-e81754acea94@4896sgy1.btycloud.top:20000?sni=www.bing.com&insecure=1#🇸🇬SG新加坡Oracle
 
 //vless://794c349e-38c5-4020-cfa7-af996d39a8c2@fxxktw.af88.xyz:51122?encryption=none&security=none&type=ws&path=%2F#🇹🇼TW台灣中華電信無限戰神
