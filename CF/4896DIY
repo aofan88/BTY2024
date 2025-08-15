@@ -13,7 +13,6 @@ vless://21320308-b2bb-440c-e02b-10ce8f58e2f4@visa.com.sg:80?encryption=none&secu
 vless://d3d3e8bf-67d0-4da8-feda-27e5998d560b@4896sgf1.btycloud.top:51122?type=tcp&security=reality&sni=officecdn.microsoft.com&pbk=XDtCcDhce40clSWUGfdy2e_IfHydDDWVbkdwzv0X6iw&flow=xtls-rprx-vision&sid=5f5a49e7&fp=chrome#🇸🇬SG新加坡樂色無限直連
 hysteria2://754ffbe9-e8f2-4cc8-99f6-cd9ec07f6102@4896sgc1.btycloud.top:8080?sni=vsg05.344233.cc&insecure=0#🇸🇬SG新加坡AWS小弟
 vless://9f4738d4-e84e-402f-b8d6-bc6f128d80bb@4896sgl1.btycloud.top:48574?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.lamer.com.sg&fp=chrome&pbk=lmxSayN8tUg2Dag2MPXrdqZ2SQK9K3OjlaKk8wVCRnc&sid=f8f18902&type=tcp&headerType=none#🇸🇬SG新加坡BGP專線1
-vless://9f4738d4-e84e-402f-b8d6-bc6f128d80bb@aws-link7.liangxin1.xyz:48574?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.lamer.com.sg&fp=chrome&pbk=lmxSayN8tUg2Dag2MPXrdqZ2SQK9K3OjlaKk8wVCRnc&sid=f8f18902&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%E9%AB%98%E9%80%9F01%7CBGP%7C%E6%B5%81%E5%AA%92%E4%BD%93
 hysteria2://9f4738d4-e84e-402f-b8d6-bc6f128d80bb@4896sgl2.btycloud.top:30000?sni=www.teslaenergy.com&insecure=1#🇸🇬SG新加坡BGP專線2
 //hysteria2://99cf03ad-1291-48e4-898d-e81754acea94@4896sgy1.btycloud.top:20000?sni=www.bing.com&insecure=1#🇸🇬SG新加坡Oracle
 
@@ -28,12 +27,12 @@ vless://de4ec21b-1498-4746-91fb-765dc0e2ad01@bestip.af88.xyz:80?encryption=none&
 vless://3ab9369a-0539-4c3a-be55-721fefd8f151@4896twq2.btycloud.top:443?encryption=none&security=tls&sni=cmtw.bty2025.ggff.net&fp=random&type=ws&host=cmtw.bty2025.ggff.net&path=%2F%3Fed%3D2560#🇹🇼TW台灣強盜無限戰神
 vless://754ffbe9-e8f2-4cc8-99f6-cd9ec07f6102@4896twc2.btycloud.top:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.python.org&fp=chrome&pbk=2a0ONLRiBeHJdr9qCruq5tPVf8_3c4fmZsg7YQorFSE&sid=04d59340&type=tcp&headerType=none#🇹🇼TW台灣中華電信1
 hysteria2://754ffbe9-e8f2-4cc8-99f6-cd9ec07f6102@4896twc1.btycloud.top:8080?sni=tw3.757866.xyz&insecure=0#🇹🇼TW台灣中華電信2
-vless://9f4738d4-e84e-402f-b8d6-bc6f128d80bb@aws-link27.liangxin1.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=download-porter.hoyoverse.com&fp=chrome&pbk=a9I2uA3NNZA6uBAe3Tui9vZ8CG5MrMaYOifWrAdc0zg&sid=a8609be8&type=tcp&headerType=none#🇹🇼TW台灣AWS
+vless://9f4738d4-e84e-402f-b8d6-bc6f128d80bb@4896twl1.btycloud.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=download-porter.hoyoverse.com&fp=chrome&pbk=a9I2uA3NNZA6uBAe3Tui9vZ8CG5MrMaYOifWrAdc0zg&sid=a8609be8&type=tcp&headerType=none#🇹🇼TW台灣AWS
 //vless://99cf03ad-1291-48e4-898d-e81754acea94@4896twy1.btycloud.top:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=tw.xn--4gq62f52gppi29k.com&fp=chrome&type=tcp&headerType=none#🇹🇼TW台灣中華電信3
 
 hysteria2://f9baee5a@4896hkd1.btycloud.top:64890?sni=www.bing.com&insecure=1#🇭🇰HK香港無限戰神
 vless://9f4738d4-e84e-402f-b8d6-bc6f128d80bb@4896hkl1.btycloud.top:24758?encryption=none&flow=xtls-rprx-vision&security=reality&sni=osxapps.itunes.apple.com&fp=chrome&pbk=o59R2PjAsu1h4KcFjK-EDGP41N2PHZL_Pgk64UcFxh0&sid=a6d87a12&type=tcp&headerType=none#🇭🇰HK香港BGP專線1
-hysteria2://9f4738d4-e84e-402f-b8d6-bc6f128d80bb@aws-linkhy3.liangxin1.xyz:30000?sni=www.teslamotors.com&insecure=1#🇭🇰HK香港BGP專線2
+hysteria2://9f4738d4-e84e-402f-b8d6-bc6f128d80bb@4896hkl2.btycloud.top:30000?sni=www.teslamotors.com&insecure=1#🇭🇰HK香港BGP專線2
 
 
 vless://9f4738d4-e84e-402f-b8d6-bc6f128d80bb@4896jpl1.btycloud.top:25485?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com.cn&fp=chrome&pbk=VOFSjjWT0wIH3Q0ntyEZd8WwksrIAb5gPt_3PBnEASg&sid=9c5b8c53&type=tcp&headerType=none#🇯🇵JP日本BGP專線1
