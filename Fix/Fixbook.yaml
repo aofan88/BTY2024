@@ -90,69 +90,51 @@ dns:
       - 0.0.0.0/32
 
 proxies:
-  - {"name":"🇭🇰HK香港日拋","type":"hysteria2","server":"hsxg.huasuan666.top","port":22153,"password":"fd16dd2e-c06d-48ab-97fc-d9c076e71973","sni":"hsxg.huasuan666.top","skip-cert-verify":true}
-  - {"name":"🇹🇼TW台灣日拋","type":"trojan","server":"220.135.202.250","port":81,"udp":true,"password":"ttfang","sni":"ttfang.fange.me","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"ttfang.fange.me"}}}
-  - {"name":"🇯🇵JP日本日拋","type":"hysteria2","server":"45.192.242.18","port":27296,"password":"7f8e027d-1111-4e7a-80bd-2d9fc41c40d8","sni":"www.bing.com","skip-cert-verify":true}
-  - {"name":"🇸🇬SG新加坡日拋1","type":"hysteria2","server":"47.236.104.81","port":12332,"password":"TtXjyZgkEG8vdzgLlgMUfxkDYw","sni":"bing.com","skip-cert-verify":true}
-  - {"name":"🇸🇬SG新加坡日拋2","type":"vless","server":"108.162.194.231","port":443,"uuid":"b7f8c66b-40f0-4160-8b88-76a482e2b593","tls":true,"servername":"rs-sg4.lzjnb.shop","network":"ws","ws-opts":{"path":"/lzj"}}
-  - {"name":"🇩🇪DE德意志日拋","type":"vless","server":"104.17.182.58","port":443,"uuid":"c1601a96-febd-4baa-8fe3-17ca8f4121bd","tls":true,"servername":"frieren.albedo.ddns-ip.net","network":"ws","ws-opts":{"path":"/proxyip=ayaka.shorekeeper.ir"},"client-fingerprint":"randomized"}
-  - {"name":"🇮🇷伊朗911兄弟","type":"vless","server":"85.133.202.90","port":8080,"uuid":"6e8e9178-24dd-4b56-b5d8-fe753237be24","tls":false,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇦🇬7/23早新增解鎖雞⬆️","type":"vless","server":"visa.com.sg","port":80,"uuid":"21320308-b2bb-440c-e02b-10ce8f58e2f4","tls":false,"servername":"d1cksg2cf.af88.xyz","network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇸🇬SG新加坡DO無限直連","type":"vless","server":"4896sgd1.btycloud.top","port":31020,"udp":true,"uuid":"b6d15938-bd84-4fcd-d1a3-029196f12dc7","tls":true,"servername":"www.apple.com","flow":"xtls-rprx-vision","network":"tcp","reality-opts":{"public-key":"GYWsqpHF-NciKKouaDMsn4QySu5dRnuOsv0JtiK_YXM","short-id":"3bbc852d"},"client-fingerprint":"chrome"}
+  - {"name":"🇭🇰HK香港BGP專線2","type":"hysteria2","server":"4896hkl2.btycloud.top","port":30000,"password":"9f4738d4-e84e-402f-b8d6-bc6f128d80bb","sni":"www.teslamotors.com","skip-cert-verify":true}
+  - {"name":"🇭🇰HK香港無限戰神","type":"hysteria2","server":"4896hkd1.btycloud.top","port":64890,"password":"f9baee5a","sni":"www.bing.com","skip-cert-verify":true}
+  - {"name":"🇯🇵JP日本AWS1","type":"vless","server":"3bd9.55dca.e048.f1-fef1f.yfjcs.com","port":443,"uuid":"99cf03ad-1291-48e4-898d-e81754acea94","tls":true,"servername":"yfjp.xn--4gq62f52gppi29k.com","flow":"xtls-rprx-vision","network":"tcp"}
+  - {"name":"🇯🇵JP日本BGP專線1","type":"vless","server":"4896jpl1.btycloud.top","port":25485,"udp":true,"uuid":"9f4738d4-e84e-402f-b8d6-bc6f128d80bb","tls":true,"servername":"www.apple.com.cn","flow":"xtls-rprx-vision","network":"tcp","reality-opts":{"public-key":"VOFSjjWT0wIH3Q0ntyEZd8WwksrIAb5gPt_3PBnEASg","short-id":"9c5b8c53"},"client-fingerprint":"chrome"}
+  - {"name":"🇰🇷KR韓國BGP專線1","type":"hysteria2","server":"4896krl1.btycloud.top","port":30000,"password":"9f4738d4-e84e-402f-b8d6-bc6f128d80bb","sni":"www.apple.com","skip-cert-verify":true}
+  - {"name":"🇸🇬SG新加坡AWS小弟","type":"hysteria2","server":"4896sgc1.btycloud.top","port":8080,"password":"754ffbe9-e8f2-4cc8-99f6-cd9ec07f6102","sni":"vsg05.344233.cc","skip-cert-verify":true}
+  - {"name":"🇸🇬SG新加坡BGP專線1","type":"vless","server":"4896sgl1.btycloud.top","port":48574,"udp":true,"uuid":"9f4738d4-e84e-402f-b8d6-bc6f128d80bb","tls":true,"servername":"www.lamer.com.sg","flow":"xtls-rprx-vision","network":"tcp","reality-opts":{"public-key":"lmxSayN8tUg2Dag2MPXrdqZ2SQK9K3OjlaKk8wVCRnc","short-id":"f8f18902"},"client-fingerprint":"chrome"}
+  - {"name":"🇸🇬SG新加坡BGP專線2","type":"hysteria2","server":"4896sgl2.btycloud.top","port":30000,"password":"9f4738d4-e84e-402f-b8d6-bc6f128d80bb","sni":"www.teslaenergy.com","skip-cert-verify":true}
   - {"name":"🇸🇬SG新加坡樂色無限直連","type":"vless","server":"4896sgf1.btycloud.top","port":51122,"udp":true,"uuid":"d3d3e8bf-67d0-4da8-feda-27e5998d560b","tls":true,"servername":"officecdn.microsoft.com","flow":"xtls-rprx-vision","network":"tcp","reality-opts":{"public-key":"XDtCcDhce40clSWUGfdy2e_IfHydDDWVbkdwzv0X6iw","short-id":"5f5a49e7"},"client-fingerprint":"chrome"}
-  - {"name":"🇸🇬SG新加坡AWS小弟","type":"hysteria2","server":"4896sgc1.btycloud.top","port":8080,"password":"48b19ae1-19e4-471d-a467-ad838c3f3fd6","sni":"sg09.453521.xyz","skip-cert-verify":true}
-  - {"name":"🇸🇬SG新加坡BGP專線1","type":"vless","server":"4896sgl1.btycloud.top","port":39645,"udp":true,"uuid":"0ba9dd28-f867-4bdd-8b86-cb324b49fd2b","tls":true,"servername":"iosapps.itunes.apple.com","flow":"xtls-rprx-vision","network":"tcp","reality-opts":{"public-key":"x7VqpFP7_PrY4ebNw8hi8Ec5Tm5Upmt5JOdrN1M9VnQ","short-id":"2b3b0b93"},"client-fingerprint":"chrome"}
-  - {"name":"🇸🇬SG新加坡BGP專線2","type":"hysteria2","server":"4896sgl2.btycloud.top","port":30000,"password":"0ba9dd28-f867-4bdd-8b86-cb324b49fd2b","sni":"www.teslaautomation.de","skip-cert-verify":true}
-  - {"name":"🇸🇬SG新加坡Oracle","type":"hysteria2","server":"4896sgy1.btycloud.top","port":20000,"password":"99cf03ad-1291-48e4-898d-e81754acea94","sni":"www.bing.com","skip-cert-verify":true}
-  - {"name":"🇹🇼TW台灣中華電信無限戰神無加密","type":"vless","server":"fxxktw.af88.xyz","port":51155,"uuid":"b4ab5d54-e5f2-4b81-cfa0-f6e7b389df64","tls":false,"network":"ws","ws-opts":{"path":"/666"}}
+  - {"name":"🇸🇬亚马逊新加坡1号","type":"vless","server":"3bd9.55dca.e048.f7-fef1f.yfjcs.com","port":443,"uuid":"99cf03ad-1291-48e4-898d-e81754acea94","tls":true,"servername":"b295-23ap29-6bh.xn--4gq62f52gppi29k.com","flow":"xtls-rprx-vision","network":"tcp","client-fingerprint":"safari"}
+  - {"name":"🇸🇬新加坡专线","type":"hysteria2","server":"168.138.184.187","port":20000,"password":"99cf03ad-1291-48e4-898d-e81754acea94","sni":"www.bing.com","skip-cert-verify":true}
+  - {"name":"🇹🇼TW台灣AWS","type":"vless","server":"4896twl1.btycloud.top","port":443,"udp":true,"uuid":"9f4738d4-e84e-402f-b8d6-bc6f128d80bb","tls":true,"servername":"download-porter.hoyoverse.com","flow":"xtls-rprx-vision","network":"tcp","reality-opts":{"public-key":"a9I2uA3NNZA6uBAe3Tui9vZ8CG5MrMaYOifWrAdc0zg","short-id":"a8609be8"},"client-fingerprint":"chrome"}
+  - {"name":"🇹🇼TW台灣中華電信2","type":"hysteria2","server":"4896twc1.btycloud.top","port":8080,"password":"754ffbe9-e8f2-4cc8-99f6-cd9ec07f6102","sni":"tw3.757866.xyz","skip-cert-verify":true}
   - {"name":"🇹🇼TW台灣中華電信無限戰神","type":"vless","server":"fxxktw.af88.xyz","port":51122,"udp":true,"uuid":"71127b6c-6de1-410e-bc36-c2f9e5f48a0d","tls":true,"servername":"r.bing.com","flow":"xtls-rprx-vision","network":"tcp","reality-opts":{"public-key":"XueLC9XTF24Lt2JHEkb7Vgbs3OVY9TT7N_BoG5frxFE","short-id":"e436c7a7"},"client-fingerprint":"chrome"}
-  - {"name":"🇹🇼TW台灣AK47無限戰神-移動優選","type":"vless","server":"bestip.af88.xyz","port":80,"uuid":"de4ec21b-1498-4746-91fb-765dc0e2ad01","tls":false,"servername":"4896twaccf.btycloud.top","network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇹🇼TW台灣AK47無限戰神-電信優選","type":"vless","server":"bestcn.af88.xyz","port":80,"uuid":"de4ec21b-1498-4746-91fb-765dc0e2ad01","tls":false,"servername":"4896twaccf.btycloud.top","network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇹🇼TW台灣強盜無限戰神","type":"vless","server":"4896twq2.btycloud.top","port":443,"uuid":"b2082d4c-1607-4243-af29-114ae22739f6","tls":true,"servername":"cmtw.bty2025.ggff.net","network":"ws","ws-opts":{"path":"/?ed=2560"},"client-fingerprint":"random"}
-  - {"name":"🇹🇼TW台灣中華電信2","type":"hysteria2","server":"4896twc1.btycloud.top","port":8080,"password":"48b19ae1-19e4-471d-a467-ad838c3f3fd6","sni":"tw60.233235.xyz","skip-cert-verify":true}
-  - {"name":"🇹🇼TW台灣中華電信3","type":"vless","server":"4896twy1.btycloud.top","port":443,"uuid":"99cf03ad-1291-48e4-898d-e81754acea94","tls":true,"servername":"tw.xn--4gq62f52gppi29k.com","flow":"xtls-rprx-vision","network":"tcp","client-fingerprint":"chrome"}
-  - {"name":"🇭🇰HK香港BGP專線1","type":"vless","server":"4896hkl1.btycloud.top","port":24758,"udp":true,"uuid":"0ba9dd28-f867-4bdd-8b86-cb324b49fd2b","tls":true,"servername":"osxapps.itunes.apple.com","flow":"xtls-rprx-vision","network":"tcp","reality-opts":{"public-key":"o59R2PjAsu1h4KcFjK-EDGP41N2PHZL_Pgk64UcFxh0","short-id":"a6d87a12"},"client-fingerprint":"chrome"}
-  - {"name":"🇭🇰HK香港BGP專線2","type":"hysteria2","server":"4896hkl2.btycloud.top","port":30000,"password":"0ba9dd28-f867-4bdd-8b86-cb324b49fd2b","sni":"www.tesla.cn","skip-cert-verify":true}
-  - {"name":"🇯🇵JP日本BGP專線1","type":"vless","server":"4896jpl1.btycloud.top","port":25485,"udp":true,"uuid":"0ba9dd28-f867-4bdd-8b86-cb324b49fd2b","tls":true,"servername":"www.apple.com.cn","flow":"xtls-rprx-vision","network":"tcp","reality-opts":{"public-key":"VOFSjjWT0wIH3Q0ntyEZd8WwksrIAb5gPt_3PBnEASg","short-id":"9c5b8c53"},"client-fingerprint":"chrome"}
-  - {"name":"🇰🇷KR韓國BGP專線1","type":"hysteria2","server":"4896krl1.btycloud.top","port":30000,"password":"0ba9dd28-f867-4bdd-8b86-cb324b49fd2b","sni":"www.apple.com","skip-cert-verify":true}
-  - {"name":"🇬🇧UK英國甲骨文","type":"hysteria2","server":"79.72.81.183","port":30000,"password":"0ba9dd28-f867-4bdd-8b86-cb324b49fd2b","sni":"www.apple.com","skip-cert-verify":true}
-  - {"name":"🇬🇧UK英國DO無限","type":"vless","server":"4896ukd1.btycloud.top","port":30660,"udp":true,"uuid":"e376b68b-98e2-4070-e491-99ba5ea4c3ad","tls":true,"servername":"officecdn.microsoft.com","flow":"xtls-rprx-vision","network":"tcp","reality-opts":{"public-key":"CFvSlPHlJKvGdadnfAghgkeSiafcFYgi0_v-64TwYSU","short-id":"c5a5d1df"},"client-fingerprint":"chrome"}
-  - {"name":"🇦🇺AU澳洲DO無限","type":"vless","server":"visa.com","port":443,"uuid":"8fd7068f-5344-492a-8417-d08ae728a3a4","tls":true,"servername":"4896aud1cf.btycloud.top","network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇳🇿紐西蘭無限晨風","type":"vless","server":"45.15.140.51","port":51122,"uuid":"a272e617-8198-484c-f266-82fd5f1c2003","tls":false,"network":"ws","ws-opts":{"path":"/"}}
+  - {"name":"🇹🇼TW台灣中華電信無限戰神無加密","type":"vless","server":"fxxktw.af88.xyz","port":51155,"uuid":"b4ab5d54-e5f2-4b81-cfa0-f6e7b389df64","tls":false,"network":"ws","ws-opts":{"path":"/666"}}
+  - {"name":"🇹🇼台湾Y","type":"vless","server":"3bd9.55dba.e048.f65-fef1f.yfjcs.com","port":443,"uuid":"99cf03ad-1291-48e4-898d-e81754acea94","tls":true,"servername":"tw.xn--4gq62f52gppi29k.com","flow":"xtls-rprx-vision","network":"tcp"}
+  - {"name":"🇺🇸US美國堪薩斯Hy2","type":"hysteria2","server":"208.84.102.87","port":56412,"skip-cert-verify":true}
+  - {"name":"defaultName","type":"tuic","server":"208.84.102.87","port":56413}
+  - {"name":"🇺🇸US美國堪薩斯Vless","type":"vless","server":"208.84.102.87","port":56410,"uuid":"512c4209-c7ea-4fa8-b988-efdaf13cddbb","tls":true,"servername":"www.yahoo.com","flow":"xtls-rprx-vision","network":"tcp"}
+  - {"name":"🇺🇸US美國堪薩斯專線6","type":"hysteria2","server":"63.141.226.99","port":20000,"skip-cert-verify":true}
 proxy-groups:
   - name: 🟢 选择节点@BTY2024
     type: select
     proxies:
       - DIRECT
-      - 🇭🇰HK香港日拋
-      - 🇹🇼TW台灣日拋
-      - 🇯🇵JP日本日拋
-      - 🇸🇬SG新加坡日拋1
-      - 🇸🇬SG新加坡日拋2
-      - 🇩🇪DE德意志日拋
-      - 🇮🇷伊朗911兄弟
-      - 🇦🇬7/23早新增解鎖雞⬆️
-      - 🇸🇬SG新加坡DO無限直連
-      - 🇸🇬SG新加坡樂色無限直連
+      - 🇭🇰HK香港BGP專線2
+      - 🇭🇰HK香港無限戰神
+      - 🇯🇵JP日本AWS1
+      - 🇯🇵JP日本BGP專線1
+      - 🇰🇷KR韓國BGP專線1
       - 🇸🇬SG新加坡AWS小弟
       - 🇸🇬SG新加坡BGP專線1
       - 🇸🇬SG新加坡BGP專線2
-      - 🇸🇬SG新加坡Oracle
-      - 🇹🇼TW台灣中華電信無限戰神無加密
-      - 🇹🇼TW台灣中華電信無限戰神
-      - 🇹🇼TW台灣AK47無限戰神-移動優選
-      - 🇹🇼TW台灣AK47無限戰神-電信優選
-      - 🇹🇼TW台灣強盜無限戰神
+      - 🇸🇬SG新加坡樂色無限直連
+      - 🇸🇬亚马逊新加坡1号
+      - 🇸🇬新加坡专线
+      - 🇹🇼TW台灣AWS
       - 🇹🇼TW台灣中華電信2
-      - 🇹🇼TW台灣中華電信3
-      - 🇭🇰HK香港BGP專線1
-      - 🇭🇰HK香港BGP專線2
-      - 🇯🇵JP日本BGP專線1
-      - 🇰🇷KR韓國BGP專線1
-      - 🇬🇧UK英國甲骨文
-      - 🇬🇧UK英國DO無限
-      - 🇦🇺AU澳洲DO無限
-      - 🇳🇿紐西蘭無限晨風
+      - 🇹🇼TW台灣中華電信無限戰神
+      - 🇹🇼TW台灣中華電信無限戰神無加密
+      - 🇹🇼台湾Y
+      - 🇺🇸US美國堪薩斯Hy2
+      - defaultName
+      - 🇺🇸US美國堪薩斯Vless
+      - 🇺🇸US美國堪薩斯專線6
   - name: 🇨🇳 国内直连
     type: select
     proxies:
@@ -168,35 +150,26 @@ proxy-groups:
     proxies:
       - 🟢 选择节点@BTY2024
       - 🇨🇳 国内直连
-      - 🇭🇰HK香港日拋
-      - 🇹🇼TW台灣日拋
-      - 🇯🇵JP日本日拋
-      - 🇸🇬SG新加坡日拋1
-      - 🇸🇬SG新加坡日拋2
-      - 🇩🇪DE德意志日拋
-      - 🇮🇷伊朗911兄弟
-      - 🇦🇬7/23早新增解鎖雞⬆️
-      - 🇸🇬SG新加坡DO無限直連
-      - 🇸🇬SG新加坡樂色無限直連
+      - 🇭🇰HK香港BGP專線2
+      - 🇭🇰HK香港無限戰神
+      - 🇯🇵JP日本AWS1
+      - 🇯🇵JP日本BGP專線1
+      - 🇰🇷KR韓國BGP專線1
       - 🇸🇬SG新加坡AWS小弟
       - 🇸🇬SG新加坡BGP專線1
       - 🇸🇬SG新加坡BGP專線2
-      - 🇸🇬SG新加坡Oracle
-      - 🇹🇼TW台灣中華電信無限戰神無加密
-      - 🇹🇼TW台灣中華電信無限戰神
-      - 🇹🇼TW台灣AK47無限戰神-移動優選
-      - 🇹🇼TW台灣AK47無限戰神-電信優選
-      - 🇹🇼TW台灣強盜無限戰神
+      - 🇸🇬SG新加坡樂色無限直連
+      - 🇸🇬亚马逊新加坡1号
+      - 🇸🇬新加坡专线
+      - 🇹🇼TW台灣AWS
       - 🇹🇼TW台灣中華電信2
-      - 🇹🇼TW台灣中華電信3
-      - 🇭🇰HK香港BGP專線1
-      - 🇭🇰HK香港BGP專線2
-      - 🇯🇵JP日本BGP專線1
-      - 🇰🇷KR韓國BGP專線1
-      - 🇬🇧UK英國甲骨文
-      - 🇬🇧UK英國DO無限
-      - 🇦🇺AU澳洲DO無限
-      - 🇳🇿紐西蘭無限晨風
+      - 🇹🇼TW台灣中華電信無限戰神
+      - 🇹🇼TW台灣中華電信無限戰神無加密
+      - 🇹🇼台湾Y
+      - 🇺🇸US美國堪薩斯Hy2
+      - defaultName
+      - 🇺🇸US美國堪薩斯Vless
+      - 🇺🇸US美國堪薩斯專線6
 
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🇨🇳 国内直连
