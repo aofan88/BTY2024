@@ -20,8 +20,8 @@ hysteria2://9f4738d4-e84e-402f-b8d6-bc6f128d80bb@4896sgl2.btycloud.top:30000?sni
 //hysteria2://99cf03ad-1291-48e4-898d-e81754acea94@4896sgy1.btycloud.top:20000?sni=www.bing.com&insecure=1#🇸🇬SG新加坡Oracle
 
 //vless://794c349e-38c5-4020-cfa7-af996d39a8c2@fxxktw.af88.xyz:51122?encryption=none&security=none&type=ws&path=%2F#🇹🇼TW台灣中華電信無限戰神
-vless://b4ab5d54-e5f2-4b81-cfa0-f6e7b389df64@fxxktw.af88.xyz:51155?type=ws&security=none&path=%2F666#🇹🇼TW台灣中華電信無限戰神無加密
-vless://71127b6c-6de1-410e-bc36-c2f9e5f48a0d@fxxktw.af88.xyz:51122?encryption=none&flow=xtls-rprx-vision&security=reality&sni=r.bing.com&fp=chrome&pbk=XueLC9XTF24Lt2JHEkb7Vgbs3OVY9TT7N_BoG5frxFE&sid=e436c7a7&type=tcp&headerType=none#🇹🇼TW台灣中華電信無限戰神
+//vless://b4ab5d54-e5f2-4b81-cfa0-f6e7b389df64@fxxktw.af88.xyz:51155?type=ws&security=none&path=%2F666#🇹🇼TW台灣中華電信無限戰神無加密
+vless://26cccfb8-7bd3-4b45-d933-1b170e18a60f@fxxktw.af88.xyz:51122?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=chrome&pbk=0x5NVqvev11oqjRreLlgq-o4rda2jxcy2TYSdzl6-T8&sid=2aef83b7&type=tcp&headerType=none#🇹🇼TW台灣中華電信無限戰神
 //vless://794c349e-38c5-4020-cfa7-af996d39a8c2@bestip.af88.xyz:80?encryption=none&security=none&type=ws&host=4896twf1cf.btycloud.top&path=%2F#🇹🇼TW中華電信無限-移動
 //vless://794c349e-38c5-4020-cfa7-af996d39a8c2@bestcn.af88.xyz:80?encryption=none&security=none&type=ws&host=4896twf1cf.btycloud.top&path=%2F#🇹🇼TW中華電信無限-電信
 vless://3ab9369a-0539-4c3a-be55-721fefd8f151@4896twq2.btycloud.top:443?encryption=none&security=tls&sni=cmtw.bty2025.ggff.net&fp=random&type=ws&host=cmtw.bty2025.ggff.net&path=%2F%3Fed%3D2560#🇹🇼TW台灣強盜無限戰神
