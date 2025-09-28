@@ -1,10 +1,4 @@
-//hysteria2://fd16dd2e-c06d-48ab-97fc-d9c076e71973@hsxg.huasuan666.top:22153?sni=hsxg.huasuan666.top&insecure=1#🇭🇰HK香港日拋
-trojan://ttfang@220.135.202.250:81?security=tls&sni=ttfang.fange.me&allowInsecure=1&type=ws&host=ttfang.fange.me&path=%2F#🇹🇼TW台灣日拋
-//hysteria2://7f8e027d-1111-4e7a-80bd-2d9fc41c40d8@45.192.242.18:27296?sni=www.bing.com&insecure=1#🇯🇵JP日本日拋
-//hysteria2://TtXjyZgkEG8vdzgLlgMUfxkDYw@47.236.104.81:12332?sni=bing.com&insecure=1#🇸🇬SG新加坡日拋1
-vless://b7f8c66b-40f0-4160-8b88-76a482e2b593@108.162.194.231:443?encryption=none&security=tls&allowInsecure=1&type=ws&host=rs-sg4.lzjnb.shop&path=%2Flzj#🇸🇬SG新加坡日拋2
-vless://c1601a96-febd-4baa-8fe3-17ca8f4121bd@104.17.182.58:443?encryption=none&security=tls&alpn=http%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=frieren.albedo.ddns-ip.net&path=%2Fproxyip%3Dayaka.shorekeeper.ir#🇩🇪DE德意志日拋
-//vless://6e8e9178-24dd-4b56-b5d8-fe753237be24@85.133.202.90:8080?encryption=none&security=none&allowInsecure=1&type=ws&path=%2F#🇮🇷伊朗911兄弟
+
 vless://21320308-b2bb-440c-e02b-10ce8f58e2f4@visa.com.sg:80?encryption=none&security=none&type=ws&host=d1cksg2cf.af88.xyz&path=%2F#🇦🇬8/8新增香港 新加坡無綫
 
 
@@ -12,20 +6,36 @@ hysteria2://7d6dde50-5077-422d-bfdb-8e476b212b6d@4896sgd1.btycloud.top:15041?pee
 tuic://7d6dde50-5077-422d-bfdb-8e476b212b6d:7d6dde50-5077-422d-bfdb-8e476b212b6d@4896sgd1.btycloud.top:19024?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#🇸🇬SG新加坡DO-Tu5
 hysteria2://48b19ae1-19e4-471d-a467-ad838c3f3fd6@4896sgc1.btycloud.top:8080?sni=sg05.453521.xyz&insecure=0#🇸🇬SG新加坡AWS小弟
 vless://9f4738d4-e84e-402f-b8d6-bc6f128d80bb@4896sgl1.btycloud.top:48574?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.lamer.com.sg&fp=chrome&pbk=lmxSayN8tUg2Dag2MPXrdqZ2SQK9K3OjlaKk8wVCRnc&sid=f8f18902&type=tcp&headerType=none#🇸🇬SG新加坡AWS
-ss://YWVzLTEyOC1nY206MDI1MWQ5YjgtMzM3NC00ZTRmLWFiYWItNGQ0ZTRmMGIyNmU1@4896-cntel.btycloud.top:16511#🇸🇬SG新加坡深圳中轉
 
 
 vless://26cccfb8-7bd3-4b45-d933-1b170e18a60f@fxxktw.af88.xyz:51122?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=chrome&pbk=0x5NVqvev11oqjRreLlgq-o4rda2jxcy2TYSdzl6-T8&sid=2aef83b7&type=tcp&headerType=none#🇹🇼TW台灣中華電信無限戰神
-ss://YWVzLTEyOC1nY206MDI1MWQ5YjgtMzM3NC00ZTRmLWFiYWItNGQ0ZTRmMGIyNmU1@4896-cntel.btycloud.top:16480#🇹🇼TW中華電信深圳中轉
 vless://9f4738d4-e84e-402f-b8d6-bc6f128d80bb@4896twl1.btycloud.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=download-porter.hoyoverse.com&fp=chrome&pbk=a9I2uA3NNZA6uBAe3Tui9vZ8CG5MrMaYOifWrAdc0zg&sid=a8609be8&type=tcp&headerType=none#🇹🇼TW台灣AWS
 //vless://99cf03ad-1291-48e4-898d-e81754acea94@4896twy1.btycloud.top:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=tw.xn--4gq62f52gppi29k.com&fp=chrome&type=tcp&headerType=none#🇹🇼TW台灣中華電信3
 
 vless://9f4738d4-e84e-402f-b8d6-bc6f128d80bb@4896hkl1.btycloud.top:24758?encryption=none&flow=xtls-rprx-vision&security=reality&sni=osxapps.itunes.apple.com&fp=chrome&pbk=o59R2PjAsu1h4KcFjK-EDGP41N2PHZL_Pgk64UcFxh0&sid=a6d87a12&type=tcp&headerType=none#🇭🇰HK香港AWS
-ss://YWVzLTEyOC1nY206MDI1MWQ5YjgtMzM3NC00ZTRmLWFiYWItNGQ0ZTRmMGIyNmU1@4896-cntel.btycloud.top:16470#🇭🇰HK香港深圳中轉
 
 
 vless://9f4738d4-e84e-402f-b8d6-bc6f128d80bb@4896jpl1.btycloud.top:25485?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com.cn&fp=chrome&pbk=VOFSjjWT0wIH3Q0ntyEZd8WwksrIAb5gPt_3PBnEASg&sid=9c5b8c53&type=tcp&headerType=none#🇯🇵JP日本AWS
 hysteria2://9f4738d4-e84e-402f-b8d6-bc6f128d80bb@79.72.81.183:30000?sni=www.apple.com&insecure=1#🇬🇧UK英國甲骨文
+
+
+ss://dW5kZWZpbmVkOnVuZGVmaW5lZA==@4896-cmcczj.btycloud.top:38696#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF%20-%20%E6%B1%9F%E8%98%87%E4%B8%AD%E8%BD%891
+ss://dW5kZWZpbmVkOnVuZGVmaW5lZA==@4896-cmcczj.btycloud.top:38696#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF%20-%20%E6%B1%9F%E8%98%87%E4%B8%AD%E8%BD%892
+ss://dW5kZWZpbmVkOnVuZGVmaW5lZA==@4896-cmcczj.btycloud.top:19713#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E7%81%A3%20-%20%E6%B1%9F%E8%98%87%E4%B8%AD%E8%BD%89
+ss://dW5kZWZpbmVkOnVuZGVmaW5lZA==@4896-cmcczj.btycloud.top:13976#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1%20-%20%E6%B1%9F%E8%98%87%E4%B8%AD%E8%BD%89
+ss://dW5kZWZpbmVkOnVuZGVmaW5lZA==@4896-cmcczj.btycloud.top:55384#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC%20-%20%E6%B1%9F%E8%98%87%E4%B8%AD%E8%BD%89
+ss://dW5kZWZpbmVkOnVuZGVmaW5lZA==@4896-cmcczj.btycloud.top:48624#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9C%8B%20-%20%E6%B1%9F%E8%98%87%E4%B8%AD%E8%BD%89
+ss://dW5kZWZpbmVkOnVuZGVmaW5lZA==@4896-cmcczj.btycloud.top:13026#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9C%8B%20-%20%E6%B1%9F%E8%98%87%E4%B8%AD%E8%BD%89
+ss://dW5kZWZpbmVkOnVuZGVmaW5lZA==@4896-cmcczj.btycloud.top:12599#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9C%8B%20-%20%E6%B1%9F%E8%98%87%E4%B8%AD%E8%BD%89
+ss://dW5kZWZpbmVkOnVuZGVmaW5lZA==@4896-cmcczj.btycloud.top:31638#%F0%9F%87%B9%F0%9F%87%ADTH%E6%B3%B0%E5%9C%8B%20-%20%E6%B1%9F%E8%98%87%E4%B8%AD%E8%BD%89
+ss://dW5kZWZpbmVkOnVuZGVmaW5lZA==@4896-cmcczj.btycloud.top:59341#%F0%9F%87%A7%F0%9F%87%B7BR%E5%B7%B4%E8%A5%BF%20-%20%E6%B1%9F%E8%98%87%E4%B8%AD%E8%BD%89
+ss://dW5kZWZpbmVkOnVuZGVmaW5lZA==@4896-cmcczj.btycloud.top:34680#%F0%9F%87%AE%F0%9F%87%B1IL%E4%BB%A5%E8%89%B2%E5%88%97%20-%20%E6%B1%9F%E8%98%87%E4%B8%AD%E8%BD%89
+ss://dW5kZWZpbmVkOnVuZGVmaW5lZA==@4896-cmcczj.btycloud.top:57327#%F0%9F%87%B2%F0%9F%87%BDMX%E5%A2%A8%E8%A5%BF%E5%93%A5%20-%20%E6%B1%9F%E8%98%87%E4%B8%AD%E8%BD%89
+ss://dW5kZWZpbmVkOnVuZGVmaW5lZA==@4896-cmcczj.btycloud.top:40017#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%93%E5%9C%8B%20-%20%E6%B1%9F%E8%98%87%E4%B8%AD%E8%BD%89
+ss://dW5kZWZpbmVkOnVuZGVmaW5lZA==@4896-cmcczj.btycloud.top:32035#%F0%9F%87%AE%F0%9F%87%B3IN%E5%8D%B0%E5%BA%A6%20-%20%E6%B1%9F%E8%98%87%E4%B8%AD%E8%BD%89
+ss://dW5kZWZpbmVkOnVuZGVmaW5lZA==@4896-cmcczj.btycloud.top:20612#%F0%9F%87%AE%F0%9F%87%B8IS%E5%86%B0%E5%B3%B6%20-%20%E6%B1%9F%E8%98%87%E4%B8%AD%E8%BD%89
+ss://dW5kZWZpbmVkOnVuZGVmaW5lZA==@4896-cmcczj.btycloud.top:22165#%F0%9F%87%B9%F0%9F%87%B7TR%E5%9C%9F%E8%80%B3%E5%85%B6%20-%20%E6%B1%9F%E8%98%87%E4%B8%AD%E8%BD%89
+ss://dW5kZWZpbmVkOnVuZGVmaW5lZA==@4896-cmcczj.btycloud.top:19447#%F0%9F%87%B2%F0%9F%87%BEMY%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E%20-%20%E6%B1%9F%E8%98%87%E4%B8%AD%E8%BD%89
 
 
 
