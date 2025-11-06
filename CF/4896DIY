@@ -18,6 +18,8 @@ vless://bbb50538-495c-4fce-b26b-28de2818b1cf@4896hkl1.btycloud.top:24758?encrypt
 vless://bbb50538-495c-4fce-b26b-28de2818b1cf@4896jpl1.btycloud.top:25485?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com.cn&fp=chrome&pbk=VOFSjjWT0wIH3Q0ntyEZd8WwksrIAb5gPt_3PBnEASg&sid=9c5b8c53&type=tcp&headerType=none#🇯🇵JP日本AWS
 hysteria2://bbb50538-495c-4fce-b26b-28de2818b1cf@79.72.81.183:30000?sni=www.apple.com&insecure=1#🇬🇧UK英國甲骨文
 
+hysteria2://ad66655f-1f2b-4397-a064-46e7442a13e5@159.65.145.234:63208?peer=www.bing.com&insecure=1&alpn=h3#🇮🇳IN印度-臨時1
+tuic://ad66655f-1f2b-4397-a064-46e7442a13e5:ad66655f-1f2b-4397-a064-46e7442a13e5@159.65.145.234:31436?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#🇮🇳IN印度-臨時2
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZjdhMWY4Mi1lNDQ4LTQ3MTYtOGExMi1iNjA0ZDFjZWU3NWQ%3D@4896-cmcczj.btycloud.top:38696#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF%20-%20%E6%B1%9F%E8%98%87%E4%B8%AD%E8%BD%891
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZjdhMWY4Mi1lNDQ4LTQ3MTYtOGExMi1iNjA0ZDFjZWU3NWQ%3D@4896-cmcczj.btycloud.top:38696#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF%20-%20%E6%B1%9F%E8%98%87%E4%B8%AD%E8%BD%892
