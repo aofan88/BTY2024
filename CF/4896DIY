@@ -21,6 +21,7 @@ vless://bbb50538-495c-4fce-b26b-28de2818b1cf@4896hkl1.btycloud.top:24758?encrypt
 
 vless://bbb50538-495c-4fce-b26b-28de2818b1cf@4896jpl1.btycloud.top:25485?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com.cn&fp=chrome&pbk=VOFSjjWT0wIH3Q0ntyEZd8WwksrIAb5gPt_3PBnEASg&sid=9c5b8c53&type=tcp&headerType=none#🇯🇵JP日本AWS
 hysteria2://bbb50538-495c-4fce-b26b-28de2818b1cf@79.72.81.183:30000?sni=www.apple.com&insecure=1#🇬🇧UK英國甲骨文
+hysteria2://541a1e07-af3f-4810-9762-109a33a40e8e@15.204.129.38:51122?peer=www.bing.com&insecure=1&alpn=h3#🇺🇸US美國OVH戰鬥機
 
 hysteria2://ad66655f-1f2b-4397-a064-46e7442a13e5@159.65.145.234:63208?peer=www.bing.com&insecure=1&alpn=h3#🇮🇳IN咖哩皇宮
 tuic://ad66655f-1f2b-4397-a064-46e7442a13e5:ad66655f-1f2b-4397-a064-46e7442a13e5@159.65.145.234:31436?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#🇮🇳IN重慶大廈
