@@ -1,16 +1,17 @@
 
-vless://21320308-b2bb-440c-e02b-10ce8f58e2f4@visa.com.sg:80?encryption=none&security=none&type=ws&host=d1cksg2cf.af88.xyz&path=%2F#🇦🇬10/28維護
+vless://21320308-b2bb-440c-e02b-10ce8f58e2f4@visa.com.sg:80?encryption=none&security=none&type=ws&host=d1cksg2cf.af88.xyz&path=%2F#🇦🇬11/15維護
 
 
-hysteria2://7d6dde50-5077-422d-bfdb-8e476b212b6d@4896sgd1.btycloud.top:15041?peer=www.bing.com&insecure=1&alpn=h3#🇸🇬SG新加坡DO-Hy2
-tuic://7d6dde50-5077-422d-bfdb-8e476b212b6d:7d6dde50-5077-422d-bfdb-8e476b212b6d@4896sgd1.btycloud.top:19024?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#🇸🇬SG新加坡DO-Tu5
+
+tuic://7d6dde50-5077-422d-bfdb-8e476b212b6d:7d6dde50-5077-422d-bfdb-8e476b212b6d@4896sgd1.btycloud.top:19024?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#🇸🇬SG新加坡DO直連
+hysteria2://7d6dde50-5077-422d-bfdb-8e476b212b6d@4896sgd1.btycloud.top:15041?peer=www.bing.com&insecure=1&alpn=h3#🇸🇬SG新加坡DO備用
 //hysteria2://48b19ae1-19e4-471d-a467-ad838c3f3fd6@4896sgc1.btycloud.top:8080?sni=sg05.453521.xyz&insecure=0#🇸🇬SG新加坡AWS小弟
 vless://bbb50538-495c-4fce-b26b-28de2818b1cf@4896sgl1.btycloud.top:48574?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.lamer.com.sg&fp=chrome&pbk=lmxSayN8tUg2Dag2MPXrdqZ2SQK9K3OjlaKk8wVCRnc&sid=f8f18902&type=tcp&headerType=none#🇸🇬SG新加坡AWS
 tuic://7977130c-e7fe-48ed-8c60-81a5eef94cd5:7977130c-e7fe-48ed-8c60-81a5eef94cd5@4896sgf1.btycloud.top:51125?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#🇸🇬SG新加坡RS三網直連戰神
 hysteria2://7977130c-e7fe-48ed-8c60-81a5eef94cd5@4896sgf1.btycloud.top:51124?peer=www.bing.com&insecure=1&alpn=h3#🇸🇬SG新加坡RS備用
 
 
-vless://26cccfb8-7bd3-4b45-d933-1b170e18a60f@fxxktw.af88.xyz:51122?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=chrome&pbk=0x5NVqvev11oqjRreLlgq-o4rda2jxcy2TYSdzl6-T8&sid=2aef83b7&type=tcp&headerType=none#被墙🇹🇼TW台灣中華電信無限戰神
+vless://26cccfb8-7bd3-4b45-d933-1b170e18a60f@fxxktw.af88.xyz:51122?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=chrome&pbk=0x5NVqvev11oqjRreLlgq-o4rda2jxcy2TYSdzl6-T8&sid=2aef83b7&type=tcp&headerType=none#🇹🇼被墙⚠️TW台灣中華電信無限戰神
 vless://bbb50538-495c-4fce-b26b-28de2818b1cf@4896twl1.btycloud.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=download-porter.hoyoverse.com&fp=chrome&pbk=a9I2uA3NNZA6uBAe3Tui9vZ8CG5MrMaYOifWrAdc0zg&sid=a8609be8&type=tcp&headerType=none#🇹🇼TW台灣AWS
 //vless://99cf03ad-1291-48e4-898d-e81754acea94@4896twy1.btycloud.top:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=tw.xn--4gq62f52gppi29k.com&fp=chrome&type=tcp&headerType=none#🇹🇼TW台灣中華電信3
 vless://69e94b71-5d27-475b-8fbc-551fa8d7e118@4896twy1.btycloud.top:443?security=tls&flow=xtls-rprx-vision&type=tcp&sni=cdn-dynmedia-1.microsoft.com&encryption=none&headerType=none#🇹🇼TW台灣中華電信2
