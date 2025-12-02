@@ -9,9 +9,7 @@ hysteria2://7d6dde50-5077-422d-bfdb-8e476b212b6d@4896sgd1.btycloud.top:15041?pee
 vless://bbb50538-495c-4fce-b26b-28de2818b1cf@4896sgl1.btycloud.top:48574?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.lamer.com.sg&fp=chrome&pbk=lmxSayN8tUg2Dag2MPXrdqZ2SQK9K3OjlaKk8wVCRnc&sid=f8f18902&type=tcp&headerType=none#🇸🇬SG新加坡AWS
 //tuic://7977130c-e7fe-48ed-8c60-81a5eef94cd5:7977130c-e7fe-48ed-8c60-81a5eef94cd5@4896sgf1.btycloud.top:51125?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#🇸🇬SG新加坡RS三網直連戰神
 tuic://443480db-00bf-4830-9518-452ad77ea268:443480db-00bf-4830-9518-452ad77ea268@203.174.83.118:51122?congestion_control=bbr&udp_relay_mode=native&alpn=h3&sni=www.bing.com&allow_insecure=1&allowInsecure=1#🇸🇬SG新加坡RS頂級線路🏅
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJcdUQ4M0NcdURERjhcdUQ4M0NcdURERUNTR1x1NjVCMFx1NTJBMFx1NTc2MVJTXHU1MTJBXHU5MDc4IiwKICAiYWRkIjogIm9wZW5haS5jb20iLAogICJwb3J0IjogIjQ0MyIsCiAgImlkIjogImM1ZWU4OTgxLWQxMWMtNDQ3NC04YWEwLTNlZGNmOGFkYjllOSIsCiAgImFpZCI6ICIwIiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAid3MiLAogICJ0eXBlIjogIm5vbmUiLAogICJob3N0IjogIjQ4OTZzZ2YxY2YuYnR5Y2xvdWQudG9wIiwKICAicGF0aCI6ICIvYzVlZTg5ODEtZDExYy00NDc0LThhYTAtM2VkY2Y4YWRiOWU5LXZtIiwKICAidGxzIjogInRscyIsCiAgInNuaSI6ICIiLAogICJhbHBuIjogIiIsCiAgImZwIjogIiIKfQ==
-
-
+vmess://YXV0bzpjNWVlODk4MS1kMTFjLTQ0NzQtOGFhMC0zZWRjZjhhZGI5ZTlAb3BlbmFpLmNvbTo0NDM?path=/c5ee8981-d11c-4474-8aa0-3edcf8adb9e9-vm&remarks=%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1RS%E5%84%AA%E9%81%B8&obfsParam=4896sgf1cf.btycloud.top&obfs=websocket&tls=1&peer=4896sgf1cf.btycloud.top&alterId=0
 
 
 tuic://62c0b379-c440-4cf3-8f66-abed4e311d90:62c0b379-c440-4cf3-8f66-abed4e311d90@fxxktw.af88.xyz:51123?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#🇹🇼TW中華電信無限戰神復活
@@ -22,13 +20,13 @@ vless://bbb50538-495c-4fce-b26b-28de2818b1cf@4896twl1.btycloud.top:443?encryptio
 //vless://99cf03ad-1291-48e4-898d-e81754acea94@4896twy1.btycloud.top:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=tw.xn--4gq62f52gppi29k.com&fp=chrome&type=tcp&headerType=none#🇹🇼TW台灣中華電信3
 //vless://69e94b71-5d27-475b-8fbc-551fa8d7e118@4896twy1.btycloud.top:443?security=tls&flow=xtls-rprx-vision&type=tcp&sni=cdn-dynmedia-1.microsoft.com&encryption=none&headerType=none#🇹🇼TW台灣中華電信2
 
-tuic://7266f283-79fc-437d-b7e1-4c054a8c1cce:7266f283-79fc-437d-b7e1-4c054a8c1cce@4896jpf1.btycloud.top:51123?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#🇯🇵JP日本CO
+tuic://7266f283-79fc-437d-b7e1-4c054a8c1cce:7266f283-79fc-437d-b7e1-4c054a8c1cce@4896jpf1.btycloud.top:51123?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#🇯🇵JP日本CO直連
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJcdUQ4M0NcdURERUZcdUQ4M0NcdURERjVKUFx1NjVFNVx1NjcyQ0NPXHU1MTJBXHU5MDc4IiwKICAiYWRkIjogIm9wZW5haS5jb20iLAogICJwb3J0IjogIjQ0MyIsCiAgImlkIjogImQ0ODFjODc5LTA0YjItNDAwZi1hZmY3LWYxMjViMWMyZTY4ZiIsCiAgImFpZCI6ICIwIiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAid3MiLAogICJ0eXBlIjogIm5vbmUiLAogICJob3N0IjogIjQ4OTZqcGYxY2YuYnR5Y2xvdWQudG9wIiwKICAicGF0aCI6ICIvZDQ4MWM4NzktMDRiMi00MDBmLWFmZjctZjEyNWIxYzJlNjhmLXZtIiwKICAidGxzIjogInRscyIsCiAgInNuaSI6ICI0ODk2anBmMWNmLmJ0eWNsb3VkLnRvcCIsCiAgImFscG4iOiAiIiwKICAiZnAiOiAiIgp9
 vless://bbb50538-495c-4fce-b26b-28de2818b1cf@4896jpl1.btycloud.top:25485?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com.cn&fp=chrome&pbk=VOFSjjWT0wIH3Q0ntyEZd8WwksrIAb5gPt_3PBnEASg&sid=9c5b8c53&type=tcp&headerType=none#🇯🇵JP日本AWS
 
 hysteria2://bbb50538-495c-4fce-b26b-28de2818b1cf@aws-linkhy3.liangxin1.xyz:63993?peer=iosapps.itunes.apple.com&insecure=1&mport=60000-65530#🇭🇰HK香港AWS
-tuic://e04c9f7f-c0a3-4716-8e2b-d9c6fc142c7c:e04c9f7f-c0a3-4716-8e2b-d9c6fc142c7c@146.196.81.144:60110?congestion_control=bbr&udp_relay_mode=native&alpn=h3&sni=www.bing.com&allow_insecure=1&allowInsecure=1#🇭🇰HK香港CN2
 tuic://f123cdca-3e17-4762-aa3a-d3aeea5eba07:f123cdca-3e17-4762-aa3a-d3aeea5eba07@146.196.81.144:52001?congestion_control=bbr&udp_relay_mode=native&alpn=h3&sni=www.bing.com&allow_insecure=1&allowInsecure=1#🇭🇰HK香港CN2直連
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJcdUQ4M0NcdURERURcdUQ4M0NcdURERjBIS1x1OTk5OVx1NkUyRkNOMlx1NTEyQVx1OTA3OCIsCiAgImFkZCI6ICJvcGVuYWkuY29tIiwKICAicG9ydCI6ICI0NDMiLAogICJpZCI6ICJmMTIzY2RjYS0zZTE3LTQ3NjItYWEzYS1kM2FlZWE1ZWJhMDciLAogICJhaWQiOiAiMCIsCiAgInNjeSI6ICJhdXRvIiwKICAibmV0IjogIndzIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICI0ODk2aGtmMWNmLmJ0eWNsb3VkLnRvcCIsCiAgInBhdGgiOiAiL2YxMjNjZGNhLTNlMTctNDc2Mi1hYTNhLWQzYWVlYTVlYmEwNy12bSIsCiAgInRscyI6ICJ0bHMiLAogICJzbmkiOiAiIiwKICAiYWxwbiI6ICIiLAogICJmcCI6ICIiCn0=
+vmess://YXV0bzpmMTIzY2RjYS0zZTE3LTQ3NjItYWEzYS1kM2FlZWE1ZWJhMDdAb3BlbmFpLmNvbTo0NDM?path=/f123cdca-3e17-4762-aa3a-d3aeea5eba07-vm&remarks=%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AFCN2%E5%84%AA%E9%81%B8&obfsParam=4896hkf1cf.btycloud.top&obfs=websocket&tls=1&peer=4896hkf1cf.btycloud.top&alterId=0
 
 
 tuic://093002e4-5875-4bab-8b24-a7e389ed487f:093002e4-5875-4bab-8b24-a7e389ed487f@156.239.242.124:60110?congestion_control=bbr&udp_relay_mode=native&alpn=h3&sni=www.bing.com&allow_insecure=1&allowInsecure=1#🇺🇸US美國CN2
