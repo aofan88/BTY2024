@@ -35,6 +35,14 @@ tuic://f123cdca-3e17-4762-aa3a-d3aeea5eba07:f123cdca-3e17-4762-aa3a-d3aeea5eba07
 vmess://YXV0bzpmMTIzY2RjYS0zZTE3LTQ3NjItYWEzYS1kM2FlZWE1ZWJhMDdAb3BlbmFpLmNvbTo0NDM?path=/f123cdca-3e17-4762-aa3a-d3aeea5eba07-vm&remarks=%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AFCN2%E5%84%AA%E9%81%B8&obfsParam=4896hkf1cf.btycloud.top&obfs=websocket&tls=1&peer=4896hkf1cf.btycloud.top&alterId=0
 
 
+vless://9fc311f3-98df-4a82-b1e9-db81bafb546b@146.196.81.144:61111?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=XaUs0zH7hQjbxPJQo85TXd-M16I47Ocz1CmoxSrw3Qw&sid=ee7b9ede&type=tcp&headerType=none#🇭🇰HK香港CN2直連2VL
+vmess://eyAidiI6ICIyIiwgInBzIjogInZtLXdzLWNkbi1oayIsICJhZGQiOiAieWcyLnlna2trLmRwZG5zLm9yZyIsICJwb3J0IjogIjYxMTEwIiwgImlkIjogIjlmYzMxMWYzLTk4ZGYtNGE4Mi1iMWU5LWRiODFiYWZiNTQ2YiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiNDg5NmhrZjFjZjIuYnR5Y2xvdWQudG9wIiwgInBhdGgiOiAiLzlmYzMxMWYzLTk4ZGYtNGE4Mi1iMWU5LWRiODFiYWZiNTQ2Yi12bSIsICJ0bHMiOiAiIn0K
+hysteria2://9fc311f3-98df-4a82-b1e9-db81bafb546b@146.196.81.144:61112?security=tls&alpn=h3&insecure=1&sni=www.bing.com#🇭🇰HK香港CN2直連2HY2
+tuic://9fc311f3-98df-4a82-b1e9-db81bafb546b:9fc311f3-98df-4a82-b1e9-db81bafb546b@146.196.81.144:61113?congestion_control=bbr&udp_relay_mode=native&alpn=h3&sni=www.bing.com&allow_insecure=1&allowInsecure=1#🇭🇰HK香港CN2直連2TU5
+
+
+
+
 tuic://093002e4-5875-4bab-8b24-a7e389ed487f:093002e4-5875-4bab-8b24-a7e389ed487f@156.239.242.124:60110?congestion_control=bbr&udp_relay_mode=native&alpn=h3&sni=www.bing.com&allow_insecure=1&allowInsecure=1#🇺🇸US美國CN2
 
 
