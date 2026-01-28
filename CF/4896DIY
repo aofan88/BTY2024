@@ -17,7 +17,7 @@ tuic://53f513f2-a042-465f-bb53-09ac47c26170:53f513f2-a042-465f-bb53-09ac47c26170
 vless://53f513f2-a042-465f-bb53-09ac47c26170@fxxktw.af88.xyz:51121?security=reality&flow=xtls-rprx-vision&type=tcp&sni=apple.com&fp=chrome&pbk=1NTBrdiHhK1birUvQd2NyIltxOEP1nr7b_MG4vqqanU&sid=6afd7006&encryption=none&headerType=none#🇹🇼TW中華電信戰神加密
 vmess://YXV0bzpjMjIwM2E2Zi1hZGM2LTRiMDUtOTZmMS1mMWNmZjY5MTM1NzBAb3BlbmFpLmNvbTo0NDM?path=/c2203a6f-adc6-4b05-96f1-f1cff6913570-vm&remarks=%F0%9F%87%B9%F0%9F%87%BCTW%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1%E6%88%B0%E7%A5%9E%E5%84%AA%E9%81%B8&obfsParam=4896twf1cf.btycloud.top&obfs=websocket&tls=1&peer=4896twf1cf.btycloud.top&alterId=0
 hysteria2://ad746567-20f1-45af-9867-33841f57acd4@34.81.41.255:60110/?insecure=1&sni=www.bing.com#🇹🇼TW谷歌雲直連
-vless://f776b8b3-5761-45dc-8763-fd5e2b3180ec@openai.com:443?security=tls&type=ws&sni=4896twf2.btycloud.top&path=f776b8b3&encryption=none&headerType=none#🇹🇼TW谷歌雲直連
+vless://f776b8b3-5761-45dc-8763-fd5e2b3180ec@openai.com:443?security=tls&type=ws&sni=4896twf2.btycloud.top&path=f776b8b3&encryption=none&headerType=none#🇹🇼TW谷歌雲優選
 
 vless://f9f50619-b275-4d7a-8b1a-fa0c602883a4@4896jpl1.btycloud.top:25485?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com.cn&fp=chrome&pbk=VOFSjjWT0wIH3Q0ntyEZd8WwksrIAb5gPt_3PBnEASg&sid=9c5b8c53&type=tcp&headerType=none#🇯🇵JP日本AWS
 
