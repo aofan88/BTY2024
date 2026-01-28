@@ -19,13 +19,10 @@ vmess://YXV0bzpjMjIwM2E2Zi1hZGM2LTRiMDUtOTZmMS1mMWNmZjY5MTM1NzBAb3BlbmFpLmNvbTo0
 hysteria2://ad746567-20f1-45af-9867-33841f57acd4@34.81.41.255:60110/?insecure=1&sni=www.bing.com#🇹🇼TW谷歌雲直連
 vless://f776b8b3-5761-45dc-8763-fd5e2b3180ec@openai.com:443?security=tls&type=ws&sni=4896twf2.btycloud.top&path=f776b8b3&encryption=none&headerType=none#🇹🇼TW谷歌雲直連
 
-vless://f9f50619-b275-4d7a-8b1a-fa0c602883a4@4896jpl1.btycloud.top:25485?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com.cn&fp=chrome&pbk=VOFSjjWT0wIH3Q0ntyEZd8WwksrIAb5gPt_3PBnEASg&sid=9c5b8c53&type=tcp&headerType=none#🇯🇵JP日本AWSvless://f9f50619-b275-4d7a-8b1a-fa0c602883a4@4896jpl1.btycloud.top:25485?加密=無&流=xtls-rprx-vision&安全=現實&sni=www.apple.com.cn&fp=chrome&pbk=VOFSjjWT0wIH3Q0ntyEZd8WwksrIAb5gPt_3PBnEASg&sid=9c5b8c53&type=tcp&headerType=none#🇯🇵JP日本AWS
-
-
+vless://f9f50619-b275-4d7a-8b1a-fa0c602883a4@4896jpl1.btycloud.top:25485?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com.cn&fp=chrome&pbk=VOFSjjWT0wIH3Q0ntyEZd8WwksrIAb5gPt_3PBnEASg&sid=9c5b8c53&type=tcp&headerType=none#🇯🇵JP日本AWS
 
 hysteria2://f9f50619-b275-4d7a-8b1a-fa0c602883a4@aws-linkhy3.liangxin1.xyz:63993?peer=iosapps.itunes.apple.com&insecure=1&mport=60000-65530#🇭🇰HK香港AWS
-hysteria2://a59535a0-566f-4057-be5b-6c2bbd0f7923@156.226.169.240:60110?peer=www.bing.com&insecure=1&alpn=h3#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AFCF%E8%A7%A3%E9%8E%96%E7%9B%B4%E9%80%A3歇斯底里2://a59535a0-566f-4057-be5b-6c2bbd0f7923@156.226.169.240:60110?peer=www.bing.com&insecu re=1&alpn=h3#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AFCF%E8%A7%A3%E9%8E%96%E7%9B%B4%E9%80%A3
-
+hysteria2://a59535a0-566f-4057-be5b-6c2bbd0f7923@156.226.169.240:60110?peer=www.bing.com&insecure=1&alpn=h3#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AFCF%E8%A7%A3%E9%8E%96%E7%9B%B4%E9%80%A3
 
 
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqfCfh6pEReW+t+Wci+afj+aelyIsImFkZCI6Im9wZW5haS5jb20iLCJwb3J0Ijo0NDMsImlkIjoiMWNhZDExMDEtNWE3OC00MTdlLTk4NWQtZjFlZDVhNDE4NDlkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0Ijoic2lnbmFsLXNlZ2Etd2lsZXktY29udHJpYnV0ZWQudHJ5Y2xvdWRmbGFyZS5jb20iLCJwYXRoIjoiLzFjYWQxMTAxIiwidGxzIjoidGxzIn0=
