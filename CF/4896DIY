@@ -18,7 +18,11 @@ vless://2a39c1b4-e692-4e37-9cd9-314e913d30fa@113.29.230.83:51121?encryption=none
 
 tuic://7b129591-fbfc-40a5-9eb3-34cdbf17e9d6:7b129591-fbfc-40a5-9eb3-34cdbf17e9d6@111.247.40.46:60111?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#🇹🇼TW中華電信戰神直連
 hysteria2://7b129591-fbfc-40a5-9eb3-34cdbf17e9d6@111.247.40.46:60110?peer=www.bing.com&insecure=1&alpn=h3#🇹🇼TW中華電信戰神備用
-vless://bm9uZTo3YjEyOTU5MS1mYmZjLTQwYTUtOWViMy0zNGNkYmYxN2U5ZDZAMTExLjI0Ny40MC40Njo1MTEyMQ?remarks=#🇹🇼TW中華電信戰神加密&tls=1&peer=apple.com&xtls=2&pbk=hjh6b1H0ANTj-bpSHfHc_bc0pM8Wp6pBBxHYJJ-hyUQ&sid=f1080a61
+vless://OmVmM2VjYjllLTgzNDYtNGVmMy05NDVlLTg1YTY1ZGI4YzA1YkBvcGVuYWkuY29tOjQ0Mw?path=ef3ecb9e&remarks=%F0%9F%87%B9%F0%9F%87%BCTW%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1%E6%88%B0%E7%A5%9E%E5%84%AA%E9%81%B8&obfsParam=4896twf2cf.btycloud.top&obfs=websocket&tls=1&peer=4896twf2cf.btycloud.top
+
+
+hysteria2://62e07e05-e44a-4936-b826-db37ade18f13@4896jpf1.btycloud.top:60110?peer=www.bing.com&insecure=1&alpn=h3#🇯🇵JP日本CN2絲滑直連
+vless://OjYyZTA3ZTA1LWU0NGEtNDkzNi1iODI2LWRiMzdhZGUxOGYxM0AxMzcuMjIwLjIwMi43ODo1MTEyMQ?remarks=%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%ACCN2%E7%B5%B2%E6%BB%91%E5%8A%A0%E5%AF%86&tls=1&peer=apple.com&xtls=2&pbk=71fhLt9DsrK3l-WofuVXN4goRr3IRR8lhpDbSpNR6yI&sid=9174fcc5
 vless://f9f50619-b275-4d7a-8b1a-fa0c602883a4@4896jpl1.btycloud.top:25485?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com.cn&fp=chrome&pbk=VOFSjjWT0wIH3Q0ntyEZd8WwksrIAb5gPt_3PBnEASg&sid=9c5b8c53&type=tcp&headerType=none#🇯🇵JP日本AWS
 
 hysteria2://f9f50619-b275-4d7a-8b1a-fa0c602883a4@aws-linkhy3.liangxin1.xyz:63993?peer=iosapps.itunes.apple.com&insecure=1&mport=60000-65530#🇭🇰HK香港AWS
