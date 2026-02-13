@@ -3,8 +3,8 @@ vless://21320308-b2bb-440c-e02b-10ce8f58e2f4@visa.com.sg:80?encryption=none&secu
 
 
 tuic://443480db-00bf-4830-9518-452ad77ea268:443480db-00bf-4830-9518-452ad77ea268@203.174.83.118:51122?congestion_control=bbr&udp_relay_mode=native&alpn=h3&sni=www.bing.com&allow_insecure=1&allowInsecure=1#🇸🇬🪦R.I.P-SG新加坡RS
-tuic://7d6dde50-5077-422d-bfdb-8e476b212b6d:7d6dde50-5077-422d-bfdb-8e476b212b6d@4896sgd1.btycloud.top:19024?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#🇸🇬SG新加坡DO直連
-hysteria2://7d6dde50-5077-422d-bfdb-8e476b212b6d@4896sgd1.btycloud.top:15041?peer=www.bing.com&insecure=1&alpn=h3#🇸🇬SG新加坡DO備用
+tuic://7d6dde50-5077-422d-bfdb-8e476b212b6d:7d6dde50-5077-422d-bfdb-8e476b212b6d@4896sgd1.btycloud.top:60111?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#🇸🇬SG新加坡DO直連
+hysteria2://7d6dde50-5077-422d-bfdb-8e476b212b6d@4896sgd1.btycloud.top:60110?peer=www.bing.com&insecure=1&alpn=h3#🇸🇬SG新加坡DO備用
 //hysteria2://48b19ae1-19e4-471d-a467-ad838c3f3fd6@4896sgc1.btycloud.top:8080?sni=sg05.453521.xyz&insecure=0#🇸🇬SG新加坡AWS小弟
 vless://f9f50619-b275-4d7a-8b1a-fa0c602883a4@4896sgl1.btycloud.top:48574?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.lamer.com.sg&fp=chrome&pbk=lmxSayN8tUg2Dag2MPXrdqZ2SQK9K3OjlaKk8wVCRnc&sid=f8f18902&type=tcp&headerType=none#🇸🇬SG新加坡AWS
 //vless://YXV0bzpjYWRiNDY3Zi05MjYxLTQ5YjQtYTYwNy01MmNjMmRjMTIwZjRAb3BlbmFpLmNvbTo0NDM?path=cadb467f&remarks=%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%94%B2%E9%AA%A8%E6%96%87%E5%84%AA%E9%81%B8&obfsParam=4896sgf1cf.btycloud.top&obfs=websocket&tls=1&peer=4896sgf1cf.btycloud.top
