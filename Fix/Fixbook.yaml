@@ -1,9 +1,9 @@
 ####################################
 # BTYCLOUD>TOP 2024
 # 客戶端：Clash.Meta
-# 創建時間：2026-02-12 10:47:55
+# 創建時間：2026-02-22 11:25:56
 # 使用模板：BTY_mini
-# 節點數量：10
+# 節點數量：16
 ####################################
 # !!当前配置文件请使用基于 Clash.Meta 内核程序
 mixed-port: 7890
@@ -86,31 +86,43 @@ dns:
       - 0.0.0.0/32
 
 proxies:
-  - {"name":"vl-reality-SG-GIA","type":"vless","server":"4896sgf1.btycloud.top","port":51121,"udp":true,"uuid":"2a39c1b4-e692-4e37-9cd9-314e913d30fa","tls":true,"servername":"apple.com","flow":"xtls-rprx-vision","network":"tcp","reality-opts":{"public-key":"Q6S1sqoIj0Q6a8JfJQUkeWsXH9ldEviasOociwcdXQY","short-id":"5153bd94"},"client-fingerprint":"chrome"}
-  - {"name":"hy2-SG-GIA","type":"hysteria2","server":"4896sgf1.btycloud.top","port":60110,"password":"2a39c1b4-e692-4e37-9cd9-314e913d30fa","sni":"www.bing.com","skip-cert-verify":true}
-  - {"name":"hy2-TW","type":"hysteria2","server":"111.247.40.46","port":60110,"password":"7b129591-fbfc-40a5-9eb3-34cdbf17e9d6","sni":"www.bing.com","skip-cert-verify":true}
-  - {"name":"vl-reality-vision-TW","type":"vless","server":"111.247.40.46","port":51121,"udp":true,"uuid":"7b129591-fbfc-40a5-9eb3-34cdbf17e9d6","tls":true,"servername":"apple.com","flow":"xtls-rprx-vision","network":"tcp","reality-opts":{"public-key":"hjh6b1H0ANTj-bpSHfHc_bc0pM8Wp6pBBxHYJJ-hyUQ","short-id":"f1080a61"},"client-fingerprint":"chrome"}
-  - {"name":"hy2-VN","type":"hysteria2","server":"165.101.114.36","port":60110,"password":"e32b1d63-0516-48fa-a5d0-2b5b0a7c7c90","sni":"www.bing.com","skip-cert-verify":true}
-  - {"name":"vl-reality-VN","type":"vless","server":"165.101.114.36","port":51121,"udp":true,"uuid":"e32b1d63-0516-48fa-a5d0-2b5b0a7c7c90","tls":true,"servername":"apple.com","flow":"xtls-rprx-vision","network":"tcp","reality-opts":{"public-key":"NsE6cxkqbsevc5dsJ5cupAB1S47kIAis-RYL6ZwCYA8","short-id":"179aef59"},"client-fingerprint":"chrome"}
-  - {"name":"🇸🇬SG新加坡甲骨文直連","type":"hysteria2","server":"138.2.74.42","port":60110,"password":"25b234b4-27f7-480b-9eef-fdedd3cb82ea","sni":"www.bing.com","skip-cert-verify":true}
+  - {"name":"vmess-ws-tls-argo-SG-RS-443","type":"vmess","server":"openai.com","port":443,"cipher":"auto","uuid":"8ec542a0-1970-49f5-8f29-f814af6d22a0","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/8ec542a0-1970-49f5-8f29-f814af6d22a0-vm","headers":{"host":"4896sgrs2.btycloud.top"}}}
+  - {"name":"hy2-SG-RS","type":"hysteria2","server":"113.29.232.176","port":60110,"password":"8ec542a0-1970-49f5-8f29-f814af6d22a0","sni":"www.bing.com","skip-cert-verify":true}
+  - {"name":"vm-ws-SG-RS","type":"vmess","server":"113.29.232.176","port":51122,"cipher":"auto","uuid":"8ec542a0-1970-49f5-8f29-f814af6d22a0","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/8ec542a0-1970-49f5-8f29-f814af6d22a0-vm","headers":{"host":"www.bing.com"}}}
+  - {"name":"🇹🇼TW中華電信戰神優選","type":"vless","server":"cf.zhetengsha.eu.org","port":443,"uuid":"ef3ecb9e-8346-4ef3-945e-85a65db8c05b","tls":true,"servername":"4896twf2cf.btycloud.top","network":"ws","ws-opts":{"path":"ef3ecb9e"}}
+  - {"name":"🇸🇬SG新加坡DO備用","type":"hysteria2","server":"4896sgd1.btycloud.top","port":60110,"password":"7d6dde50-5077-422d-bfdb-8e476b212b6d","sni":"www.bing.com","skip-cert-verify":true}
   - {"name":"🇸🇬SG新加坡AWS","type":"vless","server":"4896sgl1.btycloud.top","port":48574,"udp":true,"uuid":"f9f50619-b275-4d7a-8b1a-fa0c602883a4","tls":true,"servername":"www.lamer.com.sg","flow":"xtls-rprx-vision","network":"tcp","reality-opts":{"public-key":"lmxSayN8tUg2Dag2MPXrdqZ2SQK9K3OjlaKk8wVCRnc","short-id":"f8f18902"},"client-fingerprint":"chrome"}
-  - {"name":"🇸🇬SG新加坡DO備用","type":"hysteria2","server":"4896sgd1.btycloud.top","port":15041,"password":"7d6dde50-5077-422d-bfdb-8e476b212b6d","sni":"www.bing.com","skip-cert-verify":true}
+  - {"name":"🇸🇬SG新加坡甲骨文直連","type":"hysteria2","server":"138.2.74.42","port":60110,"password":"25b234b4-27f7-480b-9eef-fdedd3cb82ea","sni":"www.bing.com","skip-cert-verify":true}
   - {"name":"🇸🇬SG新加坡NE三網直連备用","type":"hysteria2","server":"113.29.230.83","port":60110,"password":"2a39c1b4-e692-4e37-9cd9-314e913d30fa","sni":"www.bing.com","skip-cert-verify":true}
+  - {"name":"🇸🇬SG新加坡NE三網直連加密","type":"vless","server":"113.29.230.83","port":51121,"udp":true,"uuid":"2a39c1b4-e692-4e37-9cd9-314e913d30fa","tls":true,"servername":"apple.com","flow":"xtls-rprx-vision","network":"tcp","reality-opts":{"public-key":"Q6S1sqoIj0Q6a8JfJQUkeWsXH9ldEviasOociwcdXQY","short-id":"5153bd94"},"client-fingerprint":"chrome"}
+  - {"name":"🇯🇵JP日本CN2絲滑直連","type":"hysteria2","server":"4896jpf1.btycloud.top","port":60110,"password":"62e07e05-e44a-4936-b826-db37ade18f13","sni":"www.bing.com","skip-cert-verify":true}
+  - {"name":"🇯🇵JP日本CN2絲滑加密","type":"vless","server":"137.220.202.78","port":51121,"udp":true,"uuid":"62e07e05-e44a-4936-b826-db37ade18f13","tls":true,"servername":"apple.com","flow":"xtls-rprx-vision","network":"tcp","reality-opts":{"public-key":"71fhLt9DsrK3l-WofuVXN4goRr3IRR8lhpDbSpNR6yI","short-id":"9174fcc5"},"client-fingerprint":"chrome"}
+  - {"name":"🇯🇵JP日本AWS","type":"vless","server":"4896jpl1.btycloud.top","port":25485,"udp":true,"uuid":"f9f50619-b275-4d7a-8b1a-fa0c602883a4","tls":true,"servername":"www.apple.com.cn","flow":"xtls-rprx-vision","network":"tcp","reality-opts":{"public-key":"VOFSjjWT0wIH3Q0ntyEZd8WwksrIAb5gPt_3PBnEASg","short-id":"9c5b8c53"},"client-fingerprint":"chrome"}
+  - {"name":"🇭🇰HK香港AWS","type":"hysteria2","server":"aws-linkhy3.liangxin1.xyz","port":63401,"password":"f9f50619-b275-4d7a-8b1a-fa0c602883a4","sni":"iosapps.itunes.apple.com","skip-cert-verify":true}
+  - {"name":"🇭🇰HK香港CF解鎖直連","type":"hysteria2","server":"156.226.169.240","port":60110,"password":"a59535a0-566f-4057-be5b-6c2bbd0f7923","sni":"www.bing.com","skip-cert-verify":true}
+  - {"name":"🇻🇳VN越南家寬GIA備用","type":"hysteria2","server":"165.101.114.36","port":60110,"password":"e32b1d63-0516-48fa-a5d0-2b5b0a7c7c90","sni":"www.bing.com","skip-cert-verify":true}
+  - {"name":"🇻🇳VN越南家寬GIA加密","type":"vless","server":"165.101.114.36","port":51121,"udp":true,"uuid":"e32b1d63-0516-48fa-a5d0-2b5b0a7c7c90","tls":true,"servername":"apple.com","flow":"xtls-rprx-vision","network":"tcp","reality-opts":{"public-key":"NsE6cxkqbsevc5dsJ5cupAB1S47kIAis-RYL6ZwCYA8","short-id":"179aef59"},"client-fingerprint":"chrome"}
 proxy-groups:
   - name: 🟢 选择节点@BTY2024
     type: select
     proxies:
       - DIRECT
-      - vl-reality-SG-GIA
-      - hy2-SG-GIA
-      - hy2-TW
-      - vl-reality-vision-TW
-      - hy2-VN
-      - vl-reality-VN
-      - 🇸🇬SG新加坡甲骨文直連
-      - 🇸🇬SG新加坡AWS
+      - vmess-ws-tls-argo-SG-RS-443
+      - hy2-SG-RS
+      - vm-ws-SG-RS
+      - 🇹🇼TW中華電信戰神優選
       - 🇸🇬SG新加坡DO備用
+      - 🇸🇬SG新加坡AWS
+      - 🇸🇬SG新加坡甲骨文直連
       - 🇸🇬SG新加坡NE三網直連备用
+      - 🇸🇬SG新加坡NE三網直連加密
+      - 🇯🇵JP日本CN2絲滑直連
+      - 🇯🇵JP日本CN2絲滑加密
+      - 🇯🇵JP日本AWS
+      - 🇭🇰HK香港AWS
+      - 🇭🇰HK香港CF解鎖直連
+      - 🇻🇳VN越南家寬GIA備用
+      - 🇻🇳VN越南家寬GIA加密
   - name: 🇨🇳 国内直连
     type: select
     proxies:
@@ -126,16 +138,22 @@ proxy-groups:
     proxies:
       - 🟢 选择节点@BTY2024
       - 🇨🇳 国内直连
-      - vl-reality-SG-GIA
-      - hy2-SG-GIA
-      - hy2-TW
-      - vl-reality-vision-TW
-      - hy2-VN
-      - vl-reality-VN
-      - 🇸🇬SG新加坡甲骨文直連
-      - 🇸🇬SG新加坡AWS
+      - vmess-ws-tls-argo-SG-RS-443
+      - hy2-SG-RS
+      - vm-ws-SG-RS
+      - 🇹🇼TW中華電信戰神優選
       - 🇸🇬SG新加坡DO備用
+      - 🇸🇬SG新加坡AWS
+      - 🇸🇬SG新加坡甲骨文直連
       - 🇸🇬SG新加坡NE三網直連备用
+      - 🇸🇬SG新加坡NE三網直連加密
+      - 🇯🇵JP日本CN2絲滑直連
+      - 🇯🇵JP日本CN2絲滑加密
+      - 🇯🇵JP日本AWS
+      - 🇭🇰HK香港AWS
+      - 🇭🇰HK香港CF解鎖直連
+      - 🇻🇳VN越南家寬GIA備用
+      - 🇻🇳VN越南家寬GIA加密
 
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🇨🇳 国内直连
