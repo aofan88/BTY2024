@@ -12,7 +12,10 @@ hysteria2://25b234b4-27f7-480b-9eef-fdedd3cb82ea@138.2.74.42:60110?peer=www.bing
 tuic://2a39c1b4-e692-4e37-9cd9-314e913d30fa:2a39c1b4-e692-4e37-9cd9-314e913d30fa@113.29.230.83:60111?congestion_control=bbr&udp_relay_mode=native&alpn=h3&sni=www.bing.com&allow_insecure=1&allowInsecure=1#🇸🇬SG新加坡NE三網直連戰神
 hysteria2://2a39c1b4-e692-4e37-9cd9-314e913d30fa@113.29.230.83:60110?security=tls&alpn=h3&insecure=1&sni=www.bing.com#🇸🇬SG新加坡NE三網直連备用
 vless://2a39c1b4-e692-4e37-9cd9-314e913d30fa@113.29.230.83:51121?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=Q6S1sqoIj0Q6a8JfJQUkeWsXH9ldEviasOociwcdXQY&sid=5153bd94&type=tcp&headerType=none#🇸🇬SG新加坡NE三網直連加密
-//tuic://7977130c-e7fe-48ed-8c60-81a5eef94cd5:7977130c-e7fe-48ed-8c60-81a5eef94cd5@4896sgf1.btycloud.top:51125?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#🇸🇬SG新加坡RS三網直連戰神
+hysteria2://8ec542a0-1970-49f5-8f29-f814af6d22a0@113.29.232.176:60110?peer=www.bing.com&insecure=1&alpn=h3#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1RS%E7%9B%B4%E9%80%A3
+vmess://YXV0bzo4ZWM1NDJhMC0xOTcwLTQ5ZjUtOGYyOS1mODE0YWY2ZDIyYTBAMTEzLjI5LjIzMi4xNzY6NTExMjI?path=/8ec542a0-1970-49f5-8f29-f814af6d22a0-vm&remarks=%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1RS%E5%82%99%E7%94%A8&obfsParam=www.bing.com&obfs=websocket&alterId=0
+vmess://YXV0bzo4ZWM1NDJhMC0xOTcwLTQ5ZjUtOGYyOS1mODE0YWY2ZDIyYTBAb3BlbmFpLmNvbTo0NDM?path=/8ec542a0-1970-49f5-8f29-f814af6d22a0-vm&remarks=%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1RS%E5%84%AA%E9%81%B8&obfsParam=4896sgrs2.btycloud.top&obfs=websocket&tls=1&peer=4896sgrs2.btycloud.top&alterId=0
+
 
 
 
@@ -21,8 +24,9 @@ vless://2a39c1b4-e692-4e37-9cd9-314e913d30fa@113.29.230.83:51121?encryption=none
 vless://OmVmM2VjYjllLTgzNDYtNGVmMy05NDVlLTg1YTY1ZGI4YzA1YkBvcGVuYWkuY29tOjQ0Mw?path=ef3ecb9e&remarks=%F0%9F%87%B9%F0%9F%87%BCTW%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1%E6%88%B0%E7%A5%9E%E5%84%AA%E9%81%B8&obfsParam=4896twf2cf.btycloud.top&obfs=websocket&tls=1&peer=4896twf2cf.btycloud.top
 
 
-hysteria2://62e07e05-e44a-4936-b826-db37ade18f13@4896jpf1.btycloud.top:60110?peer=www.bing.com&insecure=1&alpn=h3#🇯🇵JP日本CN2絲滑直連
-vless://OjYyZTA3ZTA1LWU0NGEtNDkzNi1iODI2LWRiMzdhZGUxOGYxM0AxMzcuMjIwLjIwMi43ODo1MTEyMQ?remarks=%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%ACCN2%E7%B5%B2%E6%BB%91%E5%8A%A0%E5%AF%86&tls=1&peer=apple.com&xtls=2&pbk=71fhLt9DsrK3l-WofuVXN4goRr3IRR8lhpDbSpNR6yI&sid=9174fcc5
+tuic://e88d2c90-7561-42ee-9edf-911967a1ed10:e88d2c90-7561-42ee-9edf-911967a1ed10@137.220.202.78:60111?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%ACCN2%E7%9B%B4%E9%80%A3
+hysteria2://e88d2c90-7561-42ee-9edf-911967a1ed10@137.220.202.78:60110?peer=www.bing.com&insecure=1&alpn=h3#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%ACCN2%E5%82%99%E7%94%A8
+vmess://YXV0bzplODhkMmM5MC03NTYxLTQyZWUtOWVkZi05MTE5NjdhMWVkMTBAb3BlbmFpLmNvbTo0NDM?path=/e88d2c90-7561-42ee-9edf-911967a1ed10-vm&remarks=%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%ACCN2%E5%84%AA%E9%81%B8&obfsParam=%7B%22Host%22:%224896jpf1cf.btycloud.top%22%7D&obfs=websocket&tls=1&peer=4896jpf1cf.btycloud.top&alterId=0
 vless://f9f50619-b275-4d7a-8b1a-fa0c602883a4@4896jpl1.btycloud.top:25485?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com.cn&fp=chrome&pbk=VOFSjjWT0wIH3Q0ntyEZd8WwksrIAb5gPt_3PBnEASg&sid=9c5b8c53&type=tcp&headerType=none#🇯🇵JP日本AWS
 
 hysteria2://f9f50619-b275-4d7a-8b1a-fa0c602883a4@aws-linkhy3.liangxin1.xyz:63993?peer=iosapps.itunes.apple.com&insecure=1&mport=60000-65530#🇭🇰HK香港AWS
@@ -34,7 +38,6 @@ hysteria2://e32b1d63-0516-48fa-a5d0-2b5b0a7c7c90@165.101.114.36:60110?peer=www.b
 vless://bm9uZTplMzJiMWQ2My0wNTE2LTQ4ZmEtYTVkMC0yYjViMGE3YzdjOTBAMTY1LjEwMS4xMTQuMzY6NTExMjE?remarks=🇻🇳VN越南家寬GIA加密&tls=1&peer=apple.com&xtls=2&pbk=NsE6cxkqbsevc5dsJ5cupAB1S47kIAis-RYL6ZwCYA8&sid=179aef59
 
 
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqfCfh6pEReW+t+Wci+afj+aelyIsImFkZCI6Im9wZW5haS5jb20iLCJwb3J0Ijo0NDMsImlkIjoiMWNhZDExMDEtNWE3OC00MTdlLTk4NWQtZjFlZDVhNDE4NDlkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0Ijoic2lnbmFsLXNlZ2Etd2lsZXktY29udHJpYnV0ZWQudHJ5Y2xvdWRmbGFyZS5jb20iLCJwYXRoIjoiLzFjYWQxMTAxIiwidGxzIjoidGxzIn0=
 
 
 
