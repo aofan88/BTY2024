@@ -22,10 +22,8 @@ vmess://YXV0bzo4ZWM1NDJhMC0xOTcwLTQ5ZjUtOGYyOS1mODE0YWY2ZDIyYTBAb3BlbmFpLmNvbTo0
 
 //tuic://7b129591-fbfc-40a5-9eb3-34cdbf17e9d6:7b129591-fbfc-40a5-9eb3-34cdbf17e9d6@4896twf2.btycloud.top:60111?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#🇹🇼TW中華電信戰神直連
 //hysteria2://7b129591-fbfc-40a5-9eb3-34cdbf17e9d6@4896twf2.btycloud.top:60110?peer=www.bing.com&insecure=1&alpn=h3#🇹🇼TW中華電信戰神備用
-hysteria2://7b129591-fbfc-40a5-9eb3-34cdbf17e9d6@4896twf2.btycloud.top:60110?peer=www.bing.com&insecure=1&alpn=h3#%F0%9F%87%B9%F0%9F%87%BCTW%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1%E7%9B%B4%E9%80%A3
-tuic://7b129591-fbfc-40a5-9eb3-34cdbf17e9d6:7b129591-fbfc-40a5-9eb3-34cdbf17e9d6@4896twf2.btycloud.top:60111?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#%F0%9F%87%B9%F0%9F%87%BCTW%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1%E7%9B%B4%E9%80%A32
-vless://OjdiMTI5NTkxLWZiZmMtNDBhNS05ZWIzLTM0Y2RiZjE3ZTlkNkA0ODk2dHdmMi5idHljbG91ZC50b3A6NTExMjE?remarks=%F0%9F%87%B9%F0%9F%87%BCTW%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1%E5%8A%A0%E5%AF%86&tls=1&peer=apple.com&xtls=2&pbk=hjh6b1H0ANTj-bpSHfHc_bc0pM8Wp6pBBxHYJJ-hyUQ&sid=f1080a61
-vmess://YXV0bzo3YjEyOTU5MS1mYmZjLTQwYTUtOWViMy0zNGNkYmYxN2U5ZDZAb3BlbmFpLmNvbTo0NDM?path=/7b129591-fbfc-40a5-9eb3-34cdbf17e9d6-vm&remarks=%F0%9F%87%B9%F0%9F%87%BCTW%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1%E5%84%AA%E9%81%B8&obfsParam=4896twf2cf.btycloud.top&obfs=websocket&tls=1&peer=4896twf2cf.btycloud.top&alterId=0
+vless://OjQ1OTdhYWFmLTBkODItNGNkMC1iNzU1LTA5NjkxYThjNzVmMUAxLjE2OC4xNzUuMTI3OjUxMTIx?remarks=%F0%9F%87%B9%F0%9F%87%BCTW%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1%E7%9B%B4%E9%80%A3&tls=1&peer=apple.com&xtls=2&pbk=n_UT-myvOBVA3auLHYd-JDoiBR7FrxlN9PxrOVC-uxo&sid=40ed694a
+vmess://YXV0bzo0NTk3YWFhZi0wZDgyLTRjZDAtYjc1NS0wOTY5MWE4Yzc1ZjFAb3BlbmFpLmNvbTo0NDM?path=/4597aaaf-0d82-4cd0-b755-09691a8c75f1-vm&remarks=%F0%9F%87%B9%F0%9F%87%BCTW%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1%E5%84%AA%E9%81%B8&obfsParam=4896twf2cf.btycloud.top&obfs=websocket&tls=1&peer=4896twf2cf.btycloud.top&alterId=0
 
 vless://YXV0bzpmOWY1MDYxOS1iMjc1LTRkN2EtOGIxYS1mYTBjNjAyODgzYTRAYXdzLWxpbmsyNy5saWFuZ3hpbjEueHl6OjQ0Mw?remarks=%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E7%81%A3AWS%E5%8A%A0%E5%AF%86&tls=1&peer=download-porter.hoyoverse.com&fragment=auto&mode=auto&xtls=2&pbk=a9I2uA3NNZA6uBAe3Tui9vZ8CG5MrMaYOifWrAdc0zg&sid=a8609be8
 
