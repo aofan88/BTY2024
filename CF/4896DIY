@@ -15,8 +15,8 @@ vless://98041b3a-e151-40fa-844d-5483ed4cee1b@aws-link27.liangxin1.xyz:443?securi
 hysteria2://aws-linkhy23.liangxin1.xyz:65454/?insecure=1#🇹🇼TW台灣AWS直連
 
 
-vless://69b3d668-5b8d-4453-a8f0-3f985d314536@47.79.150.41:51122?security=tls&flow=xtls-rprx-vision&type=tcp&sni=apple.com&encryption=none&headerType=none#🇯🇵JP日本AWS加密
-hysteria2://69b3d668-5b8d-4453-a8f0-3f985d314536@47.79.150.41:60110?peer=www.bing.com&insecure=1&alpn=h3#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC%E9%A6%AC%E9%9B%B2%E7%9B%B4%E9%80%A3
+vless://69b3d668-5b8d-4453-a8f0-3f985d314536@47.79.150.41:51121?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=AlPvDxWlvsymlnzW0NVJhj2SZpNR8Exzb5Fj0-0wySg&sid=832f98f0&type=tcp&headerType=none#vl-reality-vision-s917935
+hysteria2://69b3d668-5b8d-4453-a8f0-3f985d314536@47.79.150.41:60110?security=tls&alpn=h3&insecure=1&sni=www.bing.com#hy2-s917935
 vless://OjY5YjNkNjY4LTViOGQtNDQ1My1hOGYwLTNmOTg1ZDMxNDUzNkA0Ny43OS4xNTAuNDE6NTExMjI?remarks=%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC%E9%A6%AC%E9%9B%B2%E5%8A%A0%E5%AF%86&tls=1&peer=apple.com&xtls=2&pbk=AlPvDxWlvsymlnzW0NVJhj2SZpNR8Exzb5Fj0-0wySg&sid=832f98f0
 
 
