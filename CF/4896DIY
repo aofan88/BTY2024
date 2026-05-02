@@ -10,6 +10,11 @@ vless://98041b3a-e151-40fa-844d-5483ed4cee1b@aws-link9.liangxin1.xyz:23587?secur
 //hysteria2://5d5d5d64-e3e5-4cc0-952b-ad74e81d8c74@4896sgf1.btycloud.top:60110?security=tls&alpn=h3&insecure=1&sni=www.bing.com#🇸🇬SG新加坡甲骨文直連
 vless://5d5d5d64-e3e5-4cc0-952b-ad74e81d8c74@4896sgf1.btycloud.top:51121?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=Qjv5JVTcBQ86n0bPROW_4p4nYUuryeQiOF5aWSN5yx4&sid=4f083a4e&type=tcp&headerType=none#🇸🇬SG新加坡甲骨文加密
 
+vless://c42a794a-b5dd-45aa-8092-4b6a7b888226@103.200.216.116:51121?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=21qo-4UIaJIpV-a5TWI0YqGt7ptrODckcn6-9KXuE2Q&sid=bf917077&type=tcp&headerType=none#vl-reality-vision-b03d881e-6966-4b1e-abef-74f6b75bb843
+hysteria2://c42a794a-b5dd-45aa-8092-4b6a7b888226@103.200.216.116:60110?security=tls&alpn=h3&insecure=1&sni=www.bing.com#hy2-b03d881e-6966-4b1e-abef-74f6b75bb843
+tuic://c42a794a-b5dd-45aa-8092-4b6a7b888226:c42a794a-b5dd-45aa-8092-4b6a7b888226@103.200.216.116:60111?congestion_control=bbr&udp_relay_mode=native&alpn=h3&sni=www.bing.com&allow_insecure=1&allowInsecure=1#tuic-b03d881e-6966-4b1e-abef-74f6b75bb843
+
+
 vmess://YXV0bzo0NTk3YWFhZi0wZDgyLTRjZDAtYjc1NS0wOTY5MWE4Yzc1ZjFAb3BlbmFpLmNvbTo0NDM?path=/4597aaaf-0d82-4cd0-b755-09691a8c75f1-vm&remarks=%F0%9F%87%B9%F0%9F%87%BCTW%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1%E5%84%AA%E9%81%B8&obfsParam=4896twf2cf.btycloud.top&obfs=websocket&tls=1&peer=4896twf2cf.btycloud.top&alterId=0
 vless://98041b3a-e151-40fa-844d-5483ed4cee1b@aws-link27.liangxin1.xyz:443?security=tls&flow=xtls-rprx-vision&type=tcp&sni=download-porter.hoyoverse.com&encryption=none&headerType=none#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E7%81%A3AWS%E5%8A%A0%E5%AF%86
 hysteria2://aws-linkhy23.liangxin1.xyz:65454/?insecure=1#🇹🇼TW台灣AWS直連
