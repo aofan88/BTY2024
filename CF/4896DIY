@@ -3,26 +3,38 @@ vless://21320308-b2bb-440c-e02b-10ce8f58e2f4@visa.com.sg:80?encryption=none&secu
 
 
 tuic://443480db-00bf-4830-9518-452ad77ea268:443480db-00bf-4830-9518-452ad77ea268@203.174.83.118:51122?congestion_control=bbr&udp_relay_mode=native&alpn=h3&sni=www.bing.com&allow_insecure=1&allowInsecure=1#🇸🇬🪦R.I.P-SG新加坡RS
-//tuic://7d6dde50-5077-422d-bfdb-8e476b212b6d:7d6dde50-5077-422d-bfdb-8e476b212b6d@4896sgd1.btycloud.top:60111?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#🇸🇬SG新加坡DO直連
 hysteria2://7d6dde50-5077-422d-bfdb-8e476b212b6d@4896sgd1.btycloud.top:60110?peer=www.bing.com&insecure=1&alpn=h3#🇸🇬🪦R.I.P-SG新加坡DO
-//hysteria2://48b19ae1-19e4-471d-a467-ad838c3f3fd6@4896sgc1.btycloud.top:8080?sni=sg05.453521.xyz&insecure=0#🇸🇬SG新加坡AWS小弟
-vless://98041b3a-e151-40fa-844d-5483ed4cee1b@aws-link9.liangxin1.xyz:23587?security=tls&flow=xtls-rprx-vision&type=tcp&sni=iosapps.itunes.apple.com&encryption=none&headerType=none#🇸🇬SG新加坡AWS加密
-//hysteria2://5d5d5d64-e3e5-4cc0-952b-ad74e81d8c74@4896sgf1.btycloud.top:60110?security=tls&alpn=h3&insecure=1&sni=www.bing.com#🇸🇬SG新加坡甲骨文直連
-vless://5d5d5d64-e3e5-4cc0-952b-ad74e81d8c74@4896sgf1.btycloud.top:51121?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=Qjv5JVTcBQ86n0bPROW_4p4nYUuryeQiOF5aWSN5yx4&sid=4f083a4e&type=tcp&headerType=none#🇸🇬SG新加坡甲骨文加密
 
-vless://c42a794a-b5dd-45aa-8092-4b6a7b888226@103.200.216.116:51121?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=21qo-4UIaJIpV-a5TWI0YqGt7ptrODckcn6-9KXuE2Q&sid=bf917077&type=tcp&headerType=none#vl-reality-vision-b03d881e-6966-4b1e-abef-74f6b75bb843
-hysteria2://c42a794a-b5dd-45aa-8092-4b6a7b888226@103.200.216.116:60110?security=tls&alpn=h3&insecure=1&sni=www.bing.com#hy2-b03d881e-6966-4b1e-abef-74f6b75bb843
-tuic://c42a794a-b5dd-45aa-8092-4b6a7b888226:c42a794a-b5dd-45aa-8092-4b6a7b888226@103.200.216.116:60111?congestion_control=bbr&udp_relay_mode=native&alpn=h3&sni=www.bing.com&allow_insecure=1&allowInsecure=1#tuic-b03d881e-6966-4b1e-abef-74f6b75bb843
+//SG
+hysteria2://907cb2d1-cf95-4fa4-84c0-24c8fa5db36f@4896sgf1.btycloud.top:60110?peer=www.bing.com&insecure=1&alpn=h3#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%94%B2%E9%AA%A8%E6%96%87%E7%9B%B4%E9%80%A3
+vless://OjkwN2NiMmQxLWNmOTUtNGZhNC04NGMwLTI0YzhmYTVkYjM2ZkA0ODk2c2dmMS5idHljbG91ZC50b3A6NTExMjE?remarks=%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%94%B2%E9%AA%A8%E6%96%87%E5%8A%A0%E5%AF%86&tls=1&peer=apple.com&xtls=2&pbk=OfZ4yMFVXt5p9_YWq6bLksTVbTg1AsUEHYqXW8GEl1o&sid=c3292199
+hysteria2://c42a794a-b5dd-45aa-8092-4b6a7b888226@4896sgrs.btycloud.top:60110?peer=www.bing.com&insecure=1&alpn=h3#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1RS%E7%9B%B4%E9%80%A3
+vless://OmM0MmE3OTRhLWI1ZGQtNDVhYS04MDkyLTRiNmE3Yjg4ODIyNkA0ODk2c2dycy5idHljbG91ZC50b3A6NTExMjE?remarks=%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1RS%E5%8A%A0%E5%AF%86&tls=1&peer=apple.com&xtls=2&pbk=21qo-4UIaJIpV-a5TWI0YqGt7ptrODckcn6-9KXuE2Q&sid=bf917077
+hysteria2://98041b3a-e151-40fa-844d-5483ed4cee1b@4896sgl2.btycloud.top:61267?peer=iosapps.itunes.apple.com&insecure=1&mport=60000-65530#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1AWS%E7%9B%B4%E9%80%A3
+vless://Ojk4MDQxYjNhLWUxNTEtNDBmYS04NDRkLTU0ODNlZDRjZWUxYkA0ODk2c2dsMS5idHljbG91ZC50b3A6Mzk2NDU?remarks=%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1AWS%E5%8A%A0%E5%AF%86&tls=1&peer=iosapps.itunes.apple.com&xtls=2&pbk=x7VqpFP7_PrY4ebNw8hi8Ec5Tm5Upmt5JOdrN1M9VnQ&sid=2b3b0b93
+
+//TW
+hysteria2://433a2aff-3724-4949-99de-9c497c4d111e@4896twf2.btycloud.top:60110?peer=www.bing.com&insecure=1&alpn=h3#%F0%9F%87%B9%F0%9F%87%BCTW%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1%E7%9B%B4%E9%80%A3
+vless://OjQzM2EyYWZmLTM3MjQtNDk0OS05OWRlLTljNDk3YzRkMTExZUA0ODk2dHdmMi5idHljbG91ZC50b3A6NTExMjE?remarks=%F0%9F%87%B9%F0%9F%87%BCTW%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1%E5%8A%A0%E5%AF%86&tls=1&peer=apple.com&xtls=2&pbk=eptZu09jgUG6--Z5r1RogUOzR2S1xhRxfKpLSB5rUnM&sid=2f4c5551
+hysteria2://98041b3a-e151-40fa-844d-5483ed4cee1b@4896twl2.btycloud.top:64720?peer=bilibili-tw.biliimg.com&insecure=1&mport=60000-65530#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E7%81%A3AWS%E7%9B%B4%E9%80%A3
+vless://Ojk4MDQxYjNhLWUxNTEtNDBmYS04NDRkLTU0ODNlZDRjZWUxYkA0ODk2dHdsMS5idHljbG91ZC50b3A6NDQz?remarks=%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E7%81%A3AWS%E5%8A%A0%E5%AF%86&tls=1&peer=download-porter.hoyoverse.com&xtls=2&pbk=a9I2uA3NNZA6uBAe3Tui9vZ8CG5MrMaYOifWrAdc0zg&sid=a8609be8
+
+//JP
+hysteria2://fef9ced4-62fd-4e9f-a149-d6c39c76e0a7@4896jpf1.btycloud.top:60110?peer=www.bing.com&insecure=1&alpn=h3#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%ACNetLab%E7%9B%B4%E9%80%A3
+vless://OmZlZjljZWQ0LTYyZmQtNGU5Zi1hMTQ5LWQ2YzM5Yzc2ZTBhN0A0ODk2anBmMS5idHljbG91ZC50b3A6NTExMjE?remarks=%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%ACNetLab%E5%8A%A0%E5%AF%86&tls=1&peer=apple.com&xtls=2&pbk=XPpcD_kscTXBXF63SPKD3dd40XjlyCCRGX49mCTUIH8&sid=64f01dc3
+vless://Ojk4MDQxYjNhLWUxNTEtNDBmYS04NDRkLTU0ODNlZDRjZWUxYkA0ODk2anBsMS5idHljbG91ZC50b3A6MjU0ODU?remarks=%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%ACAWS%E5%8A%A0%E5%AF%86&tls=1&peer=www.apple.com.cn&xtls=2&pbk=VOFSjjWT0wIH3Q0ntyEZd8WwksrIAb5gPt_3PBnEASg&sid=9c5b8c53
 
 
-vmess://YXV0bzo0NTk3YWFhZi0wZDgyLTRjZDAtYjc1NS0wOTY5MWE4Yzc1ZjFAb3BlbmFpLmNvbTo0NDM?path=/4597aaaf-0d82-4cd0-b755-09691a8c75f1-vm&remarks=%F0%9F%87%B9%F0%9F%87%BCTW%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1%E5%84%AA%E9%81%B8&obfsParam=4896twf2cf.btycloud.top&obfs=websocket&tls=1&peer=4896twf2cf.btycloud.top&alterId=0
-vless://98041b3a-e151-40fa-844d-5483ed4cee1b@aws-link27.liangxin1.xyz:443?security=tls&flow=xtls-rprx-vision&type=tcp&sni=download-porter.hoyoverse.com&encryption=none&headerType=none#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E7%81%A3AWS%E5%8A%A0%E5%AF%86
-hysteria2://aws-linkhy23.liangxin1.xyz:65454/?insecure=1#🇹🇼TW台灣AWS直連
+//KR
+hysteria2://98041b3a-e151-40fa-844d-5483ed4cee1b@4896krl1.btycloud.top:63988?peer=bilibili-kr.biliimg.com&insecure=1&mport=60000-65530#%F0%9F%87%B0%F0%9F%87%B7KR%E5%8D%97%E9%9F%93AWS%E7%9B%B4%E9%80%A3
+
+//HK
+hysteria2://98041b3a-e151-40fa-844d-5483ed4cee1b@4896hkl2.btycloud.top:63910?peer=iosapps.itunes.apple.com&insecure=1&mport=60000-65530#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AFAWS%E7%9B%B4%E9%80%A3
+vless://Ojk4MDQxYjNhLWUxNTEtNDBmYS04NDRkLTU0ODNlZDRjZWUxYkA0ODk2aGtsMS5idHljbG91ZC50b3A6Mjc3NTg?remarks=%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AFAWS%E5%8A%A0%E5%AF%86&tls=1&peer=www.lamer.com.hk&xtls=2&pbk=EYa4ic3GAxqznV61U-OOww-WKsu5wuQQptyS3fw7czM&sid=c50db39f
 
 
-vless://69b3d668-5b8d-4453-a8f0-3f985d314536@47.79.150.41:51121?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=AlPvDxWlvsymlnzW0NVJhj2SZpNR8Exzb5Fj0-0wySg&sid=832f98f0&type=tcp&headerType=none#vl-reality-vision-s917935
-hysteria2://69b3d668-5b8d-4453-a8f0-3f985d314536@47.79.150.41:60110?security=tls&alpn=h3&insecure=1&sni=www.bing.com#hy2-s917935
-vless://OjY5YjNkNjY4LTViOGQtNDQ1My1hOGYwLTNmOTg1ZDMxNDUzNkA0Ny43OS4xNTAuNDE6NTExMjI?remarks=%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC%E9%A6%AC%E9%9B%B2%E5%8A%A0%E5%AF%86&tls=1&peer=apple.com&xtls=2&pbk=AlPvDxWlvsymlnzW0NVJhj2SZpNR8Exzb5Fj0-0wySg&sid=832f98f0
+//US
+vless://Ojk4MDQxYjNhLWUxNTEtNDBmYS04NDRkLTU0ODNlZDRjZWUxYkA0ODk2dXNsMS5idHljbG91ZC50b3A6NDQz?path=/liangxin/us&remarks=%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9C%8BAWS%E5%8A%A0%E5%AF%86&obfsParam=lx-us1.lxy1015.top&obfs=websocket&tls=1&peer=lx-us1.lxy1015.top
 
 
 
@@ -33,12 +45,4 @@ vless://OjY5YjNkNjY4LTViOGQtNDQ1My1hOGYwLTNmOTg1ZDMxNDUzNkA0Ny43OS4xNTAuNDE6NTEx
 
 
 
-vless://Ojk4MDQxYjNhLWUxNTEtNDBmYS04NDRkLTU0ODNlZDRjZWUxYkA0ODk2aGtsMS5idHljbG91ZC50b3A6Mjc3NTg?remarks=%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AFAWS%E5%8A%A0%E5%AF%86&tls=1&peer=www.lamer.com.hk&xtls=2&pbk=EYa4ic3GAxqznV61U-OOww-WKsu5wuQQptyS3fw7czM&sid=c50db39f
-vless://Ojk4MDQxYjNhLWUxNTEtNDBmYS04NDRkLTU0ODNlZDRjZWUxYkA0ODk2c2dsMS5idHljbG91ZC50b3A6Mzk2NDU?remarks=%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1AWS%E5%8A%A0%E5%AF%86&tls=1&peer=iosapps.itunes.apple.com&xtls=2&pbk=x7VqpFP7_PrY4ebNw8hi8Ec5Tm5Upmt5JOdrN1M9VnQ&sid=2b3b0b93
-vless://Ojk4MDQxYjNhLWUxNTEtNDBmYS04NDRkLTU0ODNlZDRjZWUxYkA0ODk2anBsMS5idHljbG91ZC50b3A6MjU0ODU?remarks=%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%ACAWS%E5%8A%A0%E5%AF%86&tls=1&peer=www.apple.com.cn&xtls=2&pbk=VOFSjjWT0wIH3Q0ntyEZd8WwksrIAb5gPt_3PBnEASg&sid=9c5b8c53
-vless://Ojk4MDQxYjNhLWUxNTEtNDBmYS04NDRkLTU0ODNlZDRjZWUxYkA0ODk2dXNsMS5idHljbG91ZC50b3A6NDQz?path=/liangxin/us&remarks=%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9C%8BAWS%E5%8A%A0%E5%AF%86&obfsParam=lx-us1.lxy1015.top&obfs=websocket&tls=1&peer=lx-us1.lxy1015.top
-vless://Ojk4MDQxYjNhLWUxNTEtNDBmYS04NDRkLTU0ODNlZDRjZWUxYkA0ODk2dHdsMS5idHljbG91ZC50b3A6NDQz?remarks=%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E7%81%A3AWS%E5%8A%A0%E5%AF%86&tls=1&peer=download-porter.hoyoverse.com&xtls=2&pbk=a9I2uA3NNZA6uBAe3Tui9vZ8CG5MrMaYOifWrAdc0zg&sid=a8609be8
-hysteria2://98041b3a-e151-40fa-844d-5483ed4cee1b@4896hkl2.btycloud.top:62255?peer=iosapps.itunes.apple.com&insecure=1&mport=60000-65530#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AFAWS%E7%9B%B4%E9%80%A3
-hysteria2://98041b3a-e151-40fa-844d-5483ed4cee1b@4896sgl2.btycloud.top:65401?peer=iosapps.itunes.apple.com&insecure=1&mport=60000-65530#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1AWS%E7%9B%B4%E9%80%A3
-hysteria2://98041b3a-e151-40fa-844d-5483ed4cee1b@4896twl2.btycloud.top:60192?peer=bilibili-tw.biliimg.com&insecure=1&mport=60000-65530#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E7%81%A3AWS%E7%9B%B4%E9%80%A3
-hysteria2://98041b3a-e151-40fa-844d-5483ed4cee1b@4896krl1.btycloud.top:60238?peer=bilibili-kr.biliimg.com&insecure=1&mport=60000-65530#%F0%9F%87%B0%F0%9F%87%B7KR%E5%8D%97%E9%9F%93AWS%E7%9B%B4%E9%80%A3
+
