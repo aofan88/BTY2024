@@ -1,9 +1,9 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash.Meta
-# 创建时间：2026-10-01 10:11:34
+# 创建时间：2026-10-15 22:22:46
 # 使用模版：V2RaySE 默认模版
-# 节点数量：14
+# 节点数量：11
 ####################################
 # !!当前配置文件请使用基于 Clash.Meta 内核程序
 mixed-port: 7890
@@ -90,16 +90,13 @@ proxies:
   - {"name":"🇸🇬SG甲骨文養老加密","type":"vless","server":"138.2.74.42","port":51121,"udp":true,"uuid":"5bc65313-6a35-4685-ba97-fe7784370c7b","tls":true,"servername":"apple.com","flow":"xtls-rprx-vision","network":"tcp","reality-opts":{"public-key":"KzpOFpz6qcVG2Cpx-_TknsCTxziWdSX9l6J6-1ZTmDU","short-id":"244b67df"},"client-fingerprint":"chrome"}
   - {"name":"🇸🇬SG新加坡RS加密","type":"vless","server":"203.174.82.118","port":51121,"udp":true,"uuid":"973deb87-fc99-4d7a-9927-f36f005ad884","tls":true,"servername":"apple.com","flow":"xtls-rprx-vision","network":"tcp","reality-opts":{"public-key":"wH7MPY1i5A-m6WJA6phgMKAztRs1MGSasEg9UBOVA0Y","short-id":"3029e407"},"client-fingerprint":"chrome"}
   - {"name":"🇸🇬SG新加坡RS2直連","type":"vless","server":"4896sgrs02.btycloud.top","port":13601,"udp":true,"uuid":"d2efd54c-258d-45e8-8da2-37154b0557a6","tls":true,"servername":"www.nazhumi.com","flow":"xtls-rprx-vision","network":"tcp","reality-opts":{"public-key":"rkV-uczwkus0DD6vlMrQigIxlsb9fLpMZF9dMNMahXo"},"client-fingerprint":"chrome"}
-  - {"name":"🇸🇬SG新加坡RS2優選","type":"vless","server":"cdns.doon.eu.org","port":443,"uuid":"d2efd54c-258d-45e8-8da2-37154b0557a6","tls":true,"servername":"pursuit-birds-produces-processors.trycloudflare.com","network":"ws","ws-opts":{"path":"/vless-argo?ed=2560"},"client-fingerprint":"chrome"}
-  - {"name":"🇹🇼TW中華電信直連 復活🧚🏻","type":"hysteria2","server":"4896twf2.btycloud.top","port":60110,"password":"fae16732-073a-4227-a722-eedee49aec5d","sni":"www.bing.com","skip-cert-verify":true}
-  - {"name":"🇹🇼TW中華電信加密 復活🧚🏻","type":"vless","server":"4896twf2.btycloud.top","port":51121,"udp":true,"uuid":"fae16732-073a-4227-a722-eedee49aec5d","tls":true,"servername":"apple.com","flow":"xtls-rprx-vision","network":"tcp","reality-opts":{"public-key":"Jv0b6CX8FmOYPYudC6szsjmFo9hqbzntXOA1-9TyaRU","short-id":"1103ff69"},"client-fingerprint":"chrome"}
-  - {"name":"🇹🇼TW中華電信優選 復活🧚🏻","type":"vmess","server":"openai.com","port":443,"cipher":"auto","uuid":"fae16732-073a-4227-a722-eedee49aec5d","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/fae16732-073a-4227-a722-eedee49aec5d-vm","headers":{"host":"4896twf2cf.btycloud.top"}}}
+  - {"name":"🇸🇬SG新加坡RS2優選","type":"vless","server":"cdns.doon.eu.org","port":443,"uuid":"d2efd54c-258d-45e8-8da2-37154b0557a6","tls":true,"servername":"pursuit-birds-produces-processors.trycloudflare.com","network":"ws","ws-opts":{"path":"/vless-argo?ed=2560"}}
+  - {"name":"🇹🇼TW中華電信1直連","type":"hysteria2","server":"202.160.76.247","port":60010,"password":"027b3aee-845e-4885-a213-f4b3dedf2635","sni":"www.bing.com","skip-cert-verify":true}
+  - {"name":"🇹🇼TW中華電信1加密","type":"vless","server":"4896twf1.btycloud.top","port":51121,"udp":true,"uuid":"027b3aee-845e-4885-a213-f4b3dedf2635","tls":true,"servername":"apple.com","flow":"xtls-rprx-vision","network":"tcp","reality-opts":{"public-key":"m4-SEGMumgfL6cwukmKZsJDg4EGRJfh4I6ZOJ3BL-zg","short-id":"8a27f139"},"client-fingerprint":"chrome"}
   - {"name":"🇯🇵JP甲骨文養老直連","type":"hysteria2","server":"4896jp.btycloud.top","port":60110,"password":"3587c701-7294-40cd-a240-c69019f22aa8","sni":"www.bing.com","skip-cert-verify":true}
   - {"name":"🇯🇵JP甲骨文養老加密","type":"vless","server":"4896jp.btycloud.top","port":51121,"udp":true,"uuid":"3587c701-7294-40cd-a240-c69019f22aa8","tls":true,"servername":"apple.com","flow":"xtls-rprx-vision","network":"tcp","reality-opts":{"public-key":"yCyhFGnxyqvgvmH6FHOUFs4YMUSGe4QFe4_z31Vb9yY","short-id":"1cc3043b"},"client-fingerprint":"chrome"}
   - {"name":"🇯🇵JP日本軟銀直連","type":"hysteria2","server":"45.129.9.73","port":60110,"password":"04028e03-0085-43ed-aee7-34021e170ed7","sni":"www.bing.com","skip-cert-verify":true}
   - {"name":"🇯🇵JP日本軟銀加密","type":"vless","server":"45.129.9.73","port":51121,"udp":true,"uuid":"04028e03-0085-43ed-aee7-34021e170ed7","tls":true,"servername":"apple.com","flow":"xtls-rprx-vision","network":"tcp","reality-opts":{"public-key":"rgFOLlCQSDMS1So3Dmuepm_yvoagcFABTSD3V8dMzBU","short-id":"be37e18c"},"client-fingerprint":"chrome"}
-  - {"name":"🇲🇾MY馬來西亞甲骨文直連","type":"hysteria2","server":"4896my01.btycloud.top","port":60110,"password":"21b0293f-28a2-488b-bedc-f43491ef1f76","sni":"www.bing.com","skip-cert-verify":true}
-  - {"name":"🇲🇾MY馬來西亞甲骨文加密","type":"vless","server":"4896my01.btycloud.top","port":51121,"udp":true,"uuid":"21b0293f-28a2-488b-bedc-f43491ef1f76","tls":true,"servername":"apple.com","flow":"xtls-rprx-vision","network":"tcp","reality-opts":{"public-key":"N11VXi5SjKiv8jAH7UnhSG9EL9XVR1mknhiDKlniY28","short-id":"df06e1c5"},"client-fingerprint":"chrome"}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -111,15 +108,12 @@ proxy-groups:
       - 🇸🇬SG新加坡RS加密
       - 🇸🇬SG新加坡RS2直連
       - 🇸🇬SG新加坡RS2優選
-      - 🇹🇼TW中華電信直連 復活🧚🏻
-      - 🇹🇼TW中華電信加密 復活🧚🏻
-      - 🇹🇼TW中華電信優選 復活🧚🏻
+      - 🇹🇼TW中華電信1直連
+      - 🇹🇼TW中華電信1加密
       - 🇯🇵JP甲骨文養老直連
       - 🇯🇵JP甲骨文養老加密
       - 🇯🇵JP日本軟銀直連
       - 🇯🇵JP日本軟銀加密
-      - 🇲🇾MY馬來西亞甲骨文直連
-      - 🇲🇾MY馬來西亞甲骨文加密
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -131,15 +125,12 @@ proxy-groups:
       - 🇸🇬SG新加坡RS加密
       - 🇸🇬SG新加坡RS2直連
       - 🇸🇬SG新加坡RS2優選
-      - 🇹🇼TW中華電信直連 復活🧚🏻
-      - 🇹🇼TW中華電信加密 復活🧚🏻
-      - 🇹🇼TW中華電信優選 復活🧚🏻
+      - 🇹🇼TW中華電信1直連
+      - 🇹🇼TW中華電信1加密
       - 🇯🇵JP甲骨文養老直連
       - 🇯🇵JP甲骨文養老加密
       - 🇯🇵JP日本軟銀直連
       - 🇯🇵JP日本軟銀加密
-      - 🇲🇾MY馬來西亞甲骨文直連
-      - 🇲🇾MY馬來西亞甲骨文加密
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -151,15 +142,12 @@ proxy-groups:
       - 🇸🇬SG新加坡RS加密
       - 🇸🇬SG新加坡RS2直連
       - 🇸🇬SG新加坡RS2優選
-      - 🇹🇼TW中華電信直連 復活🧚🏻
-      - 🇹🇼TW中華電信加密 復活🧚🏻
-      - 🇹🇼TW中華電信優選 復活🧚🏻
+      - 🇹🇼TW中華電信1直連
+      - 🇹🇼TW中華電信1加密
       - 🇯🇵JP甲骨文養老直連
       - 🇯🇵JP甲骨文養老加密
       - 🇯🇵JP日本軟銀直連
       - 🇯🇵JP日本軟銀加密
-      - 🇲🇾MY馬來西亞甲骨文直連
-      - 🇲🇾MY馬來西亞甲骨文加密
   - name: 📲 电报信息
     type: select
     proxies:
@@ -170,15 +158,12 @@ proxy-groups:
       - 🇸🇬SG新加坡RS加密
       - 🇸🇬SG新加坡RS2直連
       - 🇸🇬SG新加坡RS2優選
-      - 🇹🇼TW中華電信直連 復活🧚🏻
-      - 🇹🇼TW中華電信加密 復活🧚🏻
-      - 🇹🇼TW中華電信優選 復活🧚🏻
+      - 🇹🇼TW中華電信1直連
+      - 🇹🇼TW中華電信1加密
       - 🇯🇵JP甲骨文養老直連
       - 🇯🇵JP甲骨文養老加密
       - 🇯🇵JP日本軟銀直連
       - 🇯🇵JP日本軟銀加密
-      - 🇲🇾MY馬來西亞甲骨文直連
-      - 🇲🇾MY馬來西亞甲骨文加密
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -189,15 +174,12 @@ proxy-groups:
       - 🇸🇬SG新加坡RS加密
       - 🇸🇬SG新加坡RS2直連
       - 🇸🇬SG新加坡RS2優選
-      - 🇹🇼TW中華電信直連 復活🧚🏻
-      - 🇹🇼TW中華電信加密 復活🧚🏻
-      - 🇹🇼TW中華電信優選 復活🧚🏻
+      - 🇹🇼TW中華電信1直連
+      - 🇹🇼TW中華電信1加密
       - 🇯🇵JP甲骨文養老直連
       - 🇯🇵JP甲骨文養老加密
       - 🇯🇵JP日本軟銀直連
       - 🇯🇵JP日本軟銀加密
-      - 🇲🇾MY馬來西亞甲骨文直連
-      - 🇲🇾MY馬來西亞甲骨文加密
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -208,15 +190,12 @@ proxy-groups:
       - 🇸🇬SG新加坡RS加密
       - 🇸🇬SG新加坡RS2直連
       - 🇸🇬SG新加坡RS2優選
-      - 🇹🇼TW中華電信直連 復活🧚🏻
-      - 🇹🇼TW中華電信加密 復活🧚🏻
-      - 🇹🇼TW中華電信優選 復活🧚🏻
+      - 🇹🇼TW中華電信1直連
+      - 🇹🇼TW中華電信1加密
       - 🇯🇵JP甲骨文養老直連
       - 🇯🇵JP甲骨文養老加密
       - 🇯🇵JP日本軟銀直連
       - 🇯🇵JP日本軟銀加密
-      - 🇲🇾MY馬來西亞甲骨文直連
-      - 🇲🇾MY馬來西亞甲骨文加密
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -244,15 +223,12 @@ proxy-groups:
       - 🇸🇬SG新加坡RS加密
       - 🇸🇬SG新加坡RS2直連
       - 🇸🇬SG新加坡RS2優選
-      - 🇹🇼TW中華電信直連 復活🧚🏻
-      - 🇹🇼TW中華電信加密 復活🧚🏻
-      - 🇹🇼TW中華電信優選 復活🧚🏻
+      - 🇹🇼TW中華電信1直連
+      - 🇹🇼TW中華電信1加密
       - 🇯🇵JP甲骨文養老直連
       - 🇯🇵JP甲骨文養老加密
       - 🇯🇵JP日本軟銀直連
       - 🇯🇵JP日本軟銀加密
-      - 🇲🇾MY馬來西亞甲骨文直連
-      - 🇲🇾MY馬來西亞甲骨文加密
 
 rules:
 # 本地/局域网地址
